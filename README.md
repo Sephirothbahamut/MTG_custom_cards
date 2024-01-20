@@ -2,7 +2,6 @@
 
 category_name: 
 	\[category_name\].mse-set  *Magic Set Editor set file*
-	\[category_name\]-ita.mse-set  *Italian version of the Magic Set Editor set file*
 	images:
 		source:
 			*Source images used for cards in this category*
