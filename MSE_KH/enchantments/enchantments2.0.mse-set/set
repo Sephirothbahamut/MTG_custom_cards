@@ -1,0 +1,374 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2020-04-25
+stylesheet: genevensis-10-saga
+stylesheet_version: 2022-02-22
+set_info:
+	symbol: 
+	masterpiece_symbol: 
+styling:
+	magic-genevensis-00-main:
+		watermark: weapons/xblade.png
+		watermark_opacity_percentage: 20
+		land_leaf: if land
+		symbol: artifact
+		casting_cost_mana_symbols: magic-mana-genevensis-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-genevensis-small.mse-symbol-font
+	magic-genevensis-10-saga:
+		font_size: 22
+		center_name: no
+		textboxes: four
+		snap_chapter_to_box: 2, 3, 4
+		move_textbox_bottoms: 
+		extended_art: no
+		symbol: enchantment
+		illustrator_text_color: rgb(255,255,255)
+		casting_cost_mana_symbols: magic-mana-genevensis-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-genevensis-small.mse-symbol-font
+	magic-genevensis-20-battle:
+		text_color: rgb(255,255,255)
+		textbox_color: rgb(0,0,0)
+		extended_art: if land
+		watermark: weapons/xblade_w.png
+		watermark_opacity_percentage: 20
+		transformation_reminder: notch
+		force_left_color: none
+		casting_cost_mana_symbols: magic-mana-genevensis-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-genevensis-small.mse-symbol-font
+	magic-genevensis-70-token:
+		casting_cost_mana_symbols: magic-mana-genevensis-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-genevensis-small.mse-symbol-font
+	magic-m15-clear:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-future:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-godzilla:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-grayscale:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-dfc:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+card:
+	stylesheet: genevensis-10-saga
+	stylesheet_version: 2022-02-22
+	has_styling: false
+	notes: 
+	time_created: 2024-01-08 21:48:48
+	time_modified: 2024-01-16 00:30:04
+	extra_data:
+		magic-m15-mainframe-dfc: corner: specialize triangle
+	name: Valor Form
+	casting_cost: 1GG
+	image: image7
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment> <word-list-enchantment>Aura</word-list-enchantment><soft> </soft><word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Valor Form</nospellcheck></atom-cardname> is a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Keyblade</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> when equipped to a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Keyblade</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>-Wielder.
+		Equipped creature has <kw-1><nospellcheck>first strike</nospellcheck>.<atom-reminder-core> <i-auto>(That creature deals combat damage before creatures without first strike.)</i-auto></atom-reminder-core></kw-1>
+		<kw-a><nospellcheck>Equip <param-cost><sym-auto>1</sym-auto></param-cost></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: Kingdom Hearts factions Keyblade (gradient)
+	level_1_text:
+		<kw-A><nospellcheck>Fusion <param-number>1</param-number></nospellcheck><atom-reminder-custom> <i-auto>(In addition to the cost of this spell, exile <param-number>1</param-number> creatures you control. When this card leaves the field, return the exiled creatures under their owner’s control.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-a><nospellcheck>Enchant <param-name>creature</param-name></nospellcheck></kw-a>.
+	level_2_text: Put two +1/+1 counter on the enchanted creature.
+	level_3_text: Valor Form gains “Enchanted creature has double attack.”
+	level_4_text: The enchanted creature gets <kw-a><nospellcheck>reach</nospellcheck></kw-a>. 
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	copyright: 
+	card_color_2: artifact
+	name_2: χ-Blade
+	image_2: image8
+	super_type_2: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	sub_type_2: <word-list-artifact>Equipment</word-list-artifact><soft> </soft><word-list-artifact></word-list-artifact>
+	indicator_2: artifact
+	power_2: 
+	toughness_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: genevensis-10-saga
+	stylesheet_version: 2022-02-22
+	has_styling: false
+	notes: 
+	time_created: 2024-01-08 21:48:48
+	time_modified: 2024-01-16 00:30:56
+	extra_data:
+		magic-m15-mainframe-dfc: corner: specialize triangle
+	name: Wisdom Form
+	casting_cost: 1UR
+	image: image11
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment> <word-list-enchantment>Aura</word-list-enchantment><soft> </soft><word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Wisdom Form</nospellcheck></atom-cardname> is a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Keyblade</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> when equipped to a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Keyblade</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>-Wielder.
+		Equipped creature has <kw-1><nospellcheck>first strike</nospellcheck>.<atom-reminder-core> <i-auto>(That creature deals combat damage before creatures without first strike.)</i-auto></atom-reminder-core></kw-1>
+		<kw-a><nospellcheck>Equip <param-cost><sym-auto>1</sym-auto></param-cost></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: Kingdom Hearts factions Keyblade (gradient)
+	level_1_text:
+		<kw-A><nospellcheck>Fusion <param-number>1</param-number></nospellcheck><atom-reminder-custom> <i-auto>(In addition to the cost of this spell, exile <param-number>1</param-number> creatures you control. When this card leaves the field, return the exiled creatures under their owner’s control.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-a><nospellcheck>Enchant <param-name>creature</param-name></nospellcheck></kw-a>.
+	level_2_text: <atom-cardname><nospellcheck>Wisdom Form</nospellcheck></atom-cardname> gains “Enchanted creature has <kw-a><nospellcheck>reach</nospellcheck></kw-a>, <kw-0><nospellcheck>triple strike</nospellcheck></kw-0>, and -2/+0”.
+	level_3_text: <atom-cardname><nospellcheck>Wisdom Form</nospellcheck></atom-cardname> gains “Whenever you cast an instant or sorcery spell, copy it.”
+	level_4_text: Enchanted creature gets <kw-0><nospellcheck>flanking</nospellcheck></kw-0>.
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	copyright: 
+	card_color_2: artifact
+	name_2: χ-Blade
+	image_2: image14
+	super_type_2: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	sub_type_2: <word-list-artifact>Equipment</word-list-artifact><soft> </soft><word-list-artifact></word-list-artifact>
+	indicator_2: artifact
+	power_2: 
+	toughness_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: genevensis-10-saga
+	stylesheet_version: 2022-02-22
+	has_styling: true
+	styling_data:
+		font_size: 22
+		center_name: no
+		textboxes: two
+		snap_chapter_to_box: 2, 3, 4
+		move_textbox_bottoms: 
+		extended_art: no
+		symbol: enchantment
+		illustrator_text_color: rgb(255,255,255)
+		casting_cost_mana_symbols: magic-mana-genevensis-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-genevensis-small.mse-symbol-font
+	notes: 
+	time_created: 2024-01-08 21:48:48
+	time_modified: 2024-01-16 00:36:45
+	extra_data:
+		magic-m15-mainframe-dfc: corner: specialize triangle
+	name: Limit Form
+	casting_cost: 2WW
+	image: image9
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment> <word-list-enchantment>Aura</word-list-enchantment><soft> </soft><word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Limit Form</nospellcheck></atom-cardname> is a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Keyblade</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> when equipped to a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Keyblade</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>-Wielder.
+		Equipped creature has <kw-1><nospellcheck>first strike</nospellcheck>.<atom-reminder-core> <i-auto>(That creature deals combat damage before creatures without first strike.)</i-auto></atom-reminder-core></kw-1>
+		<kw-a><nospellcheck>Equip <param-cost><sym-auto>1</sym-auto></param-cost></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: Kingdom Hearts factions Keyblade (gradient)
+	level_1_text:
+		<kw-a><nospellcheck>Enchant <param-name>creature</param-name></nospellcheck></kw-a>.
+		Whenever an action-ability deals damage, gain that much life.
+	level_2_text:
+		You may search your library and/or graveyard for an action-ability.
+		You may cast action-ability spells without playing their mana cost..
+	level_3_text: The enchanted creature gains unblockable.
+	level_4_text: The enchanted creature gets: 
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	copyright: 
+	card_color_2: artifact
+	name_2: χ-Blade
+	image_2: image10
+	super_type_2: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	sub_type_2: <word-list-artifact>Equipment</word-list-artifact><soft> </soft><word-list-artifact></word-list-artifact>
+	indicator_2: artifact
+	power_2: 
+	toughness_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: genevensis-10-saga
+	stylesheet_version: 2022-02-22
+	has_styling: false
+	notes: 
+	time_created: 2024-01-08 21:48:48
+	time_modified: 2024-01-16 00:41:15
+	extra_data:
+		magic-m15-mainframe-dfc: corner: specialize triangle
+	name: Master Form
+	casting_cost: 2W/U/B/R/GW/U/B/R/G
+	image: image1
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment> <word-list-enchantment>Aura</word-list-enchantment><soft> </soft><word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Master Form</nospellcheck></atom-cardname> is a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Keyblade</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> when equipped to a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Keyblade</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>-Wielder.
+		Equipped creature has <kw-1><nospellcheck>first strike</nospellcheck>.<atom-reminder-core> <i-auto>(That creature deals combat damage before creatures without first strike.)</i-auto></atom-reminder-core></kw-1>
+		<kw-a><nospellcheck>Equip <param-cost><sym-auto>1</sym-auto></param-cost></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: Kingdom Hearts factions Keyblade (gradient)
+	level_1_text:
+		<kw-A><nospellcheck>Fusion <param-number>2</param-number></nospellcheck><atom-reminder-custom> <i-auto>(In addition to the cost of this spell, exile <param-number>2</param-number> creatures you control. When this card leaves the field, return the exiled creatures under their owner’s control.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-a><nospellcheck>Enchant <param-name>creature</param-name></nospellcheck></kw-a>.
+	level_2_text: Master Form gains “Enchanted creature has <kw-a><nospellcheck>vigilance</nospellcheck></kw-a>.”
+	level_3_text: Master Form gains “Enchanted creature has <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>prowless</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.”
+	level_4_text: Put three +1/+1 counter on the enchanted creature.
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	copyright: 
+	card_color_2: artifact
+	name_2: χ-Blade
+	image_2: image2
+	super_type_2: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	sub_type_2: <word-list-artifact>Equipment</word-list-artifact><soft> </soft><word-list-artifact></word-list-artifact>
+	indicator_2: artifact
+	power_2: 
+	toughness_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-01-08 21:48:48
+	time_modified: 2024-01-16 00:44:29
+	extra_data:
+		magic-m15-mainframe-dfc: corner: specialize triangle
+	name: Final Form
+	casting_cost: 3WW
+	image: image12
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment> <word-list-enchantment>Aura</word-list-enchantment><soft> </soft><word-list-enchantment></word-list-enchantment>
+	rarity: mythic rare
+	rule_text:
+		<atom-cardname><nospellcheck>Final Form</nospellcheck></atom-cardname> is a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Keyblade</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> when equipped to a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Keyblade</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>-Wielder.
+		Equipped creature has <kw-1><nospellcheck>first strike</nospellcheck>.<atom-reminder-core> <i-auto>(That creature deals combat damage before creatures without first strike.)</i-auto></atom-reminder-core></kw-1>
+		<kw-a><nospellcheck>Equip <param-cost><sym-auto>1</sym-auto></param-cost></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: Kingdom Hearts factions Keyblade (gradient)
+	level_1_text:
+		<kw-A><nospellcheck>Fusion <param-number>2</param-number></nospellcheck><atom-reminder-custom> <i-auto>(In addition to the cost of this spell, exile <param-number>2</param-number> creatures you control. When this card leaves the field, return the exiled creatures under their owner’s control.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-a><nospellcheck>Enchant <param-name>creature</param-name></nospellcheck></kw-a>.
+	level_2_text: Final Form gains “Enchanted creature has <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>indistructible</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.”
+	level_3_text: Final Form gains “Enchanted creature has +X/+X where X is the number of Enchantment - Saga Aura in your graveyard.”
+	level_4_text: The enchanted creature gets <kw-a><nospellcheck>flying</nospellcheck></kw-a>.
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	copyright: 
+	card_color_2: artifact
+	name_2: χ-Blade
+	image_2: image4
+	super_type_2: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	sub_type_2: <word-list-artifact>Equipment</word-list-artifact><soft> </soft><word-list-artifact></word-list-artifact>
+	indicator_2: artifact
+	power_2: 
+	toughness_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: genevensis-10-saga
+	stylesheet_version: 2022-02-22
+	has_styling: true
+	styling_data:
+		font_size: 22
+		center_name: no
+		textboxes: four
+		snap_chapter_to_box: 2, 3,
+		move_textbox_bottoms: 
+		extended_art: no
+		symbol: enchantment
+		illustrator_text_color: rgb(255,255,255)
+		casting_cost_mana_symbols: magic-mana-genevensis-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-genevensis-small.mse-symbol-font
+	notes: 
+	time_created: 2024-01-08 21:48:48
+	time_modified: 2024-01-16 00:40:36
+	extra_data:
+		magic-m15-mainframe-dfc: corner: specialize triangle
+	name: Anti Form
+	casting_cost: 1BBB
+	image: image15
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment> <word-list-enchantment>Aura</word-list-enchantment><soft> </soft><word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Anti Form</nospellcheck></atom-cardname> is a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Keyblade</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> when equipped to a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Keyblade</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>-Wielder.
+		Equipped creature has <kw-1><nospellcheck>first strike</nospellcheck>.<atom-reminder-core> <i-auto>(That creature deals combat damage before creatures without first strike.)</i-auto></atom-reminder-core></kw-1>
+		<kw-a><nospellcheck>Equip <param-cost><sym-auto>1</sym-auto></param-cost></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: Kingdom Hearts factions Keyblade (gradient)
+	level_1_text:
+		<kw-A><nospellcheck>Fusion <param-number>2</param-number></nospellcheck><atom-reminder-custom> <i-auto>(In addition to the cost of this spell, exile <param-number>2</param-number> creatures you control. When this card leaves the field, return the exiled creatures under their owner’s control.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-a><nospellcheck>Enchant <param-name>creature</param-name></nospellcheck></kw-a>.
+	level_2_text: Exile an <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Encantment</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>-Saga Aura from hand or graveyard, destroy all 3 or less cost  opponent creatures on battlefield. 
+	level_3_text: The enchanted creature has +X/+X where X is your <kw-A><nospellcheck>devotion to <param-one_word>black</param-one_word></nospellcheck>.<atom-reminder-action> <i-auto>(Each <param-one_word><sym>B</sym></param-one_word> in the mana costs of permanents you control counts toward your devotion to <param-one_word>black</param-one_word>.)</i-auto></atom-reminder-action></kw-A>
+	level_4_text: 
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	copyright: 
+	card_color_2: artifact
+	name_2: χ-Blade
+	image_2: image6
+	super_type_2: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	sub_type_2: <word-list-artifact>Equipment</word-list-artifact><soft> </soft><word-list-artifact></word-list-artifact>
+	indicator_2: artifact
+	power_2: 
+	toughness_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-01-15 23:16:27
+	time_modified: 2024-01-16 00:46:40
+	name: Books of profecy
+	casting_cost: WU
+	image: image13
+	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment><soft> </soft><word-list-enchantment></word-list-enchantment>
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: <i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+	level_2_text: Put a card from your graveyard to your library.
+	level_3_text: <kw-a><nospellcheck>Scry <param-number>1</param-number></nospellcheck></kw-a> then draw a card.
+	level_4_text: Put a card from your graveyard to the battlefield, exile it at end of turn.
+	card_code_text: 
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+keyword:
+	keyword: Fusion
+	match: Fusion <atom-param>number</atom-param>
+	reminder: In addition to the cost of this spell, exile {param1} creatures you control. When this card leaves the field, return the exiled creatures under their owner’s control.
+	rules: 
+	mode: custom
+version_control:
+	type: none
+apprentice_code: 
