@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name>KH-Other</name>
+			<longname>KH-Other</longname>
+			<settype>KH-Other</settype>
+		</set>
+	</sets>
+	<cards>
+
+		<card>
+			<name>Treasure</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Artifact - Treasure </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>{T}: Sacrifice this artifact: Add one mana of any color to your mana pool.</text>
+		</card>
+		<card>
+			<name>Data Twilight Town</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>{T}: Add {C}.</text>
+		</card>
+		<card>
+			<name>Treasure</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Artifact - Treasure </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>{T}: Sacrifice this artifact: Add one mana of any color to your mana pool.</text>
+		</card>
+		<card>
+			<name>The Monarch</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Designation</type>
+				<maintype>Designation</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>At the beginning of your end step, draw a card.
+Whenever a creature deals combat damage to you, its controller becomes the monarch. </text>
+		</card>
+		<card>
+			<name>Cornerstone of Light</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Chose two —
+• Add {W}.
+• Add {G}.
+• Add {R}.
+• Add {U}.</text>
+		</card>
+		<card>
+			<name>The Loser</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Designation</type>
+				<maintype>Designation</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>During your upkeep discard a card.
+Whenever a creature you control deals combat damage to an opponent, that opponent becomes the loser. </text>
+		</card>
+		<card>
+			<name>Animals</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Creature - Bird Rabbit Squirrel Turtle Army </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Soldier</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>R</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Creature - Soldier </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Gigas</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Creature - Robot </type>
+				<maintype>Creature</maintype>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Davy Jones&apos;s Heart</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>When this token leaves the field exile Davy Jones.</text>
+		</card>
+		<card>
+			<name>Zombie Pirates</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Creature - Zombie Pirate Army </type>
+				<maintype>Creature</maintype>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Iago &amp; the Black Lamp</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Artifact Creature</type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+When this token leaves the field exile Jafar, the Genie.</text>
+		</card>
+		<card>
+			<name>Soldier</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Creature - Soldier </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Soldier</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>R</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Creature - Soldier </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Barrel</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Artifact Creature</type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Spirit</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Creature - Spirit </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+
+		<!-->Tokens</-->
+
+
+	</cards>
+</cockatrice_carddatabase>

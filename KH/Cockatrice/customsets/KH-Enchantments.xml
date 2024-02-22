@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name>KH-Enchantments</name>
+			<longname>KH-Enchantments</longname>
+			<settype>KH-Enchantments</settype>
+		</set>
+	</sets>
+	<cards>
+
+		<card>
+			<name>Valor Form</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<type>Enchantment - Saga Aura	// Legendary Artifact - Equipment </type>
+				<maintype>Enchantment</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Fusion 1 (In addition to the cost of this spell, exile 1 creatures you control. When this card leaves the field, return the exiled creatures under their owner’s control.)
+Enchant creature.
+I: Put two +1/+1 counter on the enchanted creature.
+II: Valor Form gains “Enchanted creature has double attack.”
+III: The enchanted creature gets reach. </text>
+		</card>
+		<card>
+			<name>Wisdom Form</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>M</colors>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<type>Enchantment - Saga Aura	// Legendary Artifact - Equipment </type>
+				<maintype>Enchantment</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Fusion 1 (In addition to the cost of this spell, exile 1 creatures you control. When this card leaves the field, return the exiled creatures under their owner’s control.)
+Enchant creature.
+I: Wisdom Form gains “Enchanted creature has reach, triple strike, and -2/+0”.
+II: Wisdom Form gains “Whenever you cast an instant or sorcery spell, copy it.”
+III: Enchanted creature gets flanking.</text>
+		</card>
+		<card>
+			<name>Limit Form</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<type>Enchantment - Saga Aura	// Legendary Artifact - Equipment </type>
+				<maintype>Enchantment</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Enchant creature.
+Whenever an action-ability deals damage, gain that much life.
+I, II, III: You may search your library and/or graveyard for an action-ability.
+You may cast action-ability spells without playing their mana cost.</text>
+		</card>
+		<card>
+			<name>Master Form</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>M</colors>
+				<manacost>2W/U/B/R/GW/U/B/R/G</manacost>
+				<cmc>4</cmc>
+				<type>Enchantment - Saga Aura	// Legendary Artifact - Equipment </type>
+				<maintype>Enchantment</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Fusion 2 (In addition to the cost of this spell, exile 2 creatures you control. When this card leaves the field, return the exiled creatures under their owner’s control.)
+Enchant creature.
+I: Master Form gains “Enchanted creature has vigilance.”
+II: Master Form gains “Enchanted creature has prowess.”
+III: Put three +1/+1 counter on the enchanted creature.</text>
+		</card>
+		<card>
+			<name>Final Form</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<type>Enchantment - Saga Aura	// Legendary Artifact - Equipment </type>
+				<maintype>Enchantment</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Fusion 2 (In addition to the cost of this spell, exile 2 creatures you control. When this card leaves the field, return the exiled creatures under their owner’s control.)
+Enchant creature.
+I: Final Form gains “Enchanted creature has indestructible.”
+II: Final Form gains “Enchanted creature has +X/+X where X is the number of Enchantment - Saga Aura in your graveyard.”
+III: The enchanted creature gets flying.</text>
+		</card>
+		<card>
+			<name>Anti Form</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>1BBB</manacost>
+				<cmc>4</cmc>
+				<type>Enchantment - Saga Aura	// Legendary Artifact - Equipment </type>
+				<maintype>Enchantment</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Fusion 2 (In addition to the cost of this spell, exile 2 creatures you control. When this card leaves the field, return the exiled creatures under their owner’s control.)
+Enchant creature.
+I: Exile an Enchantment-Saga Aura from hand or graveyard, destroy all creatures opponents control with mana value 2 or less.
+II, III: The enchanted creature has +X/+X where X is your devotion to black. (Each B in the mana costs of permanents you control counts toward your devotion to black.)</text>
+		</card>
+		<card>
+			<name>Books of profecy</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WU</colors>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<type>Legendary Enchantment - Saga </type>
+				<maintype>Enchantment</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Foresight </name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>I: Put a card from your graveyard to your library.
+II: Scry 1 then draw a card.
+III: Put a card from your graveyard to the battlefield, exile it at end of turn.</text>
+		</card>
+		<card>
+			<name>Unleash the Darkness</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<type>Enchantment - Aura </type>
+				<maintype>Enchantment</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Enchant creature
+Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Enchanted creature gets +3/+3 for each age counter on Unleash the Darkness.</text>
+		</card>
+		<card>
+			<name>Character Selection</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Creatures you control have cycling {2}. ({2}, Discard this card: Draw a card.)</text>
+		</card>
+		<card>
+			<name>Save Point</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>{T}: Add one mana of any color.
+{T}: Regenerate target creature.
+{7}, {T}: Note your life total.
+{3}, sacrifice Save Point, {T}: Your life total become equal the noted life total.</text>
+		</card>
+
+	</cards>
+</cockatrice_carddatabase>

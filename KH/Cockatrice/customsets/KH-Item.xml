@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name>KH-Item</name>
+			<longname>KH-Item</longname>
+			<settype>KH-Item</settype>
+		</set>
+	</sets>
+	<cards>
+
+		<card>
+			<name>Potion</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Artifact // Legendary Artifact - Equipment </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Drop (When a card you control destroys a creature, toss a coin. If you call it right, return a random artifact with Drop from your graveyard to the battlefield tapped.)
+{T}: Sacrifice Potion, then chose one — 
+ • Regenerate target
+ • Gain 1 life.</text>
+		</card>
+		<card>
+			<name>Mega-Potion</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Artifact // Legendary Artifact - Equipment </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Drop (When a card you control destroys a creature, toss a coin. If you call it right, return a random artifact with Drop from your graveyard to the battlefield tapped.)
+{T}: Sacrifice Mega-Potion, then chose one — 
+ • Regenerate target creature twice.
+ • Gain 5 life.</text>
+		</card>
+		<card>
+			<name>Ether</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Artifact // Legendary Artifact - Equipment </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Drop (When a card you control destroys a creature, toss a coin. If you call it right, return a random artifact with Drop from your graveyard to the battlefield tapped.)
+{T}: Sacrifice Ether. Return up to 1 instant or sorcery spell from your graveyard to your hand.</text>
+		</card>
+		<card>
+			<name>Mega-Ether</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Artifact // Legendary Artifact - Equipment </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Drop (When a card you control destroys a creature, roll a D20. If the result was 11 or higher, return a random artifacts with Drop from your graveyard to the battlefield tapped.) (When a card you control destroys a creature, toss a coin. If you call it right, return a random artifact with Drop from your graveyard to the battlefield tapped.)
+{T}: Sacrifice Mega-Ether. Return up to 2 instant or sorcery spells from your graveyard to your hand.</text>
+		</card>
+		<card>
+			<name>Elixir</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Artifact // Legendary Artifact - Equipment </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Drop (When a card you control destroys a creature, toss a coin. If you call it right, return a random artifact with Drop from your graveyard to the battlefield tapped.)
+{T}: Sacrifice Elixir. Regenerate target creature. Gain 1 life. Return up to 1 instant or sorcery spell from your graveyard to your hand.</text>
+		</card>
+		<card>
+			<name>Mega-Elixir</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors></colors>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<type>Artifact // Legendary Artifact - Equipment </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Drop (When a card you control destroys a creature, toss a coin. If you call it right, return a random artifact with Drop from your graveyard to the battlefield tapped.)
+{T}: Sacrifice Mega-Elixir. Regenerate target creature twice. Gain 5 life. Return up to 2 instant or sorcery spells from your graveyard to your hand.</text>
+		</card>
+		<card>
+			<name>AP Up</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Artifact // Legendary Artifact - Equipment </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Drop (When a card you control destroys a creature, toss a coin. If you call it right, return a random artifact with Drop from your graveyard to the battlefield tapped.)
+{T}: Sacrifice AP Up. Target creature gains an AP counter. (Activated abilities of this creature cost {1} less per each AP counter on it.)</text>
+		</card>
+		<card>
+			<name>Power Up</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Artifact // Legendary Artifact - Equipment </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Drop (When a card you control destroys a creature, toss a coin. If you call it right, return a random artifact with Drop from your graveyard to the battlefield tapped.)
+{T}: Sacrifice Power Up. Target creature gains a +1/+0 counter.</text>
+		</card>
+		<card>
+			<name>Defense Up</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Artifact // Legendary Artifact - Equipment </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Drop (When a card you control destroys a creature, toss a coin. If you call it right, return a random artifact with Drop from your graveyard to the battlefield tapped.)
+{T}: Sacrifice Defense Up. Target creature gains a +0/+1 counter.</text>
+		</card>
+		<card>
+			<name>Crafting Recipe</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Artifact // Legendary Artifact - Equipment </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>When Crafting Recipe enters the battlefield, exile an Artifact card from your deck.
+When a card you control destroys a creature, create a Crafting Ingredient artifact token.
+{T}: Sacrifice Crafting Recipe and 4 Crafting Ingredient tokens. Return the exiled card to the battlefield.</text>
+		</card>
+		<card>
+			<name>Limit Recharge - Drive Recovery</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Artifact // Legendary Artifact - Equipment </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Drop (When a card you control destroys a creature, toss a coin. If you call it right, return a random artifact with Drop from your graveyard to the battlefield tapped.)
+{T}: Sacrifice Limit Recharge - Drive Recovery, then chose one — 
+ • Remove 1 limit break counter from target creature.
+ • Return a fusion enchantment from your graveyard to your hand.</text>
+		</card>
+		<card>
+			<name>Limit Pass</name>
+			<set rarity=""></set>
+			<prop>
+				<colors>M</colors>
+				<manacost>99</manacost>
+				<cmc>99</cmc>
+				<type>Legendary Artifact // Legendary Artifact - Equipment </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>If you killed 2 opponent this turn you may play this card without paying its mana cost.
+{T}: Sacrifice Limit Pass. Create an Emblem with “Creatures you control have infinite Limit Break counters.”.</text>
+		</card>
+		<card>
+			<name>Munny</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<type>Artifact // Legendary Artifact - Equipment </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Drop (When a card you control destroys a creature, toss a coin. If you call it right, return a random artifact with Drop from your graveyard to the battlefield tapped.)
+A deck can have up to 5 cards named Munny.
+If Munny enters the battlefield via Drop, trigger Drop again.
+{T}: Sacrifice Munny: Add one mana of any color to your mana pool. Use this mana only to cast Artifact spells.</text>
+		</card>
+
+		<!-->Tokens</-->
+
+
+	</cards>
+</cockatrice_carddatabase>

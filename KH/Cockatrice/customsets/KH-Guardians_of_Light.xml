@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name>KH-Guardians_of_Light</name>
+			<longname>KH-Guardians_of_Light</longname>
+			<settype>KH-Guardians_of_Light</settype>
+		</set>
+	</sets>
+	<cards>
+
+		<card>
+			<name>Yen Sid</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>WUBRG</colors>
+				<manacost>1WUBRG</manacost>
+				<cmc>6</cmc>
+				<type>Legendary Creature - Human Wizard </type>
+				<maintype>Creature</maintype>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Yen Sid is also a Keyblade-Wielder.
+When Yen Sid enters the battlefield target up to 2 legendary creatures in your library and put them on your hand. 
+Whenever a legendary creatures enters the battlefield you may equip target equipement you control to it for {1} less.
+{2}, {T}: Create tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+		</card>
+		<card>
+			<name>Sora, Keyblade&apos;s Choosen One</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Human Keyblade-Wielder </type>
+				<maintype>Creature</maintype>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>First strike
+For every other creature you control put a +1/+1 counter on Sora, Keyblade’s Choosen One. Equipment spells you cast cost {1} less to cast.</text>
+		</card>
+		<card>
+			<name>Riku, Redeemed Guardian</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>WB</colors>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Human Keyblade-Wielder </type>
+				<maintype>Creature</maintype>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Vigilance
+WB: Put a +1/+1 counter on Riku, Redeemed Guardian for every other attacking creature until end of turn. Active only when you declare attackers.</text>
+		</card>
+		<card>
+			<name>Kairi, Princess of Hearts</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<type>Legendary Creature - Human Keyblade-Wielder </type>
+				<maintype>Creature</maintype>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{T}: Add one mana of any color.
+2W, {T}: Search your library for a white creature card, reveal it, then shuffle and put that card on your hand.</text>
+		</card>
+		<card>
+			<name>Mickey Mouse, Keyblade Master</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Creature - Mouse Keyblade-Wielder </type>
+				<maintype>Creature</maintype>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Indestructible, haste
+If a creature you control would be destroyed you may cast Mickey Mouse, Keyblade Master as though it had flash by paying WWW instead of its mana cost, then exile that creature. At the end of the turn put Mickey Mouse, Keyblade Master in your hand, then put target creature tapped on battlefield.</text>
+		</card>
+		<card>
+			<name>Aqua, Guardian of hope</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Human Keyblade-Wielder </type>
+				<maintype>Creature</maintype>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Vigilance
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Instant and sorcery spells you cast cost {1} less to cast.
+ 1WU: Put a +0/+2 counter on target creature.</text>
+		</card>
+		<card>
+			<name>Ventus, Guardian of Purity</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Human Keyblade-Wielder </type>
+				<maintype>Creature</maintype>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Double strike, haste
+Ventus, Guardian of Purity must attack if able.
+{T} : Surveil {1} (Look at the top card of your library. You may put that card into your graveyard.)</text>
+		</card>
+		<card>
+			<name>Terra, Guardian of Fury</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Human Keyblade-Wielder </type>
+				<maintype>Creature</maintype>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Trample, menace
+Whenever Terra, Guardian of Fury attacks put a	+1/+0 counter on it. Whenever Terra, Guardian of Fury destroys one or more creatures put a	+0/+1 on it.</text>
+		</card>
+		<card>
+			<name>Eraqus, Master of Guardians</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Human Keyblade-Wielder </type>
+				<maintype>Creature</maintype>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Vigilance
+WW, {T}: Scry 3 (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</text>
+		</card>
+		<card>
+			<name>Chirithy</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Bear </type>
+				<maintype>Creature</maintype>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flash
+When Chirithy enters the battlefield, choose up to one target permanent card in your graveyard that was put there from the battlefield this turn. Return it to your hand.</text>
+		</card>
+		<card>
+			<name>Ephemer, Last Dandelion</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Human Keyblade-Wielder </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Ephemer, Last Dandelion enters the battlefield destroy all artifact you control, for every artifact destroyed this way you may destroy target creature. This ability can’t be negated.</text>
+		</card>
+		<card>
+			<name>DiZ, the Researcher</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Legendary Creature - Human </type>
+				<maintype>Creature</maintype>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Sacrifice DiZ, the Researcher: Remove all counters from target permanent.</text>
+		</card>
+		<card>
+			<name>Scala ad Caelum</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>You can play Scala ad Caelum only if you control a Keyblade-Wielder.
+{1}, {T}: Add WW. Activate only if you control a Keyblade-Wielder.</text>
+		</card>
+		<card>
+			<name>Mysterious Tower</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Mysterious Tower enters the battlefield tapped.
+{T}: Add {W}
+When a Keyblade-Wielder enters the battlefield, add {W} to your mana pool.</text>
+		</card>
+		<card>
+			<name>Lingering Will</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<type>Legendary Artifact Creature - Golem Keyblade-Wielder </type>
+				<maintype>Creature</maintype>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss
+At the beginning of your upkeep, choose one — 
+ • Super Wild Dance —	Lingering Will gains double strike and its power becomes 4 until end of turn.
+ • Wave Rider —	Lingering Will gains trample and flying until your next upkeep.
+ • Whip attack — Lingering Will gains reach and vigilance until your next upkeep.
+ • Ultima Cannon — Lingering Will deals X damage to any target unless target’s owner taps all lands where X is Lingering Will’s power .</text>
+		</card>
+
+		<!-->Tokens</-->
+
+
+	</cards>
+</cockatrice_carddatabase>

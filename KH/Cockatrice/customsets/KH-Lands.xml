@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name>KH-Lands</name>
+			<longname>KH-Lands</longname>
+			<settype>KH-Lands</settype>
+		</set>
+	</sets>
+	<cards>
+
+		<card>
+			<name>100 Acre Wood</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {G}.
+{1}, {T}: Search a nonlegendary creature from your library and put it on your hand.</text>
+		</card>
+		<card>
+			<name>Keyblade Graveyard</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
+{T}: Destroy an artifact you control, add CC.
+Keyblades in your graveyard have Flashback.</text>
+		</card>
+		<card>
+			<name>Agrabah</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Agrabah enter the battlefield tapped.
+{T}: Add {R} or {W}.
+{1}, {T}: Create a treasure token.</text>
+		</card>
+		<card>
+			<name>Monstro</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Monstro enter the battlefield tapped.
+{T}: Add CC.
+{5}: Until end of turn, Monstro becomes a 5/5 colorless Whale creature with trample.</text>
+		</card>
+		<card>
+			<name>Neverland</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Neverland enter the battlefield tapped.
+{T}: Add {U} or {G}.
+{5}, {T}: All creatures you control gain flying.</text>
+		</card>
+		<card>
+			<name>Twilight Town</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Twilight Town enter battlefield tapped.
+{T}: Add {R} or {W}.
+1RW, {T}: Create a Legendary artifact token named Data Twilight Town with “{T}: Add {C}.”</text>
+		</card>
+		<card>
+			<name>Santa&apos;s Village</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {W}.
+WB: Transform Santa’s Village.</text>
+		
+		<layout>transform</layout>
+		<side>back</side>
+		<related attach="transform">Halloween Town</related>
+
+		</card>
+		<card>
+			<name>Halloween Town</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {B}.
+WB: Transform Halloween Town.</text>
+		
+		<layout>transform</layout>
+		<side>front</side>
+		<related attach="transform">Santa&apos;s Village</related>
+
+		</card>
+		<card>
+			<name>Port Royale</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Port Royale enter the battlefield tapped.
+{T}: Add {U} or {B}.
+1U/B, {T}: Create X Zombie Token 1/1 with Indestructible, where X is the number of treasure tokens you control. Destroy them at the end of turn.</text>
+		</card>
+		<card>
+			<name>Wonderland</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Wonderland enter the battlefield tapped.
+{T}: Add {W} or {R}.
+RR, {T}: Play a card that’s exactly red without paying its mana cost.</text>
+		</card>
+		<card>
+			<name>Jungle Deep</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {G}.
+1G, {T}: Target creature you control explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
+		</card>
+		<card>
+			<name>Atlantica</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {U}.
+2U, {T}: Creatures you control have islandwalk until end of turn. (That creature can’t be blocked as long as defending player controls a Creatures you control have island.)</text>
+		</card>
+		<card>
+			<name>Traverse Town</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Traverse Town enter the battlefield tapped.
+{T}: Add one mana of any color.</text>
+		</card>
+		<card>
+			<name>Destiny Island</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>If you don’t control any other lands you may play one additional land this turn. 
+{T}: Add {W}.
+Sacrifice Destiny Island: Search a land from your library.</text>
+		</card>
+		<card>
+			<name>Beast&apos;s Castle</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Plains Swamp Forest </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {W}, {B} or {G}.)
+Indatha Triome enters the battlefield tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+		</card>
+		<card>
+			<name>Sleeping Worlds</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add one mana of any color that a land an opponent controls could produce.</text>
+		</card>
+		<card>
+			<name>The Land of Dragons</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {R}.
+{R}, {T}: Create a Firework token: “{1}, Sacrifice Firework token: Deals 2 damage to any target.”</text>
+		</card>
+		<card>
+			<name>Final World</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>When Final World enters the battlefield, add {W}.
+{T}: Add {W}.
+When a creature you control leaves the battlefield exile it. You can cast cards exiled this way until the end of your next turn.</text>
+		</card>
+		<card>
+			<name>Pride Lands</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {G}.
+GG: Target creature fights another target creature. (Each deals damage equal to its power to the other.)</text>
+		</card>
+		<card>
+			<name>Toybox</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
+{2}, {T}: Target artifact become a 2/2 Golem artifact creature until end of turn.</text>
+		</card>
+		<card>
+			<name>Kingdom of Corona</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Forest Plains </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {G} or {W}.)
+Radiant Grove enter the battlefield tapped.</text>
+		</card>
+		<card>
+			<name>Deep Space</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Island Swamp </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {U} or {B}.)
+Contaminated Aquifer enters the battlefield tapped.</text>
+		</card>
+		<card>
+			<name>Timeless river</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
+W/U/B/R/G, {T}: Add CCC.</text>
+		</card>
+		<card>
+			<name>End of the World</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
+{T}: Add {W} or {B}. Caves of Koilos deals 1 damage to you.</text>
+		</card>
+		<card>
+			<name>Enchanted Dominion</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Forest Plains </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {G} or {W}.)
+As Temple Garden enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.</text>
+		</card>
+		<card>
+			<name>Plains</name>
+			<set rarity=""></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type></type>
+				<maintype></maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Island</name>
+			<set rarity=""></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type></type>
+				<maintype></maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<set rarity=""></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type></type>
+				<maintype></maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<set rarity=""></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type></type>
+				<maintype></maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Forest</name>
+			<set rarity=""></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type></type>
+				<maintype></maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Land of Departure</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {W}.
+1W, {T}: Transform Land of Departure. As an additional cost to cast this ability, tap a Keyblade-Wielder you control.</text>
+		
+		<layout>transform</layout>
+		<side>front</side>
+		<related attach="transform">Castle Oblivion</related>
+
+		</card>
+		<card>
+			<name>Castle Oblivion</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add CC.
+1C, {T}: Target an opponent creature, it loses its ability until end turn.</text>
+		
+		<layout>transform</layout>
+		<side>back</side>
+		<related attach="transform">Land of Departure</related>
+
+		</card>
+		<card>
+			<name>Disney Castle</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {W}
+1W, {T}: Create a First Light Legendary artifact token with “{1}, {T}: Chose two: • Add {W}. • Add {G}. • Add {R}. • Add {U}.”</text>
+		</card>
+		<card>
+			<name>Olympus</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {W}
+1W, {T}: Target creature on your battlefield is unblockable until end of turn.</text>
+		
+		<layout>transform</layout>
+		<side>front</side>
+		<related attach="transform">Underworld</related>
+
+		</card>
+		<card>
+			<name>Underworld</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {B}
+1B, {T}: You may cast target creature from your graveyard, destroy it at end of turn.</text>
+		
+		<layout>transform</layout>
+		<side>front</side>
+		<related attach="transform">Olympus</related>
+
+		</card>
+		<card>
+			<name>Hollow Bastion</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {B}.
+{U/R/G}, {T}: Transform Hollow Bastion.</text>
+		
+		<layout>transform</layout>
+		<side>front</side>
+		<related attach="transform">Radiant Garden</related>
+
+		</card>
+		<card>
+			<name>Radiant Garden</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{G/U}, {T}: Add GG, GU, or UU.
+{R/G}, {T}: Add RR, RG, or GG.
+{U/R}, {T}: Add UU, UR, or RR.</text>
+		
+		<layout>transform</layout>
+		<side>front</side>
+		<related attach="transform">Hollow Bastion</related>
+
+		</card>
+		<card>
+			<name>Arid Pride Lands</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Deathcap Glade enters the battlefield tapped unless you control two or more other lands.
+{T}: Add {B} or {G}.</text>
+		</card>
+		<card>
+			<name>Gothel&apos;s Tower</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Blooming Marsh enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {B} or {G}</text>
+		</card>
+		<card>
+			<name>Jafar&apos;s Haunt</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Haunted Ridge enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {B} or {R}.</text>
+		</card>
+		<card>
+			<name>Hedge Maze</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.</text>
+		</card>
+		<card>
+			<name>Ursula&apos;s Lair</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Darkslick Shores enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {U} or {B}.</text>
+		</card>
+		<card>
+			<name>Forbidden Mountain</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Forbidden Mountain enters the battlefield you may pay 1 life. If you don’t, it enters the battlefield tapped.
+{T}: Add {B}.
+Sacrifice a creature, {T}: Draw a card.</text>
+		</card>
+		<card>
+			<name>San Fransokyo</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
+{U/R}, {T}: Add UU, UR, or RR.
+{W}, tap six nonlegendary creatures you control, {T}: Exile target creature.</text>
+		</card>
+		<card>
+			<name>Monstropolis</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Temple of Epiphany enters the battlefield tapped.
+When Temple of Epiphany enters the battlefield, scry 1.
+{T}: Add {R} or {U}.</text>
+		</card>
+		<card>
+			<name>Arendelle</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Snow Land - Forest Island </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {G} or {U}.)
+Rimewood Falls enters the battlefield tapped.</text>
+		</card>
+
+		<!-->Tokens</-->
+
+
+	</cards>
+</cockatrice_carddatabase>
