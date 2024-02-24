@@ -95,19 +95,6 @@ Banding with Rapid Thruster (Any creatures with banding, and up to one without, 
 			<text>Splash damage 1/2 (When this creature deals damage to a creature, deal 1 damage to up to 2 different creatures that player controls.)</text>
 		</card>
 		<card>
-			<name>===== Soldiers =====</name>
-			<set rarity="common"></set>
-			<prop>
-				<colors></colors>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<type></type>
-				<maintype></maintype>
-			</prop>
-			<tablerow>1</tablerow>
-			<text></text>
-		</card>
-		<card>
 			<name>Soldier</name>
 			<set rarity="common"></set>
 			<prop>
@@ -162,19 +149,6 @@ Banding with Rapid Thruster (Any creatures with banding, and up to one without, 
 			</prop>
 			<tablerow>2</tablerow>
 			<text>Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature’s combat damage, not its controller, among any of the creatures it’s being blocked by or is blocking.)</text>
-		</card>
-		<card>
-			<name>===== Musical =====</name>
-			<set rarity="common"></set>
-			<prop>
-				<colors></colors>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<type></type>
-				<maintype></maintype>
-			</prop>
-			<tablerow>1</tablerow>
-			<text></text>
 		</card>
 		<card>
 			<name>Red Nocturne</name>
@@ -318,19 +292,6 @@ Whenever Crimson Jazz blocks, Crimson Jazz deals 1 damage to all attacking creat
 			<tablerow>2</tablerow>
 			<text>Flying, reach, double strike
 {3}, {T}: Target creature you control gains +0/+2 until end of turn.</text>
-		</card>
-		<card>
-			<name>===== Other =====</name>
-			<set rarity="common"></set>
-			<prop>
-				<colors></colors>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<type></type>
-				<maintype></maintype>
-			</prop>
-			<tablerow>1</tablerow>
-			<text></text>
 		</card>
 		<card>
 			<name>Wizard</name>
@@ -628,19 +589,6 @@ Range (When this creature attacks it takes no damage from creatures without rang
 Protection from instants and sorceries. (This creature can’t be blocked, targeted or dealt damage by instants and sorceries.)</text>
 		</card>
 		<card>
-			<name>===== Mushrooms =====</name>
-			<set rarity="common"></set>
-			<prop>
-				<colors></colors>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<type></type>
-				<maintype></maintype>
-			</prop>
-			<tablerow>1</tablerow>
-			<text></text>
-		</card>
-		<card>
 			<name>White Mushroom</name>
 			<set rarity="common"></set>
 			<prop>
@@ -696,19 +644,6 @@ BBB: Black Mushroom gains indestructible until end of turn.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<text>{T}: Add 2 mana of any color.</text>
-		</card>
-		<card>
-			<name>===== Other =====</name>
-			<set rarity="common"></set>
-			<prop>
-				<colors></colors>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<type></type>
-				<maintype></maintype>
-			</prop>
-			<tablerow>1</tablerow>
-			<text></text>
 		</card>
 		<card>
 			<name>Chimera</name>
@@ -962,19 +897,6 @@ When Morning Star blocks attacking creature, Morning Star deals 1 damage to all 
 			<text>Range (When this creature attacks it takes no damage from creatures without range or reach.)</text>
 		</card>
 		<card>
-			<name>===== Boss =====</name>
-			<set rarity="common"></set>
-			<prop>
-				<colors></colors>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<type></type>
-				<maintype></maintype>
-			</prop>
-			<tablerow>1</tablerow>
-			<text></text>
-		</card>
-		<card>
 			<name>Ruler of the Sky</name>
 			<set rarity="common"></set>
 			<prop>
@@ -1214,19 +1136,6 @@ At the beginning of your upkeep, create a Shadow token.</text>
 			<text>Boss
 Splash damage 1
 Sacrifice a creature, {T}: Put a +1/+1 counter on Prison Keeper.</text>
-		</card>
-		<card>
-			<name>===== Other =====</name>
-			<set rarity="common"></set>
-			<prop>
-				<colors></colors>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<type></type>
-				<maintype></maintype>
-			</prop>
-			<tablerow>1</tablerow>
-			<text></text>
 		</card>
 		<card>
 			<name>Vitality Popcat</name>
