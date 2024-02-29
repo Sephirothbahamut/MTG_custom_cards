@@ -297,7 +297,7 @@ Equip {4}</text>
 		
 		</card>
 		<card>
-			<name>Earthshaker</name>
+			<name>Earthshaker (KH)</name>
 			<set rarity="uncommon"></set>
 			<prop>
 				<colors>G</colors>
@@ -332,7 +332,7 @@ Equip {4}</text>
 
 			<layout>transform</layout>
 			<side>back</side>
-			<related attach="transform">Earthshaker</related>
+			<related attach="transform">Earthshaker (KH)</related>
 		
 		</card>
 		<card>

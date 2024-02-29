@@ -292,7 +292,7 @@ When a creature you control leaves the battlefield exile it. You can cast cards 
 			</prop>
 			<tablerow>0</tablerow>
 			<text>{T}: Add {G}.
-GG: Target creature fights another target creature. (Each deals damage equal to its power to the other.)</text>
+{GG}, {T}: Target creature fights another target creature. (Each deals damage equal to its power to the other.)</text>
 		</card>
 		<card>
 			<name>Toybox</name>

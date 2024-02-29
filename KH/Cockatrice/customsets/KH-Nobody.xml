@@ -64,7 +64,7 @@ At the beginning of your upkeep, chose one —
 			<tablerow>2</tablerow>
 			<text>Double strike
 Limit break 2 (This creature enters the battlefield with 2 limit break counters. If it has been dealt damage equal to or greater than the number of limit break counters on it, you may add one, then cast a copy of this card’s other face without paying its mana cost.)
-When Xigbar attacks it takes no combat damage.
+Range (When this creature attacks it takes no damage from creatures without range or reach. This creature has reach.)
 {1}: Xigbar phases out. </text>
 		
 			<layout>transform</layout>
@@ -597,17 +597,15 @@ Flying, Trample</text>
 				<cmc>3</cmc>
 				<type>Legendary	- Saga	// Artifact Creature - Dragon </type>
 				<maintype></maintype>
-		<pt>8/12</pt>
+		<pt></pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<text>You can spend mana as though it was mana of any color to cast Nobody creature spells or activate abilities of Nobody creatures.
-{T}: Add CC.
-{8}: Transform The Castle that Never Was.
-Partner with The World that Never Was.
-The Castle that Never Was can be your commander. 
-Flying, trample, boss (You cannot cast this creature spell if you already control a creature with Boss.)
-The Dragon That Never Was enters the battlefield with 2 shield counters on it.
-When this creature would be dealt damage, it gains that many +0/-1 counters instead.</text>
+			<text>Partner with The World that Never Was.
+The Castle that Never Was can be your commander.
+I, II, III, IV: Chose one — 
+ • Search your library for a Room, add it to your hand, then shuffle.
+ • Put target Room from your graveyard to your hand.
+V: Transform The Castle that Never Was. </text>
 		
 			<layout>transform</layout>
 			<side>front</side>
@@ -623,7 +621,7 @@ When this creature would be dealt damage, it gains that many +0/-1 counters inst
 				<cmc>0</cmc>
 				<type>Legendary Artifact Creature - Dragon	// Artifact Creature - Dragon </type>
 				<maintype>Creature</maintype>
-		<pt>6/12 // 8/12</pt>
+		<pt>6/12</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<text>Flying, trample
@@ -695,8 +693,9 @@ Whenever Naminé would take combat damage, you may remove any amount of +1/+1 co
 		<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<text>Sorcerer gets a shield counter. Activate only as a sorcery and only if Sorcerer has no shield counter. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
-A deck can have up to 3 cards named Sorcerer. 
+			<text>Sorcerer enters the battlefield with a shield counter. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+T: Put a shield counter on Sorcerer.
+A deck can have up to 3 cards named Sorcerer.
 </text>
 		</card>
 		<card>
@@ -711,7 +710,7 @@ A deck can have up to 3 cards named Sorcerer.
 		<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<text>When Sniper attacks it takes no combat damage.
+			<text>Range (When this creature attacks it takes no damage from creatures without range or reach. This creature has reach.)
 A deck can have up to 3 cards named Sniper. 
 </text>
 		</card>
@@ -888,7 +887,7 @@ A deck can have up to 3 cards named Samurai.
 				<cmc>3</cmc>
 				<type>Artifact - Room	// Artifact Creature - Dragon </type>
 				<maintype>Artifact</maintype>
-		<pt>8/12</pt>
+		
 			</prop>
 			<tablerow>2</tablerow>
 			<text>You can spend mana as though it was mana of any color to cast Nobody creature spells or activate abilities of Nobody creatures. 
@@ -905,7 +904,7 @@ When this creature would be dealt damage, it gains that many +0/-1 counters inst
 				<cmc>3</cmc>
 				<type>Enchantment - Aura	// Artifact Creature - Dragon </type>
 				<maintype>Enchantment</maintype>
-		<pt>8/12</pt>
+		
 			</prop>
 			<tablerow>2</tablerow>
 			<text>Enchant noncreature permanent.
@@ -924,7 +923,7 @@ When this creature would be dealt damage, it gains that many +0/-1 counters inst
 				<cmc>3</cmc>
 				<type>Artifact - Room	// Artifact Creature - Dragon </type>
 				<maintype>Artifact</maintype>
-		<pt>8/12</pt>
+		
 			</prop>
 			<tablerow>2</tablerow>
 			<text>2C, {T}: Return target Legendary Nobody creature from your graveyard to your hand. 
@@ -941,7 +940,7 @@ When this creature would be dealt damage, it gains that many +0/-1 counters inst
 				<cmc>3</cmc>
 				<type>Artifact - Room	// Artifact Creature - Dragon </type>
 				<maintype>Artifact</maintype>
-		<pt>8/12</pt>
+		
 			</prop>
 			<tablerow>2</tablerow>
 			<text>CC, {T}: Remove 1 limit counter from target creature.
@@ -960,7 +959,7 @@ When this creature would be dealt damage, it gains that many +0/-1 counters inst
 				<cmc>1</cmc>
 				<type>Artifact - Room	// Artifact Creature - Dragon </type>
 				<maintype>Artifact</maintype>
-		<pt>8/12</pt>
+		
 			</prop>
 			<tablerow>2</tablerow>
 			<text>{T}: Add CC. 
@@ -977,7 +976,7 @@ When this creature would be dealt damage, it gains that many +0/-1 counters inst
 				<cmc>3</cmc>
 				<type>Sorcery // Artifact Creature - Dragon </type>
 				<maintype>Sorcery</maintype>
-		<pt>8/12</pt>
+		
 			</prop>
 			<tablerow>3</tablerow>
 			<text>Search your library for a creature with mana value X or less, reveal it, then shuffle and put that card on the battlefield. 
