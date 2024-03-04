@@ -406,6 +406,23 @@ Dark Inferno has triple strike as long as it has 4 strike counters.</text>
 			<related attach="transform">Earth Core</related>
 			
 		</card>
+		
+		<card>
+			<name>Lich</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>BBBBB</manacost>
+				<cmc>5</cmc>
+				<type>Creature - Pureblood Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>6/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss (When this creature enters the battlefield destroy other permanents with Boss you control.)
+When Lich enters the battlefield, exile target legendary creature under Lich.
+When Lich would be destroyed, you may put the exiled creature on its owner’s battefield instead.</text>
+		</card>
 
 		<!-->Tokens</-->
 

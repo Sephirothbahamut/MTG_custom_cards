@@ -675,7 +675,7 @@ When Chimera blocks, Chimera has splash damage 1/2. (When this creature deals da
 			<text>When Sea Neon is destroyed, create 3 Shadow tokens.</text>
 		</card>
 		<card>
-			<name>Firey Globe &amp; Ice Cube</name>
+			<name>Fiery Globe &amp; Ice Cube</name>
 			<set rarity="common"></set>
 			<prop>
 				<colors>UBR</colors>
@@ -1228,22 +1228,6 @@ Reach
 You cannot control more than five Gardner Wall tokens.</text>
 		</card>
 		<card>
-			<name>Lich</name>
-			<set rarity="common"></set>
-			<prop>
-				<colors>B</colors>
-				<manacost>BBBBB</manacost>
-				<cmc>5</cmc>
-				<type>Creature - Pureblood Heartless </type>
-				<maintype>Creature</maintype>
-				<pt>6/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<text>Boss (When this creature enters the battlefield destroy other permanents with Boss you control.)
-When Lich enters the battlefield, exile target legendary creature under Lich.
-When Lich would be destroyed, you may put the exiled creature on its owner’s battefield instead.</text>
-		</card>
-		<card>
 			<name>Tireblade</name>
 			<set rarity="common"></set>
 			<prop>
@@ -1481,7 +1465,66 @@ Flying
 When Raging Vulture attacks, create two 1/1 black Emblem Heartless Vaporfly tokens.</text>
 		</card>
 
-		<!-->Tokens</-->
+		<card>
+			<name>Behemoth</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BG</colors>
+				<manacost>BBBBGG</manacost>
+				<cmc>6</cmc>
+				<type>Legendary Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Trample
+Boss (When this creature enters the battlefield destroy other permanents with Boss you control.)</text>
+		</card>
+		<card>
+			<name>Ansem, the Seeker of Darkness</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>BBBBBB</manacost>
+				<cmc>6</cmc>
+				<type>Legendary Creature - Human Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss (When this creature enters the battlefield destroy other permanents with Boss you control.)
+Dark recall 3 (When this creature enters the battlefield create 3 Shadow tokens.)
+If Ansem, the Seeker of Darkness would be destroyed in combat, you may pay BBBB, transform Ansem, the Seeker of Darkness instead.
+If Ansem, the Seeker of Darkness would be destroyed outside of combat, transform Ansem, the Seeker of Darkness instead.</text>
+
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">World of Chaos</related>
+			
+		</card>
+		<card>
+			<name>World of Chaos</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Creature - Vehicle Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>4/12</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+Boss (When this creature enters the battlefield destroy other permanents with Boss you control.)
+When World of Chaos enters the battlefield, exile up two target nonlegendary creatures under World of Chaos. When World of Chaos leaves the battlefield return exiled creatures on their owner’s battlefield.
+Crew 5
+Dark recall 5</text>
+		
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">Ansem, the Seeker of Darkness</related>
+			
+		</card>
 
 
 	</cards>
