@@ -22,9 +22,9 @@
 			<tablerow>1</tablerow>
 			<text>Fusion 1 (In addition to the cost of this spell, exile 1 creatures you control. When this card leaves the field, return the exiled creatures under their owner’s control.)
 Enchant creature.
-I: Put two +1/+1 counter on the enchanted creature.
-II: Valor Form gains “Enchanted creature has double attack.”
-III: The enchanted creature gets reach. </text>
+I: Valor Form gains “Enchanted creature has +2/+2”.
+II: Valor Form gains “Enchanted creature has double strike.”
+III: Enchanted creature gets reach.</text>
 		</card>
 		<card>
 			<name>Wisdom Form</name>
