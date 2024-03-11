@@ -219,7 +219,8 @@ RR, {T}: Play a card that’s exactly red without paying its mana cost.</text>
 				<maintype>Land</maintype>
 			</prop>
 			<tablerow>0</tablerow>
-			<text>If you don’t control any other lands you may play one additional land this turn. 
+			<text>Destiny Island enters the battlefield tapped.
+If you don’t control any other lands you may play one additional land this turn. 
 {T}: Add {W}.
 Sacrifice Destiny Island: Search a land from your library.</text>
 		</card>
