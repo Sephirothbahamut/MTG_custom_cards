@@ -160,7 +160,6 @@ Equip {2}</text>
       <text>Pandora’s Gear is a Keyblade when equipped to a Keyblade Wielder.
 Equipped creature gets +4/+6 and has first strike and shroud.  (That creature deals combat damage before creatures without first strike. This permanent can’t be the target of spells or abilities.)
 Equipped creature takes double the damage from combat.
-
 Equip {3}</text>
     </card>
     <card>
@@ -280,7 +279,7 @@ Equip {4}</text>
 			<related attach="transform">Rainfell</related>
     </card>
     <card>
-      <name>Earthshaker</name>
+      <name>Earthshaker (KH)</name>
       <set rarity="uncommon"></set>
       <prop>
         <colors>G</colors>
