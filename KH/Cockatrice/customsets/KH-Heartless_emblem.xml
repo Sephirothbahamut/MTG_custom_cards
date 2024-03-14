@@ -78,6 +78,7 @@
 			<tablerow>2</tablerow>
 			<text>Flying
 Banding with Rapid Thruster (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature’s combat damage, not its controller, among any of the creatures it’s being blocked by or is blocking.)
+You cannot cast creatures with Boss.
 {T}: Create a tapped token that’s a copy of Rapid Thruster.</text>
 		</card>
 		<card>
@@ -843,8 +844,8 @@ Reach (This creature can block creatures with flying.)
 			<set rarity="common"></set>
 			<prop>
 				<colors>B</colors>
-				<manacost>|CB</manacost>
-				<cmc>2</cmc>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
 				<type>Creature - Emblem Heartless Dog </type>
 				<maintype>Creature</maintype>
 				<pt>1/1</pt>
@@ -903,7 +904,7 @@ When Morning Star blocks attacking creature, Morning Star deals 1 damage to all 
 				<colors>UB</colors>
 				<manacost>1UUBB</manacost>
 				<cmc>5</cmc>
-				<type>Creature - Emblem Heartless </type>
+				<type>Legendary Creature - Emblem Heartless </type>
 				<maintype>Creature</maintype>
 				<pt>6/4</pt>
 			</prop>
@@ -918,7 +919,7 @@ Ruler of the Sky enters the battlefield with 3 shield counters. (If a permanent 
 				<colors>B</colors>
 				<manacost>1BBBB</manacost>
 				<cmc>5</cmc>
-				<type>Creature - Emblem Heartless </type>
+				<type>Legendary Creature - Emblem Heartless </type>
 				<maintype>Creature</maintype>
 				<pt>6/4</pt>
 			</prop>
@@ -934,7 +935,7 @@ Leechgrave has indestructible, hexproof and defender as long as you control at l
 				<colors>BG</colors>
 				<manacost>1BBGG</manacost>
 				<cmc>5</cmc>
-				<type>Creature - Emblem Heartless </type>
+				<type>Legendary Creature - Emblem Heartless </type>
 				<maintype>Creature</maintype>
 				<pt>3/6</pt>
 			</prop>
@@ -966,7 +967,7 @@ Trickster takes no combat damage when blocking.</text>
 				<colors>UB</colors>
 				<manacost>2UUB</manacost>
 				<cmc>5</cmc>
-				<type>Creature - Emblem Heartless </type>
+				<type>Legendary Creature - Emblem Heartless </type>
 				<maintype>Creature</maintype>
 				<pt>3/4</pt>
 			</prop>
@@ -982,7 +983,7 @@ Partner with Fire Lord (When this creature enters the battlefield, target player
 				<colors>BR</colors>
 				<manacost>2BRR</manacost>
 				<cmc>5</cmc>
-				<type>Creature - Emblem Heartless </type>
+				<type>Legendary Creature - Emblem Heartless </type>
 				<maintype>Creature</maintype>
 				<pt>3/4</pt>
 			</prop>
@@ -998,7 +999,7 @@ Partner with Blizzard Lord (When this creature enters the battlefield, target pl
 				<colors>WB</colors>
 				<manacost>2WBB</manacost>
 				<cmc>5</cmc>
-				<type>Creature - Emblem Heartless </type>
+				<type>Legendary Creature - Emblem Heartless </type>
 				<maintype>Creature</maintype>
 				<pt>5/5</pt>
 			</prop>
@@ -1015,7 +1016,7 @@ At the beginning of combat on your turn, choose one that wasn’t chosen during 
 				<colors>UB</colors>
 				<manacost>2UBB</manacost>
 				<cmc>5</cmc>
-				<type>Creature - Emblem Heartless </type>
+				<type>Legendary Creature - Emblem Heartless </type>
 				<maintype>Creature</maintype>
 				<pt>4/4</pt>
 			</prop>
@@ -1030,7 +1031,7 @@ When Grim Reaper enters the battlefield, each player may create a Treasure token
 				<colors>UB</colors>
 				<manacost>3UB</manacost>
 				<cmc>5</cmc>
-				<type>Creature - Emblem Heartless </type>
+				<type>Legendary Creature - Emblem Heartless </type>
 				<maintype>Creature</maintype>
 				<pt>1/1</pt>
 			</prop>
@@ -1046,7 +1047,7 @@ Pot Centipede takes damage in the form of -1/-1 counters.</text>
 				<colors>WB</colors>
 				<manacost>2WBB</manacost>
 				<cmc>5</cmc>
-				<type>Creature - Emblem Heartless </type>
+				<type>Legendary Creature - Emblem Heartless </type>
 				<maintype>Creature</maintype>
 				<pt>5/5</pt>
 			</prop>
@@ -1062,7 +1063,7 @@ Dark recall 4 (When this creature enters the battlefield create 4 Shadow tokens.
 				<colors>BG</colors>
 				<manacost>1BBBG</manacost>
 				<cmc>5</cmc>
-				<type>Artifact Creature - Emblem Heartless </type>
+				<type>Legendary Artifact Creature - Emblem Heartless </type>
 				<maintype>Creature</maintype>
 				<pt>1/6</pt>
 			</prop>
@@ -1094,7 +1095,7 @@ Phantom enters the battlefield with protection from that (This creature can’t 
 				<colors>BG</colors>
 				<manacost>2BGG</manacost>
 				<cmc>5</cmc>
-				<type>Creature - Emblem Heartless </type>
+				<type>Legendary Creature - Emblem Heartless </type>
 				<maintype>Creature</maintype>
 				<pt>5/5</pt>
 			</prop>
@@ -1111,7 +1112,7 @@ You may look at the top card of your library at any time.</text>
 				<colors>WUBRG</colors>
 				<manacost>1W/UBBBR/G</manacost>
 				<cmc>6</cmc>
-				<type>Creature - Emblem Heartless </type>
+				<type>Legendary Creature - Emblem Heartless </type>
 				<maintype>Creature</maintype>
 				<pt>3/9</pt>
 			</prop>
@@ -1128,7 +1129,7 @@ At the beginning of your upkeep, create a Shadow token.</text>
 				<colors>B</colors>
 				<manacost>2BBB</manacost>
 				<cmc>5</cmc>
-				<type>Creature - Emblem Heartless </type>
+				<type>Legendary Creature - Emblem Heartless </type>
 				<maintype>Creature</maintype>
 				<pt>4/5</pt>
 			</prop>
@@ -1217,7 +1218,7 @@ Satyr attacks each combat if able.</text>
 				<colors>BG</colors>
 				<manacost>2BBG</manacost>
 				<cmc>5</cmc>
-				<type>Creature - Emblem Heartless </type>
+				<type>Legendary Creature - Emblem Heartless </type>
 				<maintype>Creature</maintype>
 				<pt>3/4</pt>
 			</prop>
@@ -1264,7 +1265,7 @@ RR, {T}: Catastrochorus deals 3 damage divided as you choose among one or two cr
 				<colors>B</colors>
 				<manacost>XB</manacost>
 				<cmc>1</cmc>
-				<type>Creature - Emblem Heartless </type>
+				<type>Legendary Creature - Emblem Heartless </type>
 				<maintype>Creature</maintype>
 				<pt>1/1</pt>
 			</prop>
@@ -1280,7 +1281,7 @@ Darkubes takes damage in the form of -1/-1 counters.</text>
 				<colors>UB</colors>
 				<manacost>2UUB</manacost>
 				<cmc>5</cmc>
-				<type>Snow Creature - Emblem Heartless </type>
+				<type>Legendary Snow Creature - Emblem Heartless Wolf</type>
 				<maintype>Creature</maintype>
 				<pt>4/5</pt>
 			</prop>
@@ -1296,7 +1297,7 @@ When Sköll attacks put two 2/2 wolf tokens tapped and attacking. Destroy them a
 				<colors>UB</colors>
 				<manacost>3UB</manacost>
 				<cmc>5</cmc>
-				<type>Artifact Creature - Emblem Heartless </type>
+				<type>Legendary Artifact Creature - Emblem Heartless </type>
 				<maintype>Creature</maintype>
 				<pt>4/5</pt>
 			</prop>

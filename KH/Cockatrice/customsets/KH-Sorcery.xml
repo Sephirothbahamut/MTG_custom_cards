@@ -10,19 +10,6 @@
 	<cards>
 
 		<card>
-			<name>My friends are my power</name>
-			<set rarity="common"></set>
-			<prop>
-				<colors>WG</colors>
-				<manacost>1GW</manacost>
-				<cmc>3</cmc>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-			</prop>
-			<tablerow>3</tablerow>
-			<text>Target creature gains +X/+X where X is the total power of up to two other creatures you control until end of turn.</text>
-		</card>
-		<card>
 			<name>Hades Cup</name>
 			<set rarity="common"></set>
 			<prop>

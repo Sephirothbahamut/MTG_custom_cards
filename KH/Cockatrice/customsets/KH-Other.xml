@@ -249,6 +249,81 @@ When this token leaves the field exile Jafar, the Genie.</text>
 			<tablerow>2</tablerow>
 			<text></text>
 		</card>
+		<card>
+			<token>1</token>
+			<name>Wolf</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Snow Creature </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<token>1</token>
+			<name>Puffball</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Creature - Plant Army</type>
+				<maintype>Creature</maintype>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<token>1</token>
+			<name>Gardner Wall</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Creature - Plant</type>
+				<maintype>Creature</maintype>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<token>1</token>
+			<name>Vaporfly</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Creature - Emblem Heartless</type>
+				<maintype>Creature</maintype>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying</text>
+		</card>
+		<card>
+			<token>1</token>
+			<name>Heart</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>X</manacost>
+				<cmc>X</cmc>
+				<type>Token Artifact</type>
+				<maintype>Creature</maintype>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>T: Sacrifice this token. Add X mana to your mana pool. Spend this mana only to cast an Heartless or Nobody creature as though it was colorless or mana of any color.</text>
+		</card>
 
 		<!-->Tokens</-->
 

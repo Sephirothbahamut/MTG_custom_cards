@@ -56,8 +56,8 @@ III: Enchanted creature gets flanking.</text>
 			<tablerow>1</tablerow>
 			<text>Enchant creature.
 Whenever an action-ability deals damage, gain that much life.
-I, II, III: You may search your library and/or graveyard for an action-ability.
-You may cast action-ability spells without playing their mana cost.</text>
+I, II, III: Choose a card name that hasn’t been chosen from among Sonic Blade, Ragnarok, Strike Raid, Ars Arcanum.
+Create a copy of the card with the chosen name. You may cast that copy without paying its mana cost.</text>
 		</card>
 		<card>
 			<name>Master Form</name>
@@ -180,6 +180,32 @@ Enchanted creature gets +3/+3 for each age counter on Unleash the Darkness.</tex
 {T}: Regenerate target creature.
 {7}, {T}: Note your life total.
 {3}, sacrifice Save Point, {T}: Your life total become equal the noted life total.</text>
+		</card>
+		<card>
+			<name>Heart Release</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Whenever a non-Artifact, non-Heartless and non-Nobody creature is destroyed, create an Heart token with cost equal to that creature’s mana value.</text>
+		</card>
+		<card>
+			<name>My friends are my power</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>If you control two or more creatures you can’t lose the game and your opponents can’t win the game.</text>
 		</card>
 
 	</cards>

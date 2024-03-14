@@ -16,17 +16,16 @@
 				<colors>B</colors>
 				<manacost></manacost>
 				<cmc>0</cmc>
-				<type>Legendary Land - Swamp	// Artifact Creature - Dragon </type>
+				<type>Legendary Land - Swamp</type>
 				<maintype>Land</maintype>
 		<pt></pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<text>World of Darkness enters the battlefield tapped.
-W/U/B/R/G: Add {B}.
-Whenever a non-Artifact, non-Heartless and non-Nobody creature is destroyed, create an Heart token with cost equal to that creature’s mana value.
-BB, {T}: Add {B} equal to your devotion to black.
-{T}, sacrifice an Heart artifact token: Create a number of Shadow tokens equal to the sacrificed Heart’s mana value.
-World of Darkness can be your commander.Flying, Trample</text>
+W/U/B/R/G: Add B.
+BBBBB: Add an amount of B to your mana pool equal to your devotion to black.
+XX, T: Create X Shadow tokens.
+World of Darkness can be your commander.</text>
 		</card>
 		<card>
 			<name>Engulf in Darkness</name>
@@ -35,26 +34,12 @@ World of Darkness can be your commander.Flying, Trample</text>
 				<colors>B</colors>
 				<manacost>BBB</manacost>
 				<cmc>3</cmc>
-				<type>Legendary Enchantment // Artifact Creature - Dragon </type>
+				<type>Legendary Enchantment</type>
 				<maintype>Enchantment</maintype>
 		<pt></pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<text>Whenever you deal damage to a you may pay BBBBB: Target land that player controls becomes a Swamp.Flying, Trample</text>
-		</card>
-		<card>
-			<token>1</token>
-			<name>Heart</name>
-			<set rarity="common"></set>
-			<prop>
-				<colors></colors>
-				<manacost>X</manacost>
-				<cmc>X</cmc>
-				<type>Token Artifact - Heart </type>
-				<maintype>Artifact</maintype>
-			</prop>
-			<tablerow>1</tablerow>
-			<text>{T}: Sacrifice this token. Add X mana to your mana pool. Spend this mana only to cast an Heartless or Nobody creature as though it was colorless or mana of any color.</text>
 		</card>
 		<card>
 			<token>1</token>
@@ -215,7 +200,7 @@ When Dark Follower attacks create a Shadow token.</text>
 				<colors>B</colors>
 				<manacost>BBBBB</manacost>
 				<cmc>5</cmc>
-				<type>Creature - Pureblood Heartless </type>
+				<type>Legendary Creature - Pureblood Heartless </type>
 				<maintype>Creature</maintype>
 				<pt>5/6</pt>
 			</prop>
@@ -236,7 +221,7 @@ At the beginning of your upkeep transform Shadow Stalker.</text>
 				<colors>B</colors>
 				<manacost></manacost>
 				<cmc>0</cmc>
-				<type>Creature - Pureblood Heartless </type>
+				<type>Legendary Creature - Pureblood Heartless </type>
 				<maintype>Creature</maintype>
 				<pt>6/5</pt>
 			</prop>
@@ -274,7 +259,7 @@ Demon Tower takes damage in the form of -1/-1 counters.
 				<colors>B</colors>
 				<manacost>BBBBBB</manacost>
 				<cmc>6</cmc>
-				<type>Creature - Pureblood Heartless </type>
+				<type>Legendary Creature - Pureblood Heartless </type>
 				<maintype>Creature</maintype>
 				<pt>5/7</pt>
 			</prop>
@@ -327,7 +312,7 @@ When Dark Hide enters the battlefield cast a copy its other face without paying 
 				<colors>B</colors>
 				<manacost>BBBBBB</manacost>
 				<cmc>6</cmc>
-				<type>Creature - Pureblood Heartless </type>
+				<type>Legendary Creature - Pureblood Heartless </type>
 				<maintype>Creature</maintype>
 				<pt>5/6</pt>
 			</prop>
@@ -414,7 +399,7 @@ Dark Inferno has triple strike as long as it has 4 strike counters.</text>
 				<colors>B</colors>
 				<manacost>BBBBB</manacost>
 				<cmc>5</cmc>
-				<type>Creature - Pureblood Heartless </type>
+				<type>Legendary Creature - Pureblood Heartless </type>
 				<maintype>Creature</maintype>
 				<pt>6/1</pt>
 			</prop>
