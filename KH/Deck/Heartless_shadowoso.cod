@@ -20,7 +20,6 @@
         <card number="1" name="Sergeant"/>
         <card number="1" name="High Soldier"/>
         <card number="1" name="Armoured Knight"/>
-        <card number="1" name="Firey Globe &amp; Ice Cube"/>
         <card number="1" name="Focus Popcat"/>
         <card number="1" name="Magic Popcat"/>
         <card number="1" name="Munny Popcat"/>
@@ -40,13 +39,11 @@
         <card number="1" name="Angel Star"/>
         <card number="1" name="Battleship"/>
         <card number="1" name="Bookmaster"/>
-        <card number="1" name="Bulky Vendor"/>
         <card number="1" name="Defender"/>
         <card number="1" name="Bandit"/>
         <card number="1" name="Fat Bandit"/>
         <card number="1" name="Large Body"/>
         <card number="1" name="Morning Star"/>
-        <card number="1" name="Trickster"/>
         <card number="1" name="Catastrochorus"/>
         <card number="1" name="Grim Reaper"/>
         <card number="1" name="King of Toys"/>
@@ -57,10 +54,62 @@
         <card number="1" name="Rock Troll"/>
         <card number="1" name="Phantom"/>
         <card number="1" name="Engulf in Darkness"/>
+        <card number="1" name="Fiery Globe &amp; Ice Cube"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Wonderland"/>
+        <card number="1" name="Ursula's Lair"/>
+        <card number="1" name="Twilight Town"/>
+        <card number="1" name="Traverse Town"/>
+        <card number="1" name="Toybox"/>
+        <card number="1" name="Timeless river"/>
+        <card number="1" name="The World that Never Was"/>
+        <card number="1" name="The Land of Dragons"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Sleeping Worlds"/>
+        <card number="1" name="San Fransokyo"/>
+        <card number="1" name="Pride Lands"/>
+        <card number="1" name="Port Royale"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Olympus"/>
+        <card number="1" name="Neverland"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Monstropolis"/>
+        <card number="1" name="Monstro"/>
+        <card number="1" name="Land of Departure"/>
+        <card number="1" name="Kingdom of Corona"/>
+        <card number="1" name="Jungle Deep"/>
+        <card number="1" name="Jafar's Haunt"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Hollow Bastion"/>
+        <card number="1" name="Hedge Maze"/>
+        <card number="1" name="Halloween Town"/>
+        <card number="1" name="Gothel's Tower"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Forbidden Mountain"/>
+        <card number="1" name="End of the World"/>
+        <card number="1" name="Enchanted Dominion"/>
+        <card number="1" name="Disney Castle"/>
+        <card number="1" name="Destiny Island"/>
+        <card number="1" name="Deep Space"/>
+        <card number="1" name="Beast's Castle"/>
+        <card number="1" name="Atlantica"/>
+        <card number="1" name="Agrabah"/>
+        <card number="1" name="100 Acre Wood"/>
+        <card number="1" name="Character Selection"/>
+        <card number="1" name="Unleash the Darkness"/>
+        <card number="1" name="Anti Form"/>
+        <card number="1" name="Undying Wickedness"/>
+        <card number="1" name="Ansem, the Seeker of Darkness"/>
+        <card number="1" name="Demon Tower"/>
     </zone>
     <zone name="tokens">
         <card number="1" name="Shadow"/>
         <card number="1" name="Heart"/>
         <card number="1" name="Barrel"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Bulky Vendor"/>
     </zone>
 </cockatrice_deck>
