@@ -78,7 +78,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
 				<maintype>Artifact</maintype>
 			</prop>
 			<tablerow>1</tablerow>
-			<text>Chose two —
+			<text>{T}: Chose two —
 • Add {W}.
 • Add {G}.
 • Add {R}.
@@ -166,9 +166,9 @@ Whenever a creature you control deals combat damage to an opponent, that opponen
 				<colors>B</colors>
 				<manacost></manacost>
 				<cmc>0</cmc>
-				<type>Token Creature - Zombie Pirate Army </type>
+				<type>Token Creature - Zombie Pirate</type>
 				<maintype>Creature</maintype>
-				<pt>0/0</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<text></text>
@@ -318,7 +318,7 @@ When this token leaves the field exile Jafar, the Genie.</text>
 				<manacost>X</manacost>
 				<cmc>X</cmc>
 				<type>Token Artifact</type>
-				<maintype>Creature</maintype>
+				<maintype>Artifact</maintype>
 				<pt>0/0</pt>
 			</prop>
 			<tablerow>2</tablerow>

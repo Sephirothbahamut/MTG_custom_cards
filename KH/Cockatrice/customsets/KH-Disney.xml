@@ -110,7 +110,7 @@ When Tinker Bell, Faithful Fairy enters the battlefield target a creature you co
 			</prop>
 			<tablerow>2</tablerow>
 			<text>Reach
-Whenever Phil and Rapunzel and one or more other creature attack or block, target creature you control gains reach until end of turn.</text>
+Whenever Phil and Rapunzel and one or more other creature block, target creature gains reach until end of turn.</text>
 		</card>
 		<card>
 			<name>Peter Pan</name>
@@ -390,7 +390,7 @@ Whenever Snow White, Princess of Innocens blocks amass Animals 1. (Put a +1/+0 c
 				<cmc>2</cmc>
 				<type>Creature - Dwarf </type>
 				<maintype>Creature</maintype>
-				<pt>X/X</pt>
+				<pt>*/*</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<text>Power and toughness of Sleepy, One of the Seven Dwarfs is equal the number of Dwarf creature under your control.
@@ -405,7 +405,7 @@ When Sleepy, One of the Seven Dwarfs enters the battlefield, search your library
 				<cmc>2</cmc>
 				<type>Creature - Dwarf </type>
 				<maintype>Creature</maintype>
-				<pt>X/X</pt>
+				<pt>*/*</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<text>Power and toughness of Doc, One of the Seven Dwarfs is equal the number of Dwarf creature under your control.
@@ -420,7 +420,7 @@ When Doc, One of the Seven Dwarfs enters the battlefield, search your library fo
 				<cmc>2</cmc>
 				<type>Creature - Dwarf </type>
 				<maintype>Creature</maintype>
-				<pt>X/X</pt>
+				<pt>*/*</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<text>Power and toughness of Grumpy, One of the Seven Dwarfs is equal the number of Dwarf creature under your control.
@@ -435,7 +435,7 @@ When Grumpy, One of the Seven Dwarfs enters the battlefield, search your library
 				<cmc>2</cmc>
 				<type>Creature - Dwarf </type>
 				<maintype>Creature</maintype>
-				<pt>X/X</pt>
+				<pt>*/*</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<text>Power and toughness of Dopey, One of the Seven Dwarfs is equal the number of Dwarf creature under your control.
@@ -450,7 +450,7 @@ When Dopey, One of the Seven Dwarfs enters the battlefield, search your library 
 				<cmc>2</cmc>
 				<type>Creature - Dwarf </type>
 				<maintype>Creature</maintype>
-				<pt>X/X</pt>
+				<pt>*/*</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<text>Power and toughness of Happy, One of the Seven Dwarfs is equal the number of Dwarf creature under your control.
@@ -465,7 +465,7 @@ When Happy, One of the Seven Dwarfs enters the battlefield, search your library 
 				<cmc>2</cmc>
 				<type>Creature - Dwarf </type>
 				<maintype>Creature</maintype>
-				<pt>X/X</pt>
+				<pt>*/*</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<text>Power and toughness of Bashful, One of the Seven Dwarfs is equal the number of Dwarf creature under your control.
@@ -480,7 +480,7 @@ When Bashful, One of the Seven Dwarfs enters the battlefield, search your librar
 				<cmc>2</cmc>
 				<type>Creature - Dwarf </type>
 				<maintype>Creature</maintype>
-				<pt>X/X</pt>
+				<pt>*/*</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<text>Power and toughness of Sneezy, One of the Seven Dwarfs is equal the number of Dwarf creature under your control.
@@ -529,7 +529,8 @@ Whenever Jasmine, Princess of Agrabah blocks, create a Treasure token.</text>
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<text>When Flora, Fauna and Merryweather enters the battlefield search your library for an enchantment card, reveal it, then shuffle and put that card on your hand.</text>
+			<text>Flying
+When Flora, Fauna and Merryweather enters the battlefield search your library for an enchantment card, reveal it, then shuffle and put that card on your hand.</text>
 		</card>
 		<card>
 			<name>Fairy godmother</name>

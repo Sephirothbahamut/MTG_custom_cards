@@ -148,8 +148,9 @@ WB: Transform Halloween Town.</text>
 			</prop>
 			<tablerow>0</tablerow>
 			<text>Port Royale enter the battlefield tapped.
+Port Royale enter the battlefield tapped.
 {T}: Add {U} or {B}.
-1U/B, {T}: Create X Zombie Token 1/1 with Indestructible, where X is the number of treasure tokens you control. Destroy them at the end of turn.</text>
+{1}{U}/{B}, {T}: Create X 1/1 Zombie tokens, where X is the number of treasure tokens you control.</text>
 		</card>
 		<card>
 			<name>Wonderland</name>
@@ -263,8 +264,9 @@ Cycling {3} ({3}, Discard this card: Draw a card.)</text>
 				<maintype>Land</maintype>
 			</prop>
 			<tablerow>0</tablerow>
-			<text>{T}: Add {R}.
-{R}, {T}: Create a Firework token: “{1}, Sacrifice Firework token: Deals 2 damage to any target.”</text>
+			<text>The Land of Dragons enters the battlefield tapped.
+{T}: Add {R}.
+{R}, {T}: Create a legendary Firework token: “{1}, Sacrifice Firework, {T}: Firework deals 2 damage to any target.”</text>
 		</card>
 		<card>
 			<name>Final World</name>
@@ -306,8 +308,9 @@ When a creature you control leaves the battlefield exile it. You can cast cards 
 				<maintype>Land</maintype>
 			</prop>
 			<tablerow>0</tablerow>
-			<text>{T}: Add {C}.
-{2}, {T}: Target artifact become a 2/2 Golem artifact creature until end of turn.</text>
+			<text>Toybox enters the battlefield tapped.
+{T}: Add {C}.
+{2}, {T}: Target artifact becomes a 2/2 Golem artifact creature until end of turn.</text>
 		</card>
 		<card>
 			<name>Kingdom of Corona</name>
@@ -493,8 +496,8 @@ As Temple Garden enters the battlefield, you may pay 2 life. If you don’t, it 
 				<maintype>Land</maintype>
 			</prop>
 			<tablerow>0</tablerow>
-			<text>{T}: Add {W}
-1W, {T}: Create a First Light Legendary artifact token with “{1}, {T}: Chose two: • Add {W}. • Add {G}. • Add {R}. • Add {U}.”</text>
+			<text>{T}: Add {W}.
+1W, {T}: Create a tapped First Light Legendary artifact token with “{1}, {T}: Chose two: • Add {W}. • Add {G}. • Add {R}. • Add {U}.”</text>
 		</card>
 		<card>
 			<name>Olympus</name>
