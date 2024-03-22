@@ -16,10 +16,7 @@
         <card number="1" name="Kingdom Key"/>
         <card number="1" name="Kingdom Key D"/>
         <card number="1" name="Wayward Wind"/>
-        <card number="1" name="Lost Memory"/>
         <card number="1" name="Rainfell"/>
-        <card number="1" name="Stormfall"/>
-        <card number="1" name="Ends of the Earth"/>
         <card number="1" name="Master's Defender"/>
         <card number="1" name="Destiny's Embrace"/>
         <card number="1" name="Two Becomes One"/>
@@ -91,11 +88,15 @@
         <card number="1" name="Xehanort, the Fallen Master"/>
         <card number="1" name="Yen Sid"/>
         <card number="1" name="Young Xehanort, the Corrupt Apprentice"/>
+        <card number="1" name="Master Form"/>
+        <card number="1" name="Limit Form"/>
+        <card number="1" name="Final Form"/>
     </zone>
     <zone name="tokens">
         <card number="1" name="Oblivion and Oathkeeper"/>
         <card number="1" name="Cornerstone of Light"/>
         <card number="1" name="Data Twilight Town"/>
+        <card number="1" name="Treasure"/>
     </zone>
     <zone name="side">
         <card number="1" name="Deep Space"/>

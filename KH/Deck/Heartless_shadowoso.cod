@@ -59,40 +59,32 @@
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Wonderland"/>
-        <card number="1" name="Ursula's Lair"/>
         <card number="1" name="Twilight Town"/>
         <card number="1" name="Traverse Town"/>
         <card number="1" name="Toybox"/>
         <card number="1" name="Timeless river"/>
         <card number="1" name="The World that Never Was"/>
         <card number="1" name="The Land of Dragons"/>
-        <card number="1" name="Swamp"/>
         <card number="1" name="Sleeping Worlds"/>
         <card number="1" name="San Fransokyo"/>
         <card number="1" name="Pride Lands"/>
         <card number="1" name="Port Royale"/>
-        <card number="1" name="Plains"/>
+        <card number="2" name="Plains"/>
         <card number="1" name="Olympus"/>
         <card number="1" name="Neverland"/>
-        <card number="1" name="Mountain"/>
+        <card number="3" name="Mountain"/>
         <card number="1" name="Monstropolis"/>
         <card number="1" name="Monstro"/>
         <card number="1" name="Land of Departure"/>
         <card number="1" name="Kingdom of Corona"/>
         <card number="1" name="Jungle Deep"/>
-        <card number="1" name="Jafar's Haunt"/>
-        <card number="1" name="Island"/>
         <card number="1" name="Hollow Bastion"/>
         <card number="1" name="Hedge Maze"/>
-        <card number="1" name="Halloween Town"/>
-        <card number="1" name="Gothel's Tower"/>
-        <card number="1" name="Forest"/>
+        <card number="2" name="Forest"/>
         <card number="1" name="Forbidden Mountain"/>
-        <card number="1" name="End of the World"/>
         <card number="1" name="Enchanted Dominion"/>
         <card number="1" name="Disney Castle"/>
         <card number="1" name="Destiny Island"/>
-        <card number="1" name="Deep Space"/>
         <card number="1" name="Beast's Castle"/>
         <card number="1" name="Atlantica"/>
         <card number="1" name="Agrabah"/>
@@ -103,10 +95,23 @@
         <card number="1" name="Undying Wickedness"/>
         <card number="1" name="Ansem, the Seeker of Darkness"/>
         <card number="1" name="Demon Tower"/>
+        <card number="1" name="Sora's Heartless"/>
+        <card number="3" name="Island"/>
     </zone>
     <zone name="tokens">
         <card number="1" name="Shadow"/>
-        <card number="1" name="Heart"/>
+        <card number="2" name="Heart"/>
+        <card number="1" name="Treasure"/>
+        <card number="1" name="Zombie Pirates"/>
+        <card number="1" name="Wolf"/>
+        <card number="1" name="Vaporfly"/>
+        <card number="1" name="Spirit"/>
+        <card number="1" name="Puffball"/>
+        <card number="1" name="Gigas"/>
+        <card number="1" name="Gardner Wall"/>
+        <card number="1" name="Data Twilight Town"/>
+        <card number="1" name="Cornerstone of Light"/>
+        <card number="1" name="Animals"/>
         <card number="1" name="Barrel"/>
     </zone>
     <zone name="side">

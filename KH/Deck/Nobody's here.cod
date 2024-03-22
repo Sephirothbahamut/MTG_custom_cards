@@ -29,7 +29,6 @@
         <card number="1" name="Sleeping Worlds"/>
         <card number="1" name="The Castle that Never Was"/>
         <card number="1" name="Twilight Town"/>
-        <card number="1" name="Keyblade Graveyard"/>
         <card number="1" name="Monstro"/>
         <card number="1" name="Agrabah"/>
         <card number="1" name="Atlantica"/>
@@ -38,7 +37,6 @@
         <card number="1" name="Disney Castle"/>
         <card number="1" name="Enchanted Dominion"/>
         <card number="1" name="End of the World"/>
-        <card number="1" name="Final World"/>
         <card number="1" name="Hollow Bastion"/>
         <card number="1" name="Jungle Deep"/>
         <card number="1" name="Land of Departure"/>
@@ -62,7 +60,6 @@
         <card number="1" name="AP Up"/>
         <card number="1" name="Elixir"/>
         <card number="1" name="Ether"/>
-        <card number="1" name="Final Limit"/>
         <card number="1" name="Hall of Empty Melodies"/>
         <card number="1" name="Limit Pass"/>
         <card number="1" name="Limit Recharge - Drive Recovery"/>
@@ -99,6 +96,9 @@
         <card number="1" name="Talisman of Progress"/>
         <card number="1" name="Talisman of Unity"/>
         <card number="1" name="100 Acre Wood"/>
+        <card number="1" name="Heart Release"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Island"/>
     </zone>
     <zone name="tokens">
         <card number="1" name="Data Twilight Town"/>
