@@ -43,7 +43,7 @@ World of Darkness can be your commander.</text>
 		</card>
 		<card>
 			<token>1</token>
-			<name>Shadow</name>
+			<name>KH Shadow</name>
 			<set rarity="common"></set>
 			<prop>
 				<colors>B</colors>
