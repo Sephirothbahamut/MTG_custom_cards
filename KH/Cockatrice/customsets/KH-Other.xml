@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name>KH-Other</name>
+			<longname>KH-Other</longname>
+			<settype>KH-Other</settype>
+		</set>
+	</sets>
+	<cards>
+
+		<card>
+			<name>KH Treasure (PoC)</name>
+			
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Artifact - Treasure</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>{T}: Sacrifice this artifact: Add one mana of any color to your mana pool.</text>
+		</card>
+		<card>
+			<name>KH Data Twilight Town</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>{T}: Add {C}.</text>
+		</card>
+		<card>
+			<name>KH Treasure (Agrabah)</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Artifact - Treasure </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>{T}: Sacrifice this artifact: Add one mana of any color to your mana pool.</text>
+		</card>
+		<card>
+			<name>KH The Monarch</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Designation</type>
+				<maintype>Designation</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>At the beginning of your end step, draw a card.
+Whenever a creature deals combat damage to you, its controller becomes the monarch. </text>
+		</card>
+		<card>
+			<name>KH Cornerstone of Light</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>{T}: Choose two —
+• Add {W}.
+• Add {G}.
+• Add {R}.
+• Add {U}.</text>
+		</card>
+		<card>
+			<name>KH The Loser</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Designation</type>
+				<maintype>Designation</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>During your upkeep discard a card.
+Whenever a creature you control deals combat damage to an opponent, that opponent becomes the loser. </text>
+		</card>
+		<card>
+			<name>KH Animals</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Creature - Bird Rabbit Squirrel Turtle Army </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>KH Soldier (Mulan)</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors>R</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Creature - Soldier </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>KH Gigas</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Creature - Robot </type>
+				<maintype>Creature</maintype>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>KH Davy Jones&apos;s Heart</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>When this token leaves the field exile Davy Jones.</text>
+		</card>
+		<card>
+			<name>KH Zombie Pirates</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Creature - Zombie Pirate </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>KH Iago &amp; the Black Lamp</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Artifact Creature</type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+When this token leaves the field exile Jafar, the Genie.</text>
+		</card>
+		<card>
+			<name>KH Soldier (Card B)</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Creature - Soldier </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>KH Soldier (Card R)</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors>R</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Creature - Soldier </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>KH Barrel</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Artifact Creature</type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>KH Spirit</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Creature - Spirit </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>KH Wolf</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Snow Creature</type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>KH Puffball</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Creature - Plant Army </type>
+				<maintype>Creature</maintype>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>KH Gardner Wall</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Creature - Plant </type>
+				<maintype>Creature</maintype>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>KH Vaporfly</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying</text>
+		</card>
+		<card>
+			<name>KH Heart</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>X</manacost>
+				<cmc>0</cmc>
+				<type>Token Artifact - Heart </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>{T}: Sacrifice this token. Add X mana to your mana pool. Spend this mana only to cast an Heartless or Nobody creature as though it was colorless or mana of any color.</text>
+		</card>
+		<card>
+			<name>KH Light Pillar</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Artifact Creature</type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>KH Tentaclaw</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Creature - Pureblood Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Tentaclaw must attack if able.</text>
+		</card>
+		<card>
+			<name>KH Gummiship</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Artifact - Vehicle </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Flying
+Whenever Gummiship attacks search your library for a land card, reveal it, then shuffle and put that card on your hand.
+Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+		</card>
+		<card>
+			<name>KH Vivi (clone)</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Creature</type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+
+
+	</cards>
+</cockatrice_carddatabase>

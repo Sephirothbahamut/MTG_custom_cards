@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name>KH-Diskey_villains</name>
+			<longname>KH-Diskey_villains</longname>
+			<settype>KH-Diskey_villains</settype>
+		</set>
+	</sets>
+	<cards>
+
+		<card>
+			<name>KH Davy Jones</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>UB</colors>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Creature - Pirate Horror </type>
+				<maintype>Creature</maintype>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Indestructible, boss
+		Whenever a creature enters the battlefield, its owner may sacrifice it, then create a treasure token.
+		2BB, {T}: amass Zombie Pirates 1.</text>
+		</card>
+		<card>
+			<name>KH Chernabog, the Pure Evil</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>UBRG</colors>
+				<manacost>BBBBBB</manacost>
+				<cmc>6</cmc>
+				<type>Legendary Planeswalker - Chernabog </type>
+				<maintype>Planeswalker</maintype>
+			<loyalty>6</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Reach, menace, boss
++1: When Chernabog attacks must be blocked if possible.
+0: Whenever you sacrifice a creature or token you gain 3 life.
+-1: BW/U/B/R/G, T: Sacrifice target creature or token you control.</text>
+		</card>
+		<card>
+			<name>KH Jafar</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>UB</colors>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Human Wizard </type>
+				<maintype>Creature</maintype>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Instant and sorcery spells you cast cost {1} less to cast.
+If Jafar would be sacrificed, exile Jafar, then return him to the battlefield transformed under his owner’s control.
+If Jafar would be destroyed in combat, you may pay {2} to sacrifice Jafar.</text>
+
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Jafar, the Genie</related>
+		</card>
+		<card>
+			<name>KH Captain James Hook</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>BR</colors>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Creature - Human Pirate </type>
+				<maintype>Creature</maintype>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Haste
+Boss (When this creature enters the battlefield, sacrifice other permanents with Boss you control.)
+Sacrifice a pirate or heartless creature, {T}: Destroy target artifact.</text>
+		</card>
+		<card>
+			<name>KH Ursula</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Octopus Wizard </type>
+				<maintype>Creature</maintype>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss
+Splash damage 1 (When this creature deals damage to a creature, it deals 1 damage to other creatures that player controls.)
+Sacrifice a creature, {T}: Create a 1/1 blue creature tentacle token with “splash damage 1”.</text>
+		</card>
+		<card>
+			<name>KH Hades</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Creature - God </type>
+				<maintype>Creature</maintype>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Ward {3}  (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
+Boss (When this creature enters the battlefield, sacrifice other permanents with Boss you control.)
+Whenever you gain life, target opponent loses that much life.
+Whenever you lose life, draw a card. You may use this ability only once per turn.</text>
+		</card>
+		<card>
+			<name>KH Scar</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>BG</colors>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Cat </type>
+				<maintype>Creature</maintype>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Trample
+Boss (When this creature enters the battlefield, sacrifice other permanents with Boss you control.)
+Sacrifice a creature, {T}: Create a food token.</text>
+		</card>
+		<card>
+			<name>KH Pete</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Cat </type>
+				<maintype>Creature</maintype>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flashback 3B (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+		</card>
+		<card>
+			<name>KH Maleficent</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Creature - Human Wizard </type>
+				<maintype>Creature</maintype>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss, ward {3}
+Target nonlegendary creature or enchantment in your graveyard gains flashback and decayed. The flashback cost is equal to its mana cost. You can active this ability once per turn.
+{T}: Surveil 4.
+If Maleficent would be sacrificed, exile Maleficent, then return her to the battlefield transformed under her owner’s control.
+If Maleficent would be destroyed in combat, you may pay 6 life to sacrifice Maleficent.</text>
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Maleficent Dragon Form</related>
+		</card>
+		<card>
+			<name>KH Dr Finkelstein</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Human Horror </type>
+				<maintype>Creature</maintype>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>1B, {T}: Create a 2/2 black Zombie creature token with decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)</text>
+		</card>
+		<card>
+			<name>KH Oogie Boogie</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Horror </type>
+				<maintype>Creature</maintype>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss
+When Oogie Boogie attacks, roll a d20.
+1|Lose 5 life.
+2-10 | Lose 2 life, create a Shadow token.
+11-19| Lose 1 life, create two Shadow tokens.
+20|Create five Shadow tokens.
+If Oogie Boogie would be sacrificed, exile Oogie Boogie, then return him to the battlefield transformed under his owner’s control.
+If Oogie Boogie would be destroyed in combat, you may sacrifice a land to sacrifice Oogie Boogie. </text>
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Oogie's Manor</related>
+		</card>
+		<card>
+			<name>KH Shan Yu</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BG</colors>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Human Soldier </type>
+				<maintype>Creature</maintype>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss (When this creature enters the battlefield, sacrifice other permanents with Boss you control.)
+When Shan Yu attacks alone, it can’t be blocked.
+When Shan Yu is blocked, create two Shadow tokens.</text>
+		</card>
+		<card>
+			<name>KH Clock-o-dile</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UB</colors>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Enchantment Creature - Saga </type>
+				<maintype>Creature</maintype>
+				<pt></pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>KH Mother Gothel</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<type>Legendary Creature - Human </type>
+				<maintype>Creature</maintype>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Mother Gothel enters the battlefield, exile target creature an opponent controls until Mother Gothel leaves the battlefield.</text>
+		</card>
+		<card>
+			<name>KH Queen of Hearts</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>BR</colors>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<type>Legendary Creature - Human Noble </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss (When this creature enters the battlefield, sacrifice other permanents with Boss you control.)
+XB/RB/R, {T}: Create X 1/1 red or black soldier creature tokens.
+If Queen of Hearts would be destroyed, you may discard a card and sacrifice an untapped red or black soldier creature tokens instead. Then tap Queen of Hearts.
+When Queen of Hearts leaves the battlefield destroy all soldier token you control.</text>
+		</card>
+		<card>
+			<name>KH Clayton</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Human Mercenary </type>
+				<maintype>Creature</maintype>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Range (When this creature attacks it takes no damage from creatures without range or reach.)
+Boss (When this creature enters the battlefield, sacrifice other permanents with Boss you control.)
+When Clayton enters the battlefield, you may search your library for an Heartless creature card with mana value 3 or less and put it on the battlefield.
+When Clayton attacks, explore.</text>
+		</card>
+		<card>
+			<name>KH Hydra</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>XG</manacost>
+				<cmc>1</cmc>
+				<type>Legendary Creature - Hydra </type>
+				<maintype>Creature</maintype>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Hydra enters the battlefield with a +1/+1 counter on it.
+{X}, Sacrifice Hydra, {T}: Destroy target nonlegendary creature. X is the number of counters on Hydra.
+Whenever Hydra would leave the battlefield, you may pay BG for each counter on Hydra. If you do, put a +1/+1 counter on it instead.</text>
+		</card>
+		<card>
+			<name>KH Cerberus</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BG</colors>
+				<manacost>B/GB/GB/G</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Dog Dog Dog </type>
+				<maintype>Creature</maintype>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Menace (This creature can’t be blocked except by two or more creatures.)
+Sacrifice a creature: Cerberus gains double strike until end of turn.
+Sacrifice two creatures: Cerberus gains triple strike until end of turn.</text>
+		</card>
+		<card>
+			<name>KH Pain and Panic</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Demon </type>
+				<maintype>Creature</maintype>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{T}: Sacrifice Pain and Panic, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+		</card>
+		<card>
+			<name>KH Magic Mirror</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<type>Artifact Creature - Golem </type>
+				<maintype>Creature</maintype>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{T}: Scry 2.
+{2}, {T}: Draw a card.
+{3}: Add a shield counter on Magic Mirror until your next upkeep. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
+		</card>
+		<card>
+			<name>KH Hydros, the Ice Titan</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Snow Creature - Avatar </type>
+				<maintype>Creature</maintype>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Reach
+2U, {T}: Tap target creature, then put a stun counter on it.</text>
+		</card>
+		<card>
+			<name>KH Sabor</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<type>Creature - Cat </type>
+				<maintype>Creature</maintype>
+				<pt>5/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Haste, trample
+1G: Sabor fights target creature you don’t control. (Each deals damage equal to its power to the other.)</text>
+		</card>
+		<card>
+			<name>KH Pyros, the Lava Titan</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>R</colors>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Avatar </type>
+				<maintype>Creature</maintype>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Sacrifice a creature, {T}: Pyros deals 3 damage to target creature.</text>
+		</card>
+		<card>
+			<name>KH Stratos, the Wind Titan</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Avatar </type>
+				<maintype>Creature</maintype>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+{4}, {T}: Return target permanent to its owner’s hand.</text>
+		</card>
+		<card>
+			<name>KH Lythos, the Rock Titan</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Avatar </type>
+				<maintype>Creature</maintype>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Sacrifice a creature: Lythos, the Rock Titan can’t be blocked until end of turn.</text>
+		</card>
+		<card>
+			<name>KH Flotsam and Jetsam</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Fish Ally </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Double strike (This creature deals both first-strike and regular combat damage.)
+4U, {T}: Tap target creature and put a stun counter on it.</text>
+		</card>
+		<card>
+			<name>KH Shenzi, Banzai and Ed</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Dog </type>
+				<maintype>Creature</maintype>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Triple strike (This creature deals first-strike, regular, and last-strike combat damage.)
+{2}, {T}: Sacrifice a food token, put a +1/+1 counter on Shenzi, Banzai and Ed.</text>
+		</card>
+		<card>
+			<name>KH Jafar, the Genie</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>BR</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Creature - Djinn </type>
+				<maintype>Creature</maintype>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Indestructible, boss
+When Jafar, the Genie enters the battlefield, create a 0/1 artifact creature token named “Iago &amp; the Black Lamp” with flying and “When this token leaves the field exile Jafar, the Genie.”.
+XXR, {T}: Jafar, the Genie deals X damage to any target.</text>
+		</card>
+		<card>
+			<name>KH Maleficent Dragon Form</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>BR</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Creature - Dragon </type>
+				<maintype>Creature</maintype>
+				<pt>8/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying, menace
+Boss (When this creature enters the battlefield, sacrifice other permanents with Boss you control.)
+Splash damage 1 (When this creature deals damage to a creature, it deals 1 damage to other creatures that player controls.)</text>
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Maleficent</related>
+		</card>
+		<card>
+			<name>KH Jolly Roger</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>R</colors>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<type>Artifact - Vehicle </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Islandwalk, range
+{T}: Add {R} or {B}.
+Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+		</card>
+		<card>
+			<name>KH Oogie&apos;s Manor</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Planeswalker - Oogie Boogie </type>
+				<maintype>Planeswalker</maintype>
+			<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>T: Add B.
++1: 3B: Oogie’s Manor becomes a 2/4 black Golem creature with defender until end of turn. It’s still a land.0: -3: </text>
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Oogie Boogie</related>
+		</card>
+		<card>
+			<name>KH Flying Dutchman</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<type>Artifact - Vehicle </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Islandwalk, range
+{T}: Add {U} or {B}.
+Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+		</card>
+		<card>
+			<name>KH Dark Baymax</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<type>Artifact Creature - Robot Equipment </type>
+				<maintype>Creature</maintype>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+Equipped creature gets +2/+0 and flying.
+Reconfigure {3} ({3}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn’t a creature.)</text>
+		</card>
+
+		<!-->Tokens</-->
+
+
+	</cards>
+</cockatrice_carddatabase>

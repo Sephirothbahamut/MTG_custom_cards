@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name>KH-Creatures</name>
+			<longname>KH-Creatures</longname>
+			<settype>KH-Creatures</settype>
+		</set>
+	</sets>
+	<cards>
+
+		<card>
+			<name>KH The Mog</name>
+			<set rarity=""></set>
+			<prop>
+				<colors>M</colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Mog	// Legendary Artifact - Equipment </type>
+				<maintype>Creature</maintype>
+					<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Hexproof, indestructible, protection from everything
+When an Artifact enters another player’s field, its controller loses life equal to that Artifact’s converted mana cost.
+When an Artifact enters your field, you may exile it, then put it in target player’s field.
+Creatures equipped with artifacts you own are goaded.
+{3}: Add CCCCCC to your mana pool. Use this mana only to cast Artifact spells.
+XC, {T}: Mill X. You can cast Artifact spells from your graveyard until end of turn.</text>
+		</card>
+		<card>
+			<name>KH Mog</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Mog	// Legendary Artifact - Equipment </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Artifacts spells you cast cost {1} less.
+XX, {T}: Search your Library for an artifact card with converted mana cost X or less. Put it on the battlefield tapped.</text>
+		</card>
+		<card>
+			<name>KH Dreameater</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WB</colors>
+				<manacost>W/B</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Spirit </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Dreameater enters or leaves the battlefield put a +1/+1 counter on other creature.</text>
+		</card>
+		<card>
+			<name>KH Cid Highwind </name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Human Artificer </type>
+				<maintype>Creature</maintype>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{5},{T}: Create a copy of Gummiship and put it on the battlefield.</text>
+		</card>
+		<card>
+			<name>KH Squall Leonheart</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>R</colors>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Human Soldier </type>
+				<maintype>Creature</maintype>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Reach
+1R, {T}: Squall Leonheart deals 3 damage to target creature.</text>
+		</card>
+		<card>
+			<name>KH Yozora</name>
+			<set rarity=""></set>
+			<prop>
+				<colors>WUBR</colors>
+				<manacost>2W/BW/BU/RU/R</manacost>
+				<cmc>6</cmc>
+				<type>Legendary Creature - Human Warrior </type>
+				<maintype>Creature</maintype>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>At the beginning of your upkeep, choose one — 
+ • Keyblade steal — Yozora becomes Keyblade-Wielder until end of turn. Equip target keyblade artifact to Yozora until end of turn.
+ • Absorbing beam — Tap all artifacts until end of turn. Yozora gains lifelink and flying until end of turn.
+ • White reality — Create three colorless token Robot creatures named Gigas 3/3 with “This token must attack if able”. Destroy them at the end of turn.
+ • Blue slashes — Yozora gains deathtouch until end of turn.
+ </text>
+		</card>
+		<card>
+			<name>KH Cloud Strife</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Human Soldier </type>
+				<maintype>Creature</maintype>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Vigilance, trample
+Cloud Strife must attack and block if able.</text>
+		</card>
+		<card>
+			<name>KH Yuffie Kisaragi</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Human Ninja </type>
+				<maintype>Creature</maintype>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Ninjutsu 1UB (1UB, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+When Yuffie Kisaragi enters the battlefield, draw a card, then discard a card.</text>
+		</card>
+		<card>
+			<name>KH Tifa Lockhart</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>R</colors>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Human Warrior </type>
+				<maintype>Creature</maintype>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Tifa Lockhart enters the battlefield, Tifa Lockhart may fight target creature. (Each deals damage equal to its power to the other.)</text>
+		</card>
+		<card>
+			<name>KH Aerith Gainsborough</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Human Druid </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{T}: Add {G}.
+Sacrifice Aerith Gainsborough, {T}: Creatures you control have hexproof until end of turn.</text>
+		</card>
+		<card>
+			<name>KH Joshua Kiryu</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Human Gamer </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Whenever a creature is destroyed, exile it instead. If you do, you may pay {3}, and if you do you may cast it. Exile it at end of turn.</text>
+		</card>
+		<card>
+			<name>KH Neku</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Human Gamer </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Discard a card, {T}: Draw a card.</text>
+		</card>
+		<card>
+			<name>KH Auron</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>R</colors>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Human Warrior </type>
+				<maintype>Creature</maintype>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Auron enters the battlefield, put a +1/+1 counter on target creature.
+Flashback 3BR (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+		</card>
+		<card>
+			<name>KH Zack Fair</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WB</colors>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Human Soldier </type>
+				<maintype>Creature</maintype>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</text>
+		</card>
+		<card>
+			<name>KH Setzer Gabbiani</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BR</colors>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Human Warrior </type>
+				<maintype>Creature</maintype>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Setzer Gabbiani attacks alone, it gains first strike until end of turn.</text>
+		</card>
+		<card>
+			<name>KH Gullwings</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Faerie </type>
+				<maintype>Creature</maintype>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Gullwings enters or leaves the battlefield, search an equipment from your library, reveal it, then put it in your hand.</text>
+		</card>
+		<card>
+			<name>KH Vivi, the black magician</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Creature - Unknouwn Wizard </type>
+				<maintype>Creature</maintype>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{2}, {T}: Create a 1/1 creature token named Vivi.
+You can control maximum fourteen Vivi tokens.</text>
+		</card>
+		<card>
+			<name>KH Wakka</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Human </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Wakka enters the battlefield, choose one —
+• To see rare sights — Draw two card and discard two. If you reveal your hand, discard one instead.
+• To broaden my horizons —	search your library for a land card, reveal it, then shuffle and put that card on your hand.
+• To be strong — Target creature you control gains +3/+0.</text>
+		</card>
+		<card>
+			<name>KH Seifer</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>R</colors>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Human </type>
+				<maintype>Creature</maintype>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Haste
+When Seifer leaves the battlefield, it deals 1 damage to any target.</text>
+		</card>
+		<card>
+			<name>KH Selphie Tilmitt</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Human </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Selphie Tilmitt enters the battlefield, choose one —
+• Being number one — Target creature gains first strike.
+• Friendship — Creatures you control gains +1/+1.
+• My prized possession — Create a Treasure token.</text>
+		</card>
+		<card>
+			<name>KH Tidus</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Human </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Tidus enters the battlefield, choose one —
+• Getting old — Gain 5 life.
+• Being different — Target a human creature you control, its power and toughness become equal to another target creature you control and loses its abilities.
+• Being indecisive — Tidus deals 3 damage to random opponent.</text>
+		</card>
+		<card>
+			<name>KH Sephiroth</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<type>Legendary Creature - Angel Soldier </type>
+				<maintype>Creature</maintype>
+				<pt>7/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss (When this creature enters the battlefield, sacrifice other permanents with Boss you control.)
+During your upkeep choose one —
+• Zantetsuken: Sephiroth gets first strike until end of turn.
+• Darkness Orbs: Create three 1/1 black Darkness Orb creature tokens, tapped and attacking. Destroy them at the end of turn.
+• Meteor: Sephiroth deals 2 damage to all creatures.
+• Heartless Angel: Other creatures toughness becomes 1 until end of turn unless opponents pay {3}.</text>
+		</card>
+
+		<!-->Tokens</-->
+
+
+	</cards>
+</cockatrice_carddatabase>

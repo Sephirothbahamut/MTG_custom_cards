@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name>KH-Item</name>
+			<longname>KH-Item</longname>
+			<settype>KH-Item</settype>
+		</set>
+	</sets>
+	<cards>
+
+		<card>
+			<name>KH Potion</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Artifact - Drop</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>(Whenever a source you control deals damage to a creature, if that creature would die this turn, drop) (Toss a coin. If you call it right, return a random Drop artifact from your graveyard to the battlefield tapped.)
+{T}, Sacrifice Potion: Regenerate target creature and gain 1 life.</text>
+		</card>
+		<card>
+			<name>KH Mega-Potion</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Artifact - Drop</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>(Whenever a source you control deals damage to a creature, if that creature would die this turn, drop) (Toss a coin. If you call it right, return a random Drop artifact from your graveyard to the battlefield tapped.)
+{T}, Sacrifice Mega-Potion: Regenerate target creature twice and gain 5 life.</text>
+		</card>
+		<card>
+			<name>KH Ether</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Artifact - Drop</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>(Whenever a source you control deals damage to a creature, if that creature would die this turn, drop) (Toss a coin. If you call it right, return a random Drop artifact from your graveyard to the battlefield tapped.)
+{T}, Sacrifice Ether: Return up to 1 instant or sorcery spell from your graveyard to your hand.</text>
+		</card>
+		<card>
+			<name>KH Mega-Ether</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Artifact - Drop</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>(Whenever a source you control deals damage to a creature, if that creature would die this turn, drop) (Toss a coin. If you call it right, return a random Drop artifact from your graveyard to the battlefield tapped.)
+{T}, Sacrifice Mega-Ether: Return up to 2 instant or sorcery spells from your graveyard to your hand.</text>
+		</card>
+		<card>
+			<name>KH Elixir</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Artifact - Drop</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>(Whenever a source you control deals damage to a creature, if that creature would die this turn, drop) (Toss a coin. If you call it right, return a random Drop artifact from your graveyard to the battlefield tapped.)
+{T}, Sacrifice Elixir: Regenerate target creature. Gain 1 life. Return up to 1 instant or sorcery spell from your graveyard to your hand.</text>
+		</card>
+		<card>
+			<name>KH Mega-Elixir</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors></colors>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<type>Artifact - Drop</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>(Whenever a source you control deals damage to a creature, if that creature would die this turn, drop)
+{T}, Sacrifice Mega-Elixir: Regenerate target creature twice. Gain 5 life. Return up to 2 instant or sorcery spells from your graveyard to your hand.</text>
+		</card>
+		<card>
+			<name>KH AP Up</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Artifact - Drop</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>(Whenever a source you control deals damage to a creature, if that creature would die this turn, drop) (Toss a coin. If you call it right, return a random Drop artifact from your graveyard to the battlefield tapped.)
+{T}, Sacrifice AP Up: Target creature gains an AP counter. (Activated abilities of this creature cost {1} less per each AP counter on it.)</text>
+		</card>
+		<card>
+			<name>KH Power Up</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Artifact - Drop</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>(Whenever a source you control deals damage to a creature, if that creature would die this turn, drop) (Toss a coin. If you call it right, return a random Drop artifact from your graveyard to the battlefield tapped.)
+{T}, Sacrifice Power Up: Target creature gains a +1/+0.</text>
+		</card>
+		<card>
+			<name>KH Defense Up</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Artifact - Drop</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>(Whenever a source you control deals damage to a creature, if that creature would die this turn, drop) (Toss a coin. If you call it right, return a random Drop artifact from your graveyard to the battlefield tapped.)
+{T}, Sacrifice Defense Up: Target creature gains a +0/+1.</text>
+		</card>
+		<card>
+			<name>KH Crafting Recipe</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Artifact - Drop</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>When Crafting Recipe enters the battlefield, exile an Artifact card from your deck.
+When a card you control destroys a creature, create a Crafting Ingredient artifact token.
+{T}: Sacrifice Crafting Recipe and 4 Crafting Ingredient tokens. Return the exiled card to the battlefield.</text>
+		</card>
+		<card>
+			<name>KH Limit Recharge - Drive Recovery</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Artifact - Drop</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>(Whenever a source you control deals damage to a creature, if that creature would die this turn, drop) (Toss a coin. If you call it right, return a random Drop artifact from your graveyard to the battlefield tapped.)
+{T}: Sacrifice Limit Recharge - Drive Recovery, then chose one — 
+ • Remove 1 limit break counter from target creature.
+ • Return a fusion enchantment from your graveyard to your hand.</text>
+		</card>
+		<card>
+			<name>KH Limit Pass</name>
+			<set rarity=""></set>
+			<prop>
+				<colors>M</colors>
+				<manacost>99</manacost>
+				<cmc>99</cmc>
+				<type>Legendary Artifact // Legendary Artifact - Equipment </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>If you killed 2 opponent this turn you may play this card without paying its mana cost.
+T: Sacrifice Limit Pass. Create an Emblem with “Creatures you control have no Limit Break counters. During the end phase before your turn, you may cast any Limit spell on the back side of your creatures without paying its mana cost”.</text>
+		</card>
+		<card>
+			<name>KH Munny</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<type>Artifact - Drop</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>
+When Munny enters the battlefield, drop. (Toss a coin. If you call it right, return a random Drop artifact from your graveyard to the battlefield tapped.)
+{T}: Sacrifice Munny: Add one mana of any color to your mana pool. Use this mana only to cast Artifact spells.
+A deck can have up to 5 cards named Munny.</text>
+		</card>
+
+		<!-->Tokens</-->
+
+
+	</cards>
+</cockatrice_carddatabase>

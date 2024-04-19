@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="World of Darkness"/>
+        <card number="1" name="Dark Hide"/>
+        <card number="1" name="Novashadow"/>
+        <card number="1" name="Darkside"/>
+        <card number="1" name="Orcus"/>
+        <card number="1" name="Gigas Shadow"/>
+        <card number="1" name="Earth Core"/>
+        <card number="1" name="Flame Core"/>
+        <card number="1" name="Water Core"/>
+        <card number="1" name="White Mushroom"/>
+        <card number="1" name="Pink Agaricus"/>
+        <card number="1" name="Aeroplane"/>
+        <card number="1" name="Soldier"/>
+        <card number="1" name="Commander"/>
+        <card number="1" name="Sergeant"/>
+        <card number="1" name="High Soldier"/>
+        <card number="1" name="Armoured Knight"/>
+        <card number="1" name="Focus Popcat"/>
+        <card number="1" name="Magic Popcat"/>
+        <card number="1" name="Munny Popcat"/>
+        <card number="1" name="Vitality Popcat"/>
+        <card number="1" name="Pole Cannon"/>
+        <card number="1" name="Air Soldier"/>
+        <card number="1" name="Chief Puff"/>
+        <card number="1" name="Iron Hammer"/>
+        <card number="1" name="Marionette"/>
+        <card number="1" name="Nightwalker"/>
+        <card number="1" name="Powerwild"/>
+        <card number="1" name="Sniperwild"/>
+        <card number="1" name="Rapid Thruster"/>
+        <card number="1" name="Rapid Dog"/>
+        <card number="1" name="Sea Neon"/>
+        <card number="1" name="Surveillance Robot"/>
+        <card number="1" name="Angel Star"/>
+        <card number="1" name="Battleship"/>
+        <card number="1" name="Bookmaster"/>
+        <card number="1" name="Defender"/>
+        <card number="1" name="Bandit"/>
+        <card number="1" name="Fat Bandit"/>
+        <card number="1" name="Large Body"/>
+        <card number="1" name="Morning Star"/>
+        <card number="1" name="Catastrochorus"/>
+        <card number="1" name="Grim Reaper"/>
+        <card number="1" name="King of Toys"/>
+        <card number="1" name="Guard Armour"/>
+        <card number="1" name="Ruler of the Sky"/>
+        <card number="1" name="Sköll"/>
+        <card number="1" name="Stealth Sneak"/>
+        <card number="1" name="Rock Troll"/>
+        <card number="1" name="Phantom"/>
+        <card number="1" name="Engulf in Darkness"/>
+        <card number="1" name="Fiery Globe &amp; Ice Cube"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Wonderland"/>
+        <card number="1" name="Twilight Town"/>
+        <card number="1" name="Traverse Town"/>
+        <card number="1" name="Toybox"/>
+        <card number="1" name="Timeless river"/>
+        <card number="1" name="The World that Never Was"/>
+        <card number="1" name="The Land of Dragons"/>
+        <card number="1" name="Sleeping Worlds"/>
+        <card number="1" name="San Fransokyo"/>
+        <card number="1" name="Pride Lands"/>
+        <card number="1" name="Port Royale"/>
+        <card number="2" name="Plains"/>
+        <card number="1" name="Olympus"/>
+        <card number="1" name="Neverland"/>
+        <card number="3" name="Mountain"/>
+        <card number="1" name="Monstropolis"/>
+        <card number="1" name="Monstro"/>
+        <card number="1" name="Land of Departure"/>
+        <card number="1" name="Kingdom of Corona"/>
+        <card number="1" name="Jungle Deep"/>
+        <card number="1" name="Hollow Bastion"/>
+        <card number="1" name="Hedge Maze"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Forbidden Mountain"/>
+        <card number="1" name="Enchanted Dominion"/>
+        <card number="1" name="Disney Castle"/>
+        <card number="1" name="Destiny Island"/>
+        <card number="1" name="Beast's Castle"/>
+        <card number="1" name="Atlantica"/>
+        <card number="1" name="Agrabah"/>
+        <card number="1" name="100 Acre Wood"/>
+        <card number="1" name="Character Selection"/>
+        <card number="1" name="Unleash the Darkness"/>
+        <card number="1" name="Anti Form"/>
+        <card number="1" name="Undying Wickedness"/>
+        <card number="1" name="Ansem, the Seeker of Darkness"/>
+        <card number="1" name="Demon Tower"/>
+        <card number="1" name="Sora's Heartless"/>
+        <card number="3" name="Island"/>
+    </zone>
+    <zone name="tokens">
+        <card number="1" name="Shadow"/>
+        <card number="2" name="Heart"/>
+        <card number="1" name="Treasure"/>
+        <card number="1" name="Zombie Pirates"/>
+        <card number="1" name="Wolf"/>
+        <card number="1" name="Vaporfly"/>
+        <card number="1" name="Spirit"/>
+        <card number="1" name="Puffball"/>
+        <card number="1" name="Gigas"/>
+        <card number="1" name="Gardner Wall"/>
+        <card number="1" name="Data Twilight Town"/>
+        <card number="1" name="Cornerstone of Light"/>
+        <card number="1" name="Animals"/>
+        <card number="1" name="Barrel"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Bulky Vendor"/>
+    </zone>
+</cockatrice_deck>

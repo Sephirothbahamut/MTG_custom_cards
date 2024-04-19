@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name>KH-Sorcery</name>
+			<longname>KH-Sorcery</longname>
+			<settype>KH-Sorcery</settype>
+		</set>
+	</sets>
+	<cards>
+
+		<card>
+			<name>KH Hades Cup</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<type>Battle - Siege </type>
+				<maintype>Battle</maintype>
+			<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>When Hades Cup is defeated defending player becomes the Loser.
+Whenever one or more creatures attack Hades Cup, defending player may pay 2 life to create a 1/1 colorless Spirit creature token tapped and blocking. Destroy it at end of combat.</text>
+		</card>
+		<card>
+			<name>KH Olympus Cup</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<type>Battle</type>
+				<maintype>Battle</maintype>
+			<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>While you control Olympus Cup you are the Monarch.
+Whenever one or more creatures attack Olympus Cup you may create a 0/1 colorless artifact creature token named “Barrel” tapped and blocking. Destroy it at end of combat.</text>
+		</card>
+		<card>
+			<name>KH One sky on destiny</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WU</colors>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Scry 2, then you and target opponent draw a card. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</text>
+		</card>
+		<card>
+			<name>KH Strike Raid</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Sorcery - Action-Ability </type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Target creature gains range until end of turn. (When this creature attacks it takes no damage from creatures without range or reach.)</text>
+		</card>
+		<card>
+			<name>KH Ars Arcanum</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Sorcery - Action-Ability </type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Target creature gains menace until end of turn. (That creature can’t be blocked except by two or more creatures.)</text>
+		</card>
+		<card>
+			<name>KH Ragnarok</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Sorcery - Action-Ability </type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Target creature gains splash damage 1 until end of turn. (When this creature deals damage to a creature, deal 1 damage to other creatures that player controls.)</text>
+		</card>
+		<card>
+			<name>KH Sonic Blade</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Sorcery - Action-Ability </type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Target creature gains trample until end of turn. (That creature can deal excess combat damage to the player or planeswalker it’s attacking.)</text>
+		</card>
+		<card>
+			<name>KH Fight Fire with Sparks</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Destroy target artifact.</text>
+		</card>
+		<card>
+			<name>KH Attack the Barrel</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Destroy target artifact, then tap target creature.</text>
+		</card>
+		<card>
+			<name>KH Red Trinity</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>R</colors>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Chose one — 
+ • Destroy target artifact.
+ • Deal 2 damage to target creature token.</text>
+		</card>
+		<card>
+			<name>KH Undying Wickedness</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Target black creature from your graveyard, put it on the battlefield. That creature gains haste. (That creature can attack and {T} as soon as it comes under your control.)</text>
+		</card>
+		<card>
+			<name>KH Restoring Sleep</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Target creature you control loses all its abilities, then it gains all abilities of target creature you control.</text>
+		</card>
+		<card>
+			<name>KH Travel to New Worlds</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>You may play an additional land this turn.
+Draw a card.</text>
+		</card>
+		<card>
+			<name>KH Voluntary Sacrifice</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>XB</manacost>
+				<cmc>1</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Sacrifice X creatures without boss, create Shadow tokens for each creature sacrificed this way.</text>
+		</card>
+		<card>
+			<name>KH Strike Raid (copy)</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Sorcery - Action-Ability </type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Target creature gains range until end of turn. (When this creature attacks it takes no damage from creatures without range or reach.)</text>
+		</card>
+		<card>
+			<name>KH Ars Arcanum (copy)</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Sorcery - Action-Ability </type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Target creature gains menace until end of turn. (That creature can’t be blocked except by two or more creatures.)</text>
+		</card>
+		<card>
+			<name>KH Ragnarok (copy)</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Sorcery - Action-Ability </type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Target creature gains splash damage 1 until end of turn. (When this creature deals damage to a creature, deal 1 damage to other creatures that player controls.)</text>
+		</card>
+		<card>
+			<name>KH Sonic Blade (copy)</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Sorcery - Action-Ability </type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Target creature gains trample until end of turn. (That creature can deal excess combat damage to the player or planeswalker it’s attacking.)</text>
+		</card>
+
+
+	</cards>
+</cockatrice_carddatabase>

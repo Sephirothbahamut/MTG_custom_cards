@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Nobody's here</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Assassin"/>
+        <card number="1" name="Axel"/>
+        <card number="1" name="Berserker"/>
+        <card number="1" name="Dancer"/>
+        <card number="1" name="Demyx"/>
+        <card number="1" name="Dragoon"/>
+        <card number="1" name="Lexaeus"/>
+        <card number="1" name="Luxord"/>
+        <card number="1" name="Marluxia"/>
+        <card number="1" name="Naminé"/>
+        <card number="1" name="Roxas"/>
+        <card number="1" name="Saïx"/>
+        <card number="1" name="Samurai"/>
+        <card number="1" name="Sniper"/>
+        <card number="1" name="Sorcerer"/>
+        <card number="1" name="Vexen"/>
+        <card number="1" name="Xaldin"/>
+        <card number="1" name="Xemnas"/>
+        <card number="1" name="Xigbar"/>
+        <card number="1" name="Sleeping Worlds"/>
+        <card number="1" name="The Castle that Never Was"/>
+        <card number="1" name="Twilight Town"/>
+        <card number="1" name="Monstro"/>
+        <card number="1" name="Agrabah"/>
+        <card number="1" name="Atlantica"/>
+        <card number="1" name="Beast's Castle"/>
+        <card number="1" name="Destiny Island"/>
+        <card number="1" name="Disney Castle"/>
+        <card number="1" name="Enchanted Dominion"/>
+        <card number="1" name="End of the World"/>
+        <card number="1" name="Hollow Bastion"/>
+        <card number="1" name="Jungle Deep"/>
+        <card number="1" name="Land of Departure"/>
+        <card number="1" name="Monstropolis"/>
+        <card number="1" name="Olympus"/>
+        <card number="1" name="Pride Lands"/>
+        <card number="1" name="San Fransokyo"/>
+        <card number="1" name="Timeless river"/>
+        <card number="1" name="Toybox"/>
+        <card number="1" name="Traverse Town"/>
+        <card number="1" name="Attack the Barrel"/>
+        <card number="1" name="Betwixt and Between"/>
+        <card number="1" name="Fight Fire with Sparks"/>
+        <card number="1" name="Red Trinity"/>
+        <card number="1" name="Restoring Sleep"/>
+        <card number="1" name="Elixir"/>
+        <card number="1" name="Ether"/>
+        <card number="1" name="Hall of Empty Melodies"/>
+        <card number="1" name="Limit Recharge - Drive Recovery"/>
+        <card number="1" name="Mega-Potion"/>
+        <card number="5" name="Munny"/>
+        <card number="1" name="Mega-Elixir"/>
+        <card number="1" name="Nothing's Call"/>
+        <card number="1" name="Potion"/>
+        <card number="1" name="Power Up"/>
+        <card number="1" name="Proof of Existence"/>
+        <card number="1" name="Twilight Thorn"/>
+        <card number="1" name="Where Nothing Gathers"/>
+        <card number="1" name="Altar of Naught"/>
+        <card number="1" name="Duel Gear"/>
+        <card number="1" name="Hazard Gear"/>
+        <card number="1" name="Nimble Gear"/>
+        <card number="1" name="Omega Gear"/>
+        <card number="1" name="Pandora's Gear"/>
+        <card number="1" name="Phantom Gear"/>
+        <card number="1" name="Huey, Dewey, and Louie"/>
+        <card number="1" name="Bulky Vendor"/>
+        <card number="1" name="Pot Spider"/>
+        <card number="1" name="Crafting Recipe"/>
+        <card number="1" name="Port Royale"/>
+        <card number="1" name="The World that Never Was"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Talisman of Impulse"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Talisman of Unity"/>
+        <card number="1" name="100 Acre Wood"/>
+        <card number="1" name="Heart Release"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="The Cave of Wonders"/>
+        <card number="1" name="Xion (altart)"/>
+        <card number="1" name="Cure"/>
+        <card number="1" name="My Friends are my Power"/>
+        <card number="1" name="Fire"/>
+        <card number="1" name="Inexistence Experience "/>
+        <card number="1" name="Magnete"/>
+        <card number="1" name="Poison"/>
+        <card number="1" name="Zexion"/>
+        <card number="1" name="Larxene"/>
+        <card number="1" name="Protect"/>
+        <card number="1" name="Limit Boost"/>
+    </zone>
+    <zone name="tokens">
+        <card number="1" name="Data Twilight Town"/>
+        <card number="1" name="Cornerstone of Light"/>
+        <card number="1" name="Heart"/>
+        <card number="1" name="Treasure (Agrabah)"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Xion"/>
+    </zone>
+</cockatrice_deck>

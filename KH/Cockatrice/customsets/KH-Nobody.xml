@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name>KH-Nobody</name>
+			<longname>KH-Nobody</longname>
+			<settype>KH-Nobody</settype>
+		</set>
+	</sets>
+	<cards>
+
+		<card>
+			<name>KH Xemnas</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors></colors>
+				<manacost>5CC</manacost>
+				<cmc>7</cmc>
+				<type>Legendary Creature - Human Nobody </type>
+				<maintype>Creature</maintype>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Limit break 3
+At the beginning of your upkeep, choose one — 
+ • Twilight Thorn — Xemnas has double strike and reach, and its power becomes 4 until your next upkeep.
+ • Guard — Xemnas has vigilance, indestructible, and its power becomes 1 until your next upkeep.
+ • Pierce — Xemnas deals 3 damage to any target and has flying until your next upkeep.
+ • Begone — Xemnas has splash damage 2/2 until your next upkeep.</text>
+ 
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH All-Vanity</related>
+		</card>
+		<card>
+			<name>KH All-Vanity</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors></colors>
+				<manacost>C</manacost>
+				<cmc>1</cmc>
+				<type>Sorcery - Limit </type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>During your next turn Xemnas has deathtouch and “When Xemnas attacks, create ten 1/1 colorless artifact creature tokens that are tapped and attacking. Exile the tokens at end of combat.”.</text>
+		
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Xemnas</related>
+		</card>
+		<card>
+			<name>KH Xigbar</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3C</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Human Nobody </type>
+				<maintype>Creature</maintype>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Double strike, limit break 2
+Range (When this creature attacks it takes no damage from creatures without range or reach. This creature has reach.)
+{1}: Xigbar phases out. </text>
+		
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Critical Snipe</related>
+		</card>
+		<card>
+			<name>KH Critical Snipe</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors></colors>
+				<manacost>C</manacost>
+				<cmc>1</cmc>
+				<type>Sorcery - Limit </type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>During your next turn Xigbar has vigilance, triple strike and “After your first combat phase there is an additional combat phase.”</text>
+		
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Xigbar</related>
+		</card>
+		<card>
+			<name>KH Xaldin</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>RG</colors>
+				<manacost>1CRG</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Human Nobody </type>
+				<maintype>Creature</maintype>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Limit break 2
+{X}, {T}: Xaldin gains X + 1 jump counters.
+{T}: Xaldin phases out.
+Whenever Xaldin phases in remove all jump counters from it, then it deals that much damage to any target.</text>
+		
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Dragoon Storm</related>
+		</card>
+		<card>
+			<name>KH Dragoon Storm</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>RG</colors>
+				<manacost>R/G</manacost>
+				<cmc>1</cmc>
+				<type>Sorcery - Limit </type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>At the beginning of your next precombat main phase, choose one — 
+ • Xaldin deals 4 damage to all the creatures you don’t control.
+ • Put 5 jump counters on Xaldin.</text>
+		
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Xaldin</related>
+		</card>
+		<card>
+			<name>KH Vexen</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>1CU</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Human Nobody </type>
+				<maintype>Creature</maintype>
+				<pt>1/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Limit break 2 (This creature enters the battlefield with 2 limit break counters. If it has been dealt damage equal to or greater than the number of limit break counters on it, you may add one, then cast a copy of this card’s other face without paying its mana cost.)
+3U, {T}: Create a token that’s a copy of target creature, except the token isn’t legendary if target creature is legendary, and it’s a Nobody in addition to its other types.</text>
+		
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Diamond Dust</related>
+		</card>
+		<card>
+			<name>KH Diamond Dust</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<type>Sorcery - Limit </type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>At the beginning of your next precombat main phase you may pay 3U. If you do tap all creatures you don’t control. Otherwise tap up to 3 target creatures you don’t control.
+Creatures tapped this way can be targeted in combat until they become untapped.</text>
+		
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Vexen</related>
+		</card>
+		<card>
+			<name>KH Lexaeus</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>1CG</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Human Nobody </type>
+				<maintype>Creature</maintype>
+				<pt>2/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Last strike, trample
+Limit break 2 (This creature enters the battlefield with 2 limit break counters. If it has been dealt damage equal to or greater than the number of limit break counters on it, you may add one, then cast a copy of this card’s other face without paying its mana cost.)
+Whenever Lexaeus is dealt damage, it gains that much power.</text>
+		
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Ayers Rock</related>
+		</card>
+		<card>
+			<name>KH Ayers Rock</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<type>Sorcery - Limit </type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>At the beginning of your next precombat main phase Lexaeus deals damage to target creature equal to its power. Then tap Lexaeus.</text>
+		
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Lexaeus</related>
+		</card>
+		<card>
+			<name>KH Zexion</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>2CB</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Human Nobody </type>
+				<maintype>Creature</maintype>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Limit break 2 (This creature enters the battlefield with 2 limit break counters. If it has been dealt damage equal to or greater than the number of limit break counters on it, you may add one, then cast a copy of this card’s other face without paying its mana cost.)
+{X}, {T}: Scry X + 1.</text>
+		
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Meteor Mirage</related>
+		</card>
+		<card>
+			<name>KH Meteor Mirage</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<type>Legendary Creature - Human Nobody Limit </type>
+				<maintype>Creature</maintype>
+				<pt></pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>At the beginning of your next precombat main phase Zexion deals 6 damage to up to 3 different target creatures, and 2 damage to all other creatures you don’t control.</text>
+		
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Zexion</related>
+		</card>
+		<card>
+			<name>KH Saïx</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>3CG</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Creature - Human Nobody </type>
+				<maintype>Creature</maintype>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Limit break 1 (This creature enters the battlefield with 1 limit break counters. If it has been dealt damage equal to or greater than the number of limit break counters on it, you may add one, then cast a copy of this card’s other face without paying its mana cost.)
+{C}: Deal 1 damage to Saïx.
+{X}, {T}: Remove X plus one limit break counters from Saïx.</text>
+		
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Berserk</related>
+		</card>
+		<card>
+			<name>KH Berserk</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<type>Sorcery - Limit </type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>During your next turn Saïx has +5/+0, trample, and takes no combat damage. </text>
+		
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Saïx</related>
+		</card>
+		<card>
+			<name>KH Axel</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>BR</colors>
+				<manacost>1CBR</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Human Nobody </type>
+				<maintype>Creature</maintype>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Reach
+Limit break 2 (This creature enters the battlefield with 2 limit break counters. If it has been dealt damage equal to or greater than the number of limit break counters on it, you may add one, then cast a copy of this card’s other face without paying its mana cost.)
+Creatures your opponents control get -0/-1.</text>
+		
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Explosion</related>
+		</card>
+		<card>
+			<name>KH Explosion</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>BR</colors>
+				<manacost>B/R</manacost>
+				<cmc>1</cmc>
+				<type>Sorcery - Limit </type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>During your next turn Axel gains splash damage 1 and. You may pay CR, if you do Axel gains splash damage 3 instead. (When this creature deals damage to a creature, deal 1 damage to other creatures that player controls.)
+Creatures your opponents control get -0/-1.</text>
+		
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Axel</related>
+		</card>
+		<card>
+			<name>KH Demyx</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>WU</colors>
+				<manacost>1CWU</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Human Nobody </type>
+				<maintype>Creature</maintype>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Limit break 3
+When Demyx enters the battlefield put two 1/1 blue Elemental creature tokens onto the battlefield.
+Demyx has indestructible as long as you control one or more blue Elemental creature tokens.
+1U, {T}: Create a 1/1 blue Elemental creature token.
+During your upkeep, gain 1 life per each blue Elemental creature token you control.</text>
+		
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Wave Gigs</related>
+		</card>
+		<card>
+			<name>KH Wave Gigs</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>WU</colors>
+				<manacost>W/U</manacost>
+				<cmc>1</cmc>
+				<type>Sorcery - Limit </type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>At the beginning of your next precombat main phase create X+1 1/1 blue Elemental creature tokens, where X is the number of creatures opponent controls.</text>
+		
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Demyx</related>
+		</card>
+		<card>
+			<name>KH Luxord</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>2CU</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Human Nobody </type>
+				<maintype>Creature</maintype>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Reach
+Limit break 2 (This creature enters the battlefield with 2 limit break counters. If it has been dealt damage equal to or greater than the number of limit break counters on it, you may add one, then cast a copy of this card’s other face without paying its mana cost.)
+When Luxord deals combat damage to a creature, that creature loses all its abilities and becomes a 1/1 artifact creature with: “{T}: Pay one life. Roll a D6. If the result is 5 or {6} exile this card then put it back to the battlefield tapped.”.</text>
+		
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Jackpot</related>
+		</card>
+		<card>
+			<name>KH Jackpot</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<type>Sorcery - Limit </type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>At the beginning of your next precombat main phase roll a D6, Luxord deals that much damage to any target. If the result is 6 you may roll another D1, Luxord deals that much damage to any target.</text>
+		
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Luxord</related>
+		</card>
+		<card>
+			<name>KH Marluxia</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>BG</colors>
+				<manacost>1CBG</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Human Nobody </type>
+				<maintype>Creature</maintype>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Limit break 2 (This creature enters the battlefield with 2 limit break counters. If it has been dealt damage equal to or greater than the number of limit break counters on it, you may add one, then cast a copy of this card’s other face without paying its mana cost.)
+Whenever Marluxia deals combat damage to a creature put a Sentence counter on that creature. (During each upkeep, this creature gets a +0/-1 counter.)</text>
+		
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Bloom-out</related>
+		</card>
+		<card>
+			<name>KH Bloom-out</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>BG</colors>
+				<manacost>B/G</manacost>
+				<cmc>1</cmc>
+				<type>Sorcery - Limit </type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>At the beginning of your next precombat main phase pay {X}, then put a Sentence counter on up to X target creatures. (During each upkeep, creatures with one or more sentence counters get +0/-1)</text>
+		
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Marluxia</related>
+		</card>
+		<card>
+			<name>KH Larxene</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>R</colors>
+				<manacost>2CR</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Human Nobody </type>
+				<maintype>Creature</maintype>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Double strike, haste
+Limit break 2 (This creature enters the battlefield with 2 limit break counters. If it has been dealt damage equal to or greater than the number of limit break counters on it, you may add one, then cast a copy of this card’s other face without paying its mana cost.)</text>
+		
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Voltic Rush</related>
+		</card>
+		<card>
+			<name>KH Voltic Rush</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>R</colors>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<type>Legendary Creature - Human Nobody </type>
+				<maintype>Creature</maintype>
+				<pt></pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>During your next turn Larxene has triple strike. (This creature deals first-strike, regular, and last-strike combat damage.)
+At the beginning of your next precombat main phase create a token that’s a copy of Larxene except it’s a non legendary creature. Exile it at end of turn.</text>
+		
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Larxene</related>
+		</card>
+		<card>
+			<name>KH Roxas</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>2CW</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Human Nobody Keyblade-Wielder </type>
+				<maintype>Creature</maintype>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Limit break 2
+When Roxas enters the battlefield, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
+Roxas gets +1/+1 for each equipment equipped to Roxas past the first one.</text>
+		
+			<layout>transform</layout>
+			<side>Roxas</side>
+			<related attach="transform">KH Event Horizon</related>
+		</card>
+		<card>
+			<name>KH Event Horizon</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<type>Sorcery - Limit </type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>During your next turn Roxas has first strike, splash damage 1/2 and “Light pillars — When Roxas attacks, create six 1/1 white artifact creature tokens that are tapped and attacking. Exile the tokens at end of combat.”.</text>
+		
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Roxas</related>
+		</card>
+		<card>
+			<name>KH Xion</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors></colors>
+				<manacost>XC</manacost>
+				<cmc>1</cmc>
+				<type>Legendary Creature - Human Nobody Keyblade-Wielder </type>
+				<maintype>Creature</maintype>
+				<pt>X/X</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Limit break 2
+When Xion enters the battlefield, target a creature. While that creature is on the field, Xion’s power and toughness are equal to X minus that creature’s power, or 1 if the result would be lower than 1.
+{1}, {T}: Put a -1/-1 counter on that creature.
+During your upkeep, put a -1/-1 counter on that creature.</text>
+		
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Vector to the Heavens</related>
+		</card>
+		<card>
+			<name>KH Vector to the Heavens</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>WUBRG</colors>
+				<manacost>W/U/B/R/G</manacost>
+				<cmc>1</cmc>
+				<type>Sorcery - Limit </type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Search your library for a land card mentioned in Vector to the Heavens, put it onto the battlefield, then shuffle.
+You may tap Wonderland. If you do Xion gains flying until end of turn. Create a copy of Sonic Blade. You may cast that copy without paying its mana cost.
+You may tap Halloween Town. If you do Xion gains reach and trample until end of turn. Create a copy of Ragnarock. You may cast that copy without paying its mana cost.
+You may tap Agrabah. If you do Xion gains double strike until end of turn. Create a copy of Ars Arcanum. You may cast that copy without paying its mana cost.
+If you tapped each other land at least once for this effect, you may tap Twilight Town. If you do Xion gains lifelink, splash damage 5 and +3/+3.</text>
+
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Xion</related>
+		</card>
+		<card>
+			<name>KH The World that Never Was</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>M</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+		<pt></pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>The World that Never Was enters the battlefield tapped.
+W/U/B/R/G, {T}: Add CCC.
+Partner with The Castle that Never Was.
+The World that Never Was can be your commander.
+Flying, Trample</text>
+		</card>
+		<card>
+			<name>KH The Castle that Never Was</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>CCC</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Enchantment - Saga </type>
+				<maintype>Enchantment</maintype>
+		<pt></pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Partner with The World that Never Was.
+The Castle that Never Was can be your commander.
+I, II, III, IV: Choose one — 
+ • Search your library for a Room, add it to your hand, then shuffle.
+ • Put target Room from your graveyard to your hand.
+V: You may pay CCC. If you do, transform The Castle that Never Was.</text>
+
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH The Dragon that Never Was</related>
+		</card>
+		<card>
+			<name>KH The Dragon that Never Was</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Artifact Creature - Dragon </type>
+				<maintype>Creature</maintype>
+		<pt>4/12</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying, trample
+Boss (You cannot cast this creature spell if you already control a creature with Boss.)
+The Dragon that Never Was enters the battlefield with 2 shield counters on it. (If a permanent with a shield counter on it would be dealt damage or destroyed, remove a shield counter from it instead.)
+When The Dragon that Never Was would be dealt damage, it loses that much toughness instead.</text>
+
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH The Castle that Never Was</related>
+		</card>
+		<card>
+			<name>KH Naminé</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>1CW</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Human Nobody </type>
+				<maintype>Creature</maintype>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Limit break 1
+When Naminé enters the battlefield, target creature loses all its abilities until Naminé leaves the battlefield.
+{T}: Create 1 mana of any color.</text>
+		</card>
+		<card>
+			<name>KH Naminé, Dead Fantasy</name>
+			<set rarity=""></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<type>Sorcery - Limit </type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>At the beginning of your next precombat main phase put three +1/+1 counters on Naminé.
+Naminé gains the following effects if it doesn’t have them:
+Naminé has reach as long as its power is 2 or greater.
+Naminé has flying as long as its power is 4 or greater.
+Naminé has triple strike as long as its power is 6 or greater.
+Whenever Naminé would take combat damage, you may remove any amount of +1/+1 counters from Naminé. Reduce the combat damage received by that amount.</text>
+		</card>
+		<card>
+			<name>KH Sorcerer</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Nobody Wizard</type>
+				<maintype>Creature</maintype>
+		<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Sorcerer enters the battlefield with a shield counter. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+{T}: Put a shield counter on Sorcerer.
+</text>
+		</card>
+		<card>
+			<name>KH Sniper</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Nobody Archer</type>
+				<maintype>Creature</maintype>
+		<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Range (When this creature attacks it takes no damage from creatures without range or reach. This creature has reach.)
+</text>
+		</card>
+		<card>
+			<name>KH Dragoon</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Nobody Dragon</type>
+				<maintype>Creature</maintype>
+		<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+Dragoon enters the battlefield with 1 jump counter.
+{1}, {T}: Dragoon gains one jump counter.
+{T}: Dragoon phases out.
+Whenever Dragoon phases in remove all jump counters from it, then it deals that much damage to any target.
+</text>
+		</card>
+		<card>
+			<name>KH Berserker</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Nobody Berserker</type>
+				<maintype>Creature</maintype>
+		<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Last strike (This creature deals combat damage after creatures without last strike.)
+</text>
+		</card>
+		<card>
+			<name>KH Assassin</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Nobody Assassin</type>
+				<maintype>Creature</maintype>
+		<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>First strike (This creature deals combat damage before creatures without first strike.)
+</text>
+		</card>
+		<card>
+			<name>KH Dancer</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Nobody Citizen</type>
+				<maintype>Creature</maintype>
+		<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Dancer has +4/+0 and first strike when attacking.
+</text>
+		</card>
+		<card>
+			<name>KH Gambler</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Nobody</type>
+				<maintype>Creature</maintype>
+		<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When you cast Gambler, roll a D6. its power and toughness are equal to the result minus one.
+{1}: Roll a D6. Gambler’s power and toughness become equal to the result minus one.
+</text>
+		</card>
+		<card>
+			<name>KH Reaper</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Nobody</type>
+				<maintype>Creature</maintype>
+		<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Whenever Reaper deals damage to a player, that player discards a card if able.
+</text>
+		</card>
+		<card>
+			<name>KH Ninja</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Nobody Ninja</type>
+				<maintype>Creature</maintype>
+		<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{C}: Ninja gains double strike until end of turn.
+</text>
+		</card>
+		<card>
+			<name>KH Samurai</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Nobody Samurai</type>
+				<maintype>Creature</maintype>
+		<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Vigilance (Attacking doesn’t cause this creature to tap.)
+</text>
+		</card>
+		<card>
+			<name>KH Dusk</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Nobody</type>
+				<maintype>Creature</maintype>
+		<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>A deck can have up to 13 cards named Dusk.
+</text>
+		</card>
+		<card>
+			<name>KH Twilight Thorn</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>5C</manacost>
+				<cmc>6</cmc>
+				<type>Creature - Nobody</type>
+				<maintype>Creature</maintype>
+		<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss, trample, reach (You cannot cast this creature spell if you already control a creature with Boss.)
+4C, {T}: Ultimate Beam — Deal 8 damage to any target.
+</text>
+		</card>
+		<card>
+			<name>KH Nothing&apos;s Call</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2C</manacost>
+				<cmc>3</cmc>
+				<type>Artifact - Room </type>
+				<maintype>Artifact</maintype>
+		<pt></pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>You can spend mana as though it was mana of any color to cast Nobody creature spells or activate abilities of Nobody creatures.
+Flying, trample, boss (You cannot cast this creature spell if you already control a creature with Boss.)
+The Dragon That Never Was enters the battlefield with 2 shield counters on it.
+When this creature would be dealt damage, it gains that many +0/-1 counters instead.</text>
+		</card>
+		<card>
+			<name>KH Hall of Empty Melodies</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2C</manacost>
+				<cmc>3</cmc>
+				<type>Enchantment - Aura Room </type>
+				<maintype>Enchantment</maintype>
+		<pt></pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Enchant noncreature permanent.
+Enchanted card has phasing.
+When enchanted card leaves the field, you may put Hall of Empty Melodies in your library, then shuffle.
+Flying, trample, boss (You cannot cast this creature spell if you already control a creature with Boss.)
+The Dragon That Never Was enters the battlefield with 2 shield counters on it.
+When this creature would be dealt damage, it gains that many +0/-1 counters instead.</text>
+		</card>
+		<card>
+			<name>KH Proof of Existence</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2C</manacost>
+				<cmc>3</cmc>
+				<type>Artifact - Room </type>
+				<maintype>Artifact</maintype>
+		<pt></pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>2C, {T}: Return target Legendary Nobody creature from your graveyard to your hand.
+Flying, trample, boss (You cannot cast this creature spell if you already control a creature with Boss.)
+The Dragon That Never Was enters the battlefield with 2 shield counters on it.
+When this creature would be dealt damage, it gains that many +0/-1 counters instead.</text>
+		</card>
+		<card>
+			<name>KH Altar of Naught</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2C</manacost>
+				<cmc>3</cmc>
+				<type>Artifact - Room </type>
+				<maintype>Artifact</maintype>
+		<pt></pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>CC, {T}: Remove 1 limit counter from target creature.
+CC, {T}: Deal 1 damage to target creature.
+{T}: Add {C}.
+Flying, trample, boss (You cannot cast this creature spell if you already control a creature with Boss.)
+The Dragon That Never Was enters the battlefield with 2 shield counters on it.
+When this creature would be dealt damage, it gains that many +0/-1 counters instead.</text>
+		</card>
+		<card>
+			<name>KH Where Nothing Gathers</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>C</manacost>
+				<cmc>1</cmc>
+				<type>Artifact - Room </type>
+				<maintype>Artifact</maintype>
+		<pt></pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{T}: Add CC.
+Flying, trample, boss (You cannot cast this creature spell if you already control a creature with Boss.)
+The Dragon That Never Was enters the battlefield with 2 shield counters on it.
+When this creature would be dealt damage, it gains that many +0/-1 counters instead.</text>
+		</card>
+		<card>
+			<name>KH Betwixt and Between</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>XC</manacost>
+				<cmc>1</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+		<pt></pt>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Search your library for a creature with mana value X or less, reveal it, then shuffle and put that card on the battlefield.
+Flying, trample, boss (You cannot cast this creature spell if you already control a creature with Boss.)
+The Dragon That Never Was enters the battlefield with 2 shield counters on it.
+When this creature would be dealt damage, it gains that many +0/-1 counters instead.</text>
+		</card>
+
+
+
+
+
+
+
+
+
+
+		<card>
+			<name>KH Xion (altart)</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors></colors>
+				<manacost>XC</manacost>
+				<cmc>1</cmc>
+				<type>Legendary Creature - Human Nobody Keyblade-Wielder </type>
+				<maintype>Creature</maintype>
+				<pt>X/X</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Limit break 2
+When Xion enters the battlefield, target a creature. While that creature is on the field, Xion’s power and toughness are equal to X minus that creature’s power, or 1 if the result would be lower than 1.
+{1}, {T}: Put a -1/-1 counter on that creature.
+During your upkeep, put a -1/-1 counter on that creature.</text>
+		
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Vector to the Heavens (altart)</related>
+		</card>
+		<card>
+			<name>KH Vector to the Heavens (altart)</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>WUBRG</colors>
+				<manacost>W/U/B/R/G</manacost>
+				<cmc>1</cmc>
+				<type>Sorcery - Limit </type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Search your library for a land card mentioned in Vector to the Heavens, put it onto the battlefield, then shuffle.
+You may tap Wonderland. If you do Xion gains flying until end of turn. Create a copy of Sonic Blade. You may cast that copy without paying its mana cost.
+You may tap Halloween Town. If you do Xion gains reach and trample until end of turn. Create a copy of Ragnarock. You may cast that copy without paying its mana cost.
+You may tap Agrabah. If you do Xion gains double strike until end of turn. Create a copy of Ars Arcanum. You may cast that copy without paying its mana cost.
+If you tapped each other land at least once for this effect, you may tap Twilight Town. If you do Xion gains lifelink, splash damage 5 and +3/+3.</text>
+
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Xion (altart)</related>
+		</card>
+
+		<card>
+			<name>KH Naminé (altart)</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>1CW</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Human Nobody </type>
+				<maintype>Creature</maintype>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Limit break 1
+When Naminé enters the battlefield, target creature loses all its abilities until Naminé leaves the battlefield.
+{T}: Create 1 mana of any color.</text>
+
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Naminé, Dead Fantasy (altart)</related>
+		</card>
+		<card>
+			<name>KH Naminé, Dead Fantasy (altart)</name>
+			<set rarity=""></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<type>Sorcery - Limit </type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>At the beginning of your next precombat main phase put three +1/+1 counters on Naminé.
+Naminé gains the following effects if it doesn’t have them:
+Naminé has reach as long as its power is 2 or greater.
+Naminé has flying as long as its power is 4 or greater.
+Naminé has triple strike as long as its power is 6 or greater.
+Whenever Naminé would take combat damage, you may remove any amount of +1/+1 counters from Naminé. Reduce the combat damage received by that amount.</text>
+
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Naminé (altart)</related>
+		</card>
+
+
+
+
+	</cards>
+</cockatrice_carddatabase>

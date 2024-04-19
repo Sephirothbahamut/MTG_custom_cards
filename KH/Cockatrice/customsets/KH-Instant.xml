@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name>KH-Instant</name>
+			<longname>KH-Instant</longname>
+			<settype>KH-Instant</settype>
+		</set>
+	</sets>
+	<cards>
+
+		<card>
+			<name>KH Summon</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>XW</manacost>
+				<cmc>1</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Search your library for a nonlegendary creature with converted mana cost X or less, then put it on battlefield tapped.</text>
+		</card>
+		<card>
+			<name>KH Gravity</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Halve constitution to target opponent creature.
+Overload 1BB (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)</text>
+		</card>
+		<card>
+			<name>KH Magnete</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Kicker {2}. (You may pay an additional {2} as you cast this spell.)
+Target creature you control gains splash damage 1/3. If Magnete was kicked, it gains splash damage 2 instead.</text>
+		</card>
+		<card>
+			<name>KH Reflect</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Target creature you control gets an indestructible counter until end of turn.
+Put an Indestructible counter on a creature you control until end of turn, Reflect deals 3 damage to target attacking creature.
+Overload {7} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)</text>
+		</card>
+		<card>
+			<name>KH Stop</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Kicker {2}.
+Exile target creature and put a time counter on it. If it doesn’t have suspend, it gains suspend. If Stop was kicked, put two time counters instead. (At the beginning of its owner’s upkeep, they remove a time counter. When the last is removed, they play it without paying its mana cost. If it’s a creature, it has haste.)</text>
+		</card>
+		<card>
+			<name>KH Cure</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Regenerate target creature you control. (The next time that permanent would be destroyed this turn, it isn’t. Instead tap it.)
+Overload 1GGG (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)</text>
+		</card>
+		<card>
+			<name>KH Thunder</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WR</colors>
+				<manacost>R/W</manacost>
+				<cmc>1</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Thunder deals 3 damage to target opponent.
+Overload 1R/WR/W (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)</text>
+		</card>
+		<card>
+			<name>KH Aero</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Target creature you control gains +0/+2 until end of turn.
+Overload {3} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)</text>
+		</card>
+		<card>
+			<name>KH Blizzard</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Blizzard deals 1 damage to target creature opponent controls, then tap it.
+Overload 1UUU (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)</text>
+		</card>
+		<card>
+			<name>KH Fire</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>R</colors>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Fire deals 2 damage to any target.
+Overload 1RR (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)</text>
+		</card>
+		<card>
+			<name>KH Confuse</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WU</colors>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>When target creature opponent controls attacks or blocks, flip a coin. If you call it right, that creature can’t attack or block, then tap it. 
+Overload WWUU (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)</text>
+		</card>
+		<card>
+			<name>KH Sleep</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Target creature opponent controls doesn’t untap during its controller’s next untap step.
+Overload 2BBB (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)</text>
+		</card>
+		<card>
+			<name>KH Poison</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UB</colors>
+				<manacost>H/UB</manacost>
+				<cmc>2</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Target creature you control gains infect. (That creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Overload H/UH/UBB (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)</text>
+		</card>
+		<card>
+			<name>KH Water</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Abilities of target creature opponent controls cost {1} in addition to their activation cost.
+Overload 1UUU (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)</text>
+		</card>
+		<card>
+			<name>KH Slow</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UG</colors>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Target creature opponent controls gains last strike. (That creature deals combat damage after creatures without last strike.)
+Overload GGUU (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)</text>
+		</card>
+		<card>
+			<name>KH Esuna</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WU</colors>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Target creature you control loses all counters and gains hexproof until end of current phase.
+Overload WWUU (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)</text>
+		</card>
+		<card>
+			<name>KH Holy</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Return target creature opponent controls to its owner’s hand.
+Overload 4WWW (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)</text>
+		</card>
+		<card>
+			<name>KH Ultima</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WB</colors>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Counter target noncreature spell.</text>
+		</card>
+		<card>
+			<name>KH Zettaflare</name>
+			<set rarity=""></set>
+			<prop>
+				<colors></colors>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Exile target creature ignoring hexproof.
+Then exile Zettaflare.</text>
+		</card>
+		<card>
+			<name>KH Protect</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Target creature you control has ward {2}. (Whenever that permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Overload {6} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)</text>
+		</card>
+		<card>
+			<name>KH Evil Plan</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>As an additional cost to cast this spell, discard a card.
+Destroy target creature.</text>
+		</card>
+		<card>
+			<name>KH Tech</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Add one mana of any color.
+Cast only when a creature you control blocks an attacking creature.</text>
+		</card>
+		<card>
+			<name>KH Unexpected Resource</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Counter target spell.</text>
+		</card>
+		<card>
+			<name>KH Inexistence Experience </name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Exile target creature. Its controller gains life equal to its power.</text>
+		</card>
+		<card>
+			<name>KH Darkness within Darkness</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Target creature gets -X/-X until end of turn, where X is the number of Swamp lands you control.</text>
+		</card>
+
+		<!-->Tokens</-->
+
+
+	</cards>
+</cockatrice_carddatabase>

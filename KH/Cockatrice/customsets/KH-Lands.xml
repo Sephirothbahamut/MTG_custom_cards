@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name>KH-Lands</name>
+			<longname>KH-Lands</longname>
+			<settype>KH-Lands</settype>
+		</set>
+	</sets>
+	<cards>
+
+		<card>
+			<name>KH 100 Acre Wood</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {G}.
+{1}, {T}: Search a nonlegendary creature from your library and put it on your hand.</text>
+		</card>
+		<card>
+			<name>KH Agrabah</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Boros Garrison enters the battlefield tapped.
+When Boros Garrison enters the battlefield, return a land you control to its owner’s hand.
+{T}: Add RW.</text>
+		</card>
+		<card>
+			<name>KH Monstro</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Monstro enter the battlefield tapped.
+{T}: Add CC.
+{5}: Until end of turn, Monstro becomes a 5/5 colorless Whale creature with trample.</text>
+		</card>
+		<card>
+			<name>KH Neverland</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Neverland enter the battlefield tapped.
+{T}: Add {U} or {G}.
+{5}, {T}: All creatures you control gain flying.</text>
+		</card>
+		<card>
+			<name>KH Twilight Town</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Twilight Town enter battlefield tapped.
+{T}: Add {R} or {W}.
+1RW, {T}: Create a Legendary artifact token named Data Twilight Town with “{T}: Add {C}.”</text>
+		</card>
+		<card>
+			<name>KH Santa&apos;s Village</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {W}.
+W/B: Transform Santa’s Village.</text>
+ 
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Halloween Town</related>
+		</card>
+		<card>
+			<name>KH Halloween Town</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {B}.
+W/B: Transform Halloween Town.</text>
+ 
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Santa's Village</related>
+		</card>
+		<card>
+			<name>KH Port Royale</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Port Royale enter the battlefield tapped.
+T: Add U or B.
+U/B, sacrifice any number of Treasure tokens, T: Create X 1/1 Zombie tokens, where X is the number of treasure tokens sacrificed to activate this ability.</text>
+		</card>
+		<card>
+			<name>KH Wonderland</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Wonderland enter the battlefield tapped.
+{T}: Add {W} or {R}.
+RR, {T}: Play a card that’s exactly red without paying its mana cost.</text>
+		</card>
+		<card>
+			<name>KH Jungle Deep</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {G}.
+1G, {T}: Target creature you control explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
+		</card>
+		<card>
+			<name>KH Atlantica</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {U}.
+2U, {T}: Creatures you control have islandwalk until end of turn. (That creature can’t be blocked as long as defending player controls a Creatures you control have island.)</text>
+		</card>
+		<card>
+			<name>KH Traverse Town</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Traverse Town enter the battlefield tapped.
+{T}: Add one mana of any color.</text>
+		</card>
+		<card>
+			<name>KH Destiny Island</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Destiny Island enters the battlefield tapped.
+If you don’t control any other lands you may play one additional land this turn. 
+T: Add W.
+Sacrifice Destiny Island: Search a land from your library, then put it on the battlefield tapped.</text>
+		</card>
+		<card>
+			<name>KH Beast&apos;s Castle</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Plains Swamp Forest </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {W}, {B} or {G}.)
+Indatha Triome enters the battlefield tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+		</card>
+		<card>
+			<name>KH Sleeping Worlds</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add one mana of any color that a land an opponent controls could produce.</text>
+		</card>
+		<card>
+			<name>KH The Land of Dragons</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>The Land of Dragons enters the battlefield tapped.
+{T}: Add {R}.
+{R}, {T}: Create a legendary Firework token: “{1}, Sacrifice Firework, {T}: Firework deals 2 damage to any target.”</text>
+		</card>
+		<card>
+			<name>KH Final World</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>When Final World enters the battlefield, add {W}.
+{T}: Add {W}.
+When a creature you control leaves the battlefield exile it. You can cast cards exiled this way until the end of your next turn.</text>
+		</card>
+		<card>
+			<name>KH Pride Lands</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {G}.
+GG, {T}: Target creature fights another target creature. (Each deals damage equal to its power to the other.)</text>
+		</card>
+		<card>
+			<name>KH Toybox</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Toybox enters the battlefield tapped.
+{T}: Add {C}.
+{2}, {T}: Target artifact becomes a 2/2 Golem artifact creature until end of turn.</text>
+		</card>
+		<card>
+			<name>KH Kingdom of Corona</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Forest Plains </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {G} or {W}.)
+Radiant Grove enter the battlefield tapped.</text>
+		</card>
+		<card>
+			<name>KH Deep Space</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Island Swamp </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {U} or {B}.)
+Contaminated Aquifer enters the battlefield tapped.</text>
+		</card>
+		<card>
+			<name>KH Timeless river</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
+W/U/B/R/G, {T}: Add CCC.</text>
+		</card>
+		<card>
+			<name>KH End of the World</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
+{T}: Add {W} or {B}. Caves of Koilos deals 1 damage to you.</text>
+		</card>
+		<card>
+			<name>KH Enchanted Dominion</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Forest Plains </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {G} or {W}.)
+As Temple Garden enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.</text>
+		</card>
+		<card>
+			<name>KH Plains</name>
+			<set rarity=""></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type></type>
+				<maintype></maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>KH Island</name>
+			<set rarity=""></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type></type>
+				<maintype></maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>KH Swamp</name>
+			<set rarity=""></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type></type>
+				<maintype></maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>KH Mountain</name>
+			<set rarity=""></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type></type>
+				<maintype></maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>KH Forest</name>
+			<set rarity=""></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type></type>
+				<maintype></maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>KH Land of Departure</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>T: Add W.
+1W, T: Transform Land of Departure.</text>
+ 
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Castle Oblivion</related>
+		</card>
+		<card>
+			<name>KH Castle Oblivion</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add CC.
+1C, {T}: Target an opponent creature, it loses its ability until end turn.</text>
+ 
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Land of Departure</related>
+		</card>
+		<card>
+			<name>KH Disney Castle</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {W}.
+1W, {T}: Create a tapped Cornerstone of Light Legendary artifact token with “{1}, {T}: Chose two: • Add {W}. • Add {G}. • Add {R}. • Add {U}.”</text>
+		</card>
+		<card>
+			<name>KH Olympus</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {W}
+1W, {T}: Target creature on your battlefield is unblockable until end of turn.</text>
+ 
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Underworld</related>
+		</card>
+		<card>
+			<name>KH Underworld</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {B}
+1B, {T}: You may cast target creature from your graveyard, destroy it at end of turn.</text>
+ 
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Olympus</related>
+		</card>
+		<card>
+			<name>KH Hollow Bastion</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {B}.
+{U/R/G}, {T}: Transform Hollow Bastion.</text>
+ 
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Radiant Garden</related>
+		</card>
+		<card>
+			<name>KH Radiant Garden</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{G/U}, {T}: Add GG, GU, or UU.
+{R/G}, {T}: Add RR, RG, or GG.
+{U/R}, {T}: Add UU, UR, or RR.</text>
+ 
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Hollow Bastion</related>
+		</card>
+		<card>
+			<name>KH Arid Pride Lands</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Deathcap Glade enters the battlefield tapped unless you control two or more other lands.
+{T}: Add {B} or {G}.</text>
+		</card>
+		<card>
+			<name>KH Gothel&apos;s Tower</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Blooming Marsh enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {B} or {G}</text>
+		</card>
+		<card>
+			<name>KH Jafar&apos;s Haunt</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Haunted Ridge enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {B} or {R}.</text>
+		</card>
+		<card>
+			<name>KH Hedge Maze</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.</text>
+		</card>
+		<card>
+			<name>KH Ursula&apos;s Lair</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Darkslick Shores enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {U} or {B}.</text>
+		</card>
+		<card>
+			<name>KH Forbidden Mountain</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Forbidden Mountain enters the battlefield you may pay 1 life. If you don’t, it enters the battlefield tapped.
+{T}: Add {B}.
+Sacrifice a creature, {T}: Draw a card.</text>
+		</card>
+		<card>
+			<name>KH San Fransokyo</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
+{U/R}, {T}: Add UU, UR, or RR.
+{W}, tap six nonlegendary creatures you control, {T}: Exile target creature.</text>
+		</card>
+		<card>
+			<name>KH Monstropolis</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Temple of Epiphany enters the battlefield tapped.
+When Temple of Epiphany enters the battlefield, scry 1.
+{T}: Add {R} or {U}.</text>
+		</card>
+		<card>
+			<name>KH Arendelle</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Snow Land - Forest Island </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {G} or {U}.)
+Rimewood Falls enters the battlefield tapped.</text>
+		</card>
+		<card>
+			<name>KH The Cave of Wonders</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Artifact Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
+XX, {T}, Sacrifice Treasure Vault: Create X Treasure tokens.</text>
+		</card>
+
+		<!-->Tokens</-->
+
+
+	</cards>
+</cockatrice_carddatabase>

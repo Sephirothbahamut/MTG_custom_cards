@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name></name>
+			<longname></longname>
+			<settype></settype>
+		</set>
+	</sets>
+	<cards>
+
+		<card>
+			<name>KH Yen Sid</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>WUBRG</colors>
+				<manacost>W/BU/R/G</manacost>
+				<cmc>2</cmc>
+				<type>Legendary Creature - Human Wizard </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flash
+Prevent all damage that would be dealt the turn Yen Sid enters the battlefield.
+Whenever a Keyblade-Wielder enters the battlefield you may attach any number of Equipment you control to it.</text>
+		</card>
+		<card>
+			<name>KH Sora, Keyblade&apos;s Choosen One</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<type>Creature Planeswalker - Sora Keyblade-Wielder </type>
+				<maintype>Planeswalker</maintype>
+			<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>At the beginning of each combat, creatures you control gain first strike until end of turn if a creature you control has first strike. The same is true for flying, deathtouch, double strike, last strike, triple strike, haste, hexproof, indestructible, lifelink, menace, reach, range, skulk, trample and vigilance.+2: -1: -5: </text>
+		</card>
+		<card>
+			<name>KH Riku, Redeemed Guardian</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>WB</colors>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Human Keyblade-Wielder </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Vigilance
+You may cast Equipment spells for {2} less as long as you control two or more Equipment spells. If you do, those Equipment spells cannot be attached to Riku, Redeemed Guardian.</text>
+		</card>
+		<card>
+			<name>KH Kairi, Princess of Hearts</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<type>Legendary Creature - Human Keyblade-Wielder </type>
+				<maintype>Creature</maintype>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{T}: Add one mana of any color.
+2W, {T}: Search your library for a Keyblade-Wielder card, reveal it, then shuffle and put that card on your hand.
+When Kairi, Princess of Hearts enters the battlefield, sacrifice Kairi, Princess of Hearts, then your opponents gain 1 mana of any color.</text>
+		</card>
+		<card>
+			<name>KH Mickey Mouse, Keyblade Master</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Creature - Mouse Keyblade-Wielder </type>
+				<maintype>Creature</maintype>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Indestructible, flash
+You may pay WW and exile target creature you control instead of paying Mickey Mouse, Keyblade Master’s mana cost. If you do, during your upkeep sacrifice Mickey Mouse, Keyblade Master and return exiled creature to the battlefield.</text>
+		</card>
+		<card>
+			<name>KH Aqua, Guardian of Hope</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Human Keyblade-Wielder </type>
+				<maintype>Creature</maintype>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Shroud
+{U}, {T}: Instant and sorcery spells you cast cost {1} less to cast per each Equipment you control until end of turn.
+Partner with Ventus, Guardian of Purity.</text>
+		</card>
+		<card>
+			<name>KH Ventus, Guardian of Purity</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Human Keyblade-Wielder </type>
+				<maintype>Creature</maintype>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Haste
+{W}, {T} : Keyblade-Wielders cost {1} less to cast per each Equipment you control until end of turn.
+Partner with Terra, Guardian of Fury.</text>
+		</card>
+		<card>
+			<name>KH Terra, Guardian of Fury</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Human Keyblade-Wielder </type>
+				<maintype>Creature</maintype>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Trample
+{G}, {T}: Put a +1/+0 counter on Terra, Guardian of Fury for each equipment equipped to Terra, Guardian of Fury.
+Partner with Aqua, Guardian of Hope.</text>
+		</card>
+		<card>
+			<name>KH Eraqus, Master of Guardians</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Human Keyblade-Wielder </type>
+				<maintype>Creature</maintype>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+When Eraqus, Master of Guardians leaves the battlefield, you may return target Equipment from your graveyard to the battlefield.</text>
+		</card>
+		<card>
+			<name>KH Chirithy</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Bear </type>
+				<maintype>Creature</maintype>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flash
+When Chirithy enters the battlefield, choose up to one target permanent card in your graveyard that was put there from the battlefield this turn. Return it to your hand.</text>
+		</card>
+		<card>
+			<name>KH Ephemer, Last Dandelion</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Human Keyblade-Wielder </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Ephemer, Last Dandelion enters the battlefield destroy all artifact cards you control. For every artifact destroyed this way you may destroy target creature. This ability can’t be negated.</text>
+		</card>
+		<card>
+			<name>KH DiZ, the Researcher</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Legendary Creature - Human </type>
+				<maintype>Creature</maintype>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Sacrifice DiZ, the Researcher: Remove all counters from target permanent.</text>
+		</card>
+		<card>
+			<name>KH Scala ad Caelum</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Scala ad Caelum enters the battlefield tapped.
+When Scala ad Caelum enters the battlefield, search your library for an Equipment spell, put it on the battlefield, then shuffle.
+{T}: Add {W}. You may spend this mana as though it was mana of any color to cast Equipment spells.</text>
+		</card>
+		<card>
+			<name>KH Mysterious Tower</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a legendary spell.
+{T}: Add one mana of any color among legendary permanents you control.</text>
+		</card>
+		<card>
+			<name>KH Lingering Will</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<type>Legendary Artifact Creature - Golem Keyblade-Wielder </type>
+				<maintype>Creature</maintype>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss
+At the beginning of your upkeep, choose one — 
+ • Super Wild Dance —	Lingering Will gains double strike and its power becomes 4 until end of turn.
+ • Wave Rider —	Lingering Will gains trample and flying until your next upkeep.
+ • Whip attack — Lingering Will gains reach and vigilance until your next upkeep.
+ • Ultima Cannon — Lingering Will deals X damage to any target unless target’s owner taps all lands where X is Lingering Will’s power .</text>
+		</card>
+		<card>
+			<name>KH Keyblade Graveyard</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Keyblade Graveyard can be your commander.
+When Keyblade Graveyard enters the battlefield, search your library for up to three Equipment cards, put them in the graveyard, then shuffle.
+{T}: Add two mana of any color. Use this mana only to cast Equipment spells.
+W/U/B/R/G, {T}: You may play an Equipment card from your graveyard.</text>
+		</card>
+		<card>
+			<name>KH Young Xehanort, the Corrupt Apprentice</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UB</colors>
+				<manacost>2U/BU/B</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Human Keyblade-Wielder </type>
+				<maintype>Creature</maintype>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Young Xehanort, the Corrupt Apprentice enters the battlefield, you may mill 5.
+UU: Counter target spell. Activate only if Young Xehanort, the Corrupt Apprentice is tapped.</text>
+		</card>
+		<card>
+			<name>KH Vanitas, the Residual Darkness</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Human Keyblade-Wielder </type>
+				<maintype>Creature</maintype>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Deathtouch
+When Vanitas attacks, discard a card.
+3B, sacrifice an artifact, {T}: Vanitas, the Residual Darkness must be blocked if able.</text>
+		</card>
+		<card>
+			<name>KH Xehanort&apos;s Heart</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WUBRG</colors>
+				<manacost>3W/U/B/R/G</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Enchantment - Aura </type>
+				<maintype>Enchantment</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>When Xehanort’s Heart enters the battlefield put a 3/3 colorless Human Keyblade-Wielder legendary creature token named Xehanort, the Fallen Master into play and attach this aura to it.
+Whenever an equipped creature you control attacks, draw.
+When enchanted creature leaves the field, you may attach Xehanort’s Heart to another creature you control.
+Xehanort’s Heart can be your commander.</text>
+		</card>
+
+		<!-->Tokens</-->
+
+
+	</cards>
+</cockatrice_carddatabase>

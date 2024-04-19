@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name>KH-Disney</name>
+			<longname>KH-Disney</longname>
+			<settype>KH-Disney</settype>
+		</set>
+	</sets>
+	<cards>
+
+		<card>
+			<name>KH Woody and Buzz</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UR</colors>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<type>Artifact Creature - Golem </type>
+				<maintype>Creature</maintype>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>During your upkeep choose one —
+• Woody and Buzz gains flying until end of turn.
+• Woody and Buzz gains double strike until end of turn.</text>
+		</card>
+		<card>
+			<name>KH Uncle Scrooge McDuck</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Goose </type>
+				<maintype>Creature</maintype>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Whenever an opponent casts their first noncreature spell each turn, create a treasure token unless that player pays {1}.</text>
+		</card>
+		<card>
+			<name>KH Tinker Bell, Faithful Fairy</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Faerie </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+When Tinker Bell, Faithful Fairy enters the battlefield target a creature you control, it gains flying until end of turn.</text>
+		</card>
+		<card>
+			<name>KH Stitch, Experiment 626</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<type>Artifact Creature - Alien </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>First strike, splash damage 1. (When this creature deals damage to a creature, it deals 1 damage to other creatures that player controls.)</text>
+		</card>
+		<card>
+			<name>KH Simba, the Lion King</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Cat </type>
+				<maintype>Creature</maintype>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Menace
+2G: Simba, the Lion King fights target creature an opponent controls. (Each deals damage equal to its power to the other.)</text>
+		</card>
+		<card>
+			<name>KH Phil, Heroes&apos; Trainer</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Satyr </type>
+				<maintype>Creature</maintype>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Whenever a legendary creature you control destroys a creature, put a +1/+1 counter on it. </text>
+		</card>
+		<card>
+			<name>KH Phil and Rapunzel</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Human </type>
+				<maintype>Creature</maintype>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Reach
+Whenever Phil and Rapunzel and one or more other creature block, target creature gains reach until end of turn.</text>
+		</card>
+		<card>
+			<name>KH Peter Pan</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WR</colors>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<type>Creature - Human Warrior </type>
+				<maintype>Creature</maintype>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>First strike, Flying
+When Peter Pan enters the battlefield creatures you control gain flying until end of turn.</text>
+		</card>
+		<card>
+			<name>KH Mushu, Family Fa&apos;s Guardian</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>R</colors>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<type>Artifact Creature - Dragon </type>
+				<maintype>Creature</maintype>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Mushu, Family Fa’s Guardian enters or leaves the battlefield Mushu, Family Fa’s Guardian deals 2 damage on any target.
+1R, {T}: Mushu, Family Fa’s Guardian deals 2 damage on any target.</text>
+		</card>
+		<card>
+			<name>KH Mulan, China&apos;s Salvation</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>R</colors>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Human Soldier </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Whenever Mulan, China’s Salvation attacks create three 1/1 red Soldier creature token with “This creature must be blocked” that are tapped and attacking. Exile the tokens at end of combat.</text>
+		</card>
+		<card>
+			<name>KH Merlin</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Human Wizard </type>
+				<maintype>Creature</maintype>
+				<pt>1/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Creatures you control have “{T}: Add {C}”.
+W/U/B/R/GW/U/B/R/GW/U/B/R/G, {T}: Add WUBRG.</text>
+		</card>
+		<card>
+			<name>KH Jiminy Cricket</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Insect </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{T}: Target a spell from your graveyard, it gains flashback {1} + its original cost. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+		</card>
+		<card>
+			<name>KH Jack Sparrow</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Human Pirate </type>
+				<maintype>Creature</maintype>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Jack Sparrow enters or leaves the battlefield create a treasure token. If Jack Sparrow would be destroy you may pay 3B, put it in your hand.</text>
+		</card>
+		<card>
+			<name>KH Jack Skellington</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Skeleton </type>
+				<maintype>Creature</maintype>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Deathtouch
+When Jack Skellington enters the battlefield create an artifact token with “{1}, sacrifice this token: Surveil 1.”	(Look at the top card of your library. You may put that card into your graveyard.)</text>
+		</card>
+		<card>
+			<name>KH Huey, Dewey, and Louie</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>URG</colors>
+				<manacost>GUR</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Goose </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Huey, Dewey, and Louie enters the battlefield search your library for an artifact card, reveal it, then shuffle and put that card on your hand.
+{1}, {T}: Exile an artifact from your graveyard, you can cast it until end of turn.</text>
+		</card>
+		<card>
+			<name>KH Heyner, Pence and Olette</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Human </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Heyner, Pence and Olette enters the battlefield create a treasure token.</text>
+		</card>
+		<card>
+			<name>KH Hercules, Olympus Hero</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WG</colors>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<type>Creature - Human Demigod </type>
+				<maintype>Creature</maintype>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Prowess
+When Hercules, Olympus Hero attacks a boss creature put a +1/+1 counter on Hercules, Olympus Hero. </text>
+		</card>
+		<card>
+			<name>KH Genie of the Lamp</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Artifact Creature - Djinn </type>
+				<maintype>Creature</maintype>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+During your upkeep choose one —
+• Create a treasure token;
+• Search your library for an instant card, reveal it, then shuffle and put that card on your hand;
+• Target a creature, gain vigilance until end of turn.
+You can use this abilities only once, if there is no more abilities to choose put Genie of the Lamp into your library, then shuffle it.</text>
+		</card>
+		<card>
+			<name>KH Elsa and Anna</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WU</colors>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Human Noble </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Lifelink
+When Elsa and Anna enters the battlefield tap an opponent creature.
+1U, {T}: Tap target creature.</text>
+		</card>
+		<card>
+			<name>KH Beast, Protector of the Rose</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Beast </type>
+				<maintype>Creature</maintype>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Trample, Menace
+When Beast, Protector of the Rose attacks or blocks put a +1/+1 counter on it until end of turn.</text>
+		</card>
+		<card>
+			<name>KH Bambi, Child of Nature</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Deer </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{1}, {T}: Add two mana of any color.</text>
+		</card>
+		<card>
+			<name>KH Ariel, Sea&apos;s Song</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<type>Legendary Creature - Siren </type>
+				<maintype>Creature</maintype>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{T}: Target an opponent, hum a Disney song, if the opponent doesn’t guess which film or cartoon the song comes from you may draw until your hand is full.</text>
+		</card>
+		<card>
+			<name>KH Aladdin, Agrabah&apos;s rogue</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UR</colors>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Human Rogue </type>
+				<maintype>Creature</maintype>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Reach
+1U, {T}: Reveal top card of opponent library, you can cast that card until end of turn. </text>
+		</card>
+		<card>
+			<name>KH Tarzan</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Human </type>
+				<maintype>Creature</maintype>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Reach
+When Tarzan enters the battlefield fights target creature an opponent controls. (Each deals damage equal to its power to the other.)</text>
+		</card>
+		<card>
+			<name>KH Snow White, Princess of Innocens</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Human Noble </type>
+				<maintype>Creature</maintype>
+				<pt>0/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Defender
+Whenever Snow White, Princess of Innocens blocks amass Animals 1. (Put a +1/+0 counter on an Army you control. It’s also an Animal. If you don’t control one, create a 0/1 white Animal Army creature token first.)</text>
+		</card>
+		<card>
+			<name>KH Sleepy, One of the Seven Dwarfs</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Dwarf </type>
+				<maintype>Creature</maintype>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Power and toughness of Sleepy are equal the number of Dwarf creatures under your control.
+When Sleepy enters the battlefield, you may pay {1}. If you do, search your library for a Dwarf creature card, reveal it, then shuffle and put that card on your hand.</text>
+		</card>
+		<card>
+			<name>KH Doc, One of the Seven Dwarfs</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Dwarf </type>
+				<maintype>Creature</maintype>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Power and toughness of Doc are equal the number of Dwarf creatures under your control.
+When Doc enters the battlefield, you may pay {1}. If you do, search your library for a Dwarf creature card, reveal it, then shuffle and put that card on your hand.</text>
+		</card>
+		<card>
+			<name>KH Grumpy, One of the Seven Dwarfs</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Dwarf </type>
+				<maintype>Creature</maintype>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Power and toughness of Grumpy are equal the number of Dwarf creatures under your control.
+When Grumpy enters the battlefield, you may pay {1}. If you do, search your library for a Dwarf creature card, reveal it, then shuffle and put that card on your hand.</text>
+		</card>
+		<card>
+			<name>KH Dopey, One of the Seven Dwarfs</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Dwarf </type>
+				<maintype>Creature</maintype>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Power and toughness of Dopey are equal the number of Dwarf creatures under your control.
+When Dopey enters the battlefield, you may pay {1}. If you do, search your library for a Dwarf creature card, reveal it, then shuffle and put that card on your hand.</text>
+		</card>
+		<card>
+			<name>KH Happy, One of the Seven Dwarfs</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Dwarf </type>
+				<maintype>Creature</maintype>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Power and toughness of Happy are equal the number of Dwarf creatures under your control.
+When Happy enters the battlefield, you may pay {1}. If you do, search your library for a Dwarf creature card, reveal it, then shuffle and put that card on your hand.</text>
+		</card>
+		<card>
+			<name>KH Bashful, One of the Seven Dwarfs</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Dwarf </type>
+				<maintype>Creature</maintype>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Power and toughness of Bashful are equal the number of Dwarf creatures under your control.
+When Bashful enters the battlefield, you may pay {1}. If you do, search your library for a Dwarf creature card, reveal it, then shuffle and put that card on your hand.</text>
+		</card>
+		<card>
+			<name>KH Sneezy, One of the Seven Dwarfs</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Dwarf </type>
+				<maintype>Creature</maintype>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Power and toughness of Sneezy are equal the number of Dwarf creatures under your control.
+When Sneezy enters the battlefield, you may pay {1}. If you do, search your library for a Dwarf creature card, reveal it, then shuffle and put that card on your hand.</text>
+		</card>
+		<card>
+			<name>KH Magic Carpet</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UR</colors>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<type>Artifact Creature - Equipment Golem </type>
+				<maintype>Creature</maintype>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+Equipped creature gets flying. 
+Reconfigure {1} ({1}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn’t a creature.)</text>
+		</card>
+		<card>
+			<name>KH Jasmine, Princess of Agrabah</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>UR</colors>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Human Noble </type>
+				<maintype>Creature</maintype>
+				<pt>0/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Defender
+Whenever Jasmine, Princess of Agrabah blocks, create a Treasure token.</text>
+		</card>
+		<card>
+			<name>KH Flora, Fauna and Merryweather</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>URG</colors>
+				<manacost>GUR</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Faerie </type>
+				<maintype>Creature</maintype>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+When Flora, Fauna and Merryweather enters the battlefield search your library for an enchantment card, reveal it, then shuffle and put that card on your hand.</text>
+		</card>
+		<card>
+			<name>KH Fairy godmother</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<type>Enchantment Creature - Faerie </type>
+				<maintype>Creature</maintype>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Fairy godmother enters the battlefield search your library for a nonlegendary creature card, reveal it, then shuffle and put that card on your hand.</text>
+		</card>
+		<card>
+			<name>KH Cinderella, Princess of Dreams</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Human Noble </type>
+				<maintype>Creature</maintype>
+				<pt>0/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Defender
+If Cinderella, Princess of Dreams blocks, istant you cast cost {1} less.</text>
+		</card>
+		<card>
+			<name>KH Chip &apos;n Dale</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Squirrel Pilot </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{5}, {T}: Create a copy of Gummiship and put it on the battlefield.
+Chip ‘n Dale crews Vehicles as though its power were 2 greater.</text>
+		</card>
+		<card>
+			<name>KH Cheshire Cat</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WB</colors>
+				<manacost>4WB</manacost>
+				<cmc>6</cmc>
+				<type>Creature - Cat </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Phasing (This phases in or out before you untap during each of your untap steps. While it’s phased out, it’s treated as though it doesn’t exist.)
+When Cheshire Cat phases in or phases out create a clue token. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)
+When Cheshire Cat leaves the battlefield, put it into random library instead.</text>
+		</card>
+		<card>
+			<name>KH Belle, princess of the rose</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WG</colors>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Human Noble </type>
+				<maintype>Creature</maintype>
+				<pt>0/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Defender
+Whenever Belle, princess of the rose blocks, untap target creature.</text>
+		</card>
+		<card>
+			<name>KH Aurora, Princess of Purity</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>WU</colors>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Human Noble </type>
+				<maintype>Creature</maintype>
+				<pt>0/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Defender
+Whenever Aurora, Princess of Purity blocks, tap target creature.</text>
+		</card>
+		<card>
+			<name>KH Alice, Princess of Fools</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>WG</colors>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Human </type>
+				<maintype>Creature</maintype>
+				<pt>0/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Defender
+Whenever Alice, Princess of Fools blocks, put a +1/+1 counter on target creature.</text>
+		</card>
+		<card>
+			<name>KH Minnie Mouse, Queen of Disney Kingdom</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<type>Legendary Creature - Rat Noble </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Minnie Mouse, Queen of Disney Kingdom enters the battlefield create a Royal Role token attached to Minnie Mouse, Queen of Disney Kingdom. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has ward {1}.)
+WW, {T}: Return target creature an opponent control to its owner’s hand.</text>
+		</card>
+		<card>
+			<name>KH Mike Wazowski and James P Sullivan</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WR</colors>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Nightmare </type>
+				<maintype>Creature</maintype>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Fear (This creature can’t be blocked except by artifact creatures and/or black creatures.)</text>
+		</card>
+		<card>
+			<name>KH Baymax</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>R</colors>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<type>Artifact Creature - Robot Equipment </type>
+				<maintype>Creature</maintype>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying, reach
+Equipped creature gets +2/+0 and flying.
+Reconfigure {3} ({3}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn’t a creature.)</text>
+		</card>
+		<card>
+			<name>KH Pluto</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Dog </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{1}, {T}: Search your library for a land card, reveal it, then shuffle and put that card on your hand. Put Pluto into your library, then shuffle it.</text>
+		</card>
+		<card>
+			<name>KH Goofy, King&apos;s shield</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Dog Knight </type>
+				<maintype>Creature</maintype>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Defender
+{T}: Other target creature you control gains protection from everything until end of turn. (This creature can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything until end of turn.)</text>
+		</card>
+		<card>
+			<name>KH Donald Duck, King&apos;s sceptre</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Goose Wizard </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Instant and sorcery spells you cast cost {1} less to cast.
+{U}, {T}: Regenerate target creature you control. (The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)</text>
+		</card>
+
+		<!-->Tokens</-->
+
+
+	</cards>
+</cockatrice_carddatabase>

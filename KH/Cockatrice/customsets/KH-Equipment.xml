@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name>KH-Equipment</name>
+			<longname>KH-Equipment</longname>
+			<settype>KH-Equipment</settype>
+		</set>
+	</sets>
+	<cards>
+
+		<card>
+			<name>KH Duel Gear</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Artifact - Equipment</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Duel Gear is a Keyblade when equipped to a Keyblade-Wielder.
+Equipped creature has first strike. (That creature deals combat damage before creatures without first strike.)
+Equip {1}</text>
+		</card>
+		<card>
+			<name>KH Phantom Gear</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Artifact - Equipment</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Phantom Gear is a Keyblade when equipped to a Keyblade-Wielder.
+Whenever equipped creature attacks, generate one treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)
+Equip {1}</text>
+		</card>
+		<card>
+			<name>KH Nimble Gear</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Artifact - Equipment</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Nimble Gear is a Keyblade when equipped to a Keyblade-Wielder.
+Equipped creature has flying. (That creature can’t be blocked except by creatures with flying or reach.)
+Equip {1}</text>
+		</card>
+		<card>
+			<name>KH Ominous Gear</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Artifact - Equipment</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Ominous Gear is a Keyblade when equipped to a Keyblade-Wielder.
+Equipped creature gets +2/+0 and has reach. (That creature can block creatures with flying.)
+Equip {1}</text>
+		</card>
+		<card>
+			<name>KH Prestige Gear</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Artifact - Equipment</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Prestige Gear is a Keyblade when equipped to a Keyblade-Wielder.
+Equipped creature gets +3/+0.
+Equip {1}</text>
+		</card>
+		<card>
+			<name>KH Omega Gear</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Artifact - Equipment</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Omega Gear is a Keyblade when equipped to a Keyblade-Wielder.
+Equipped creature gets +2/+2.
+Whenever equipped creature attacks, generate one treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)
+Equip {2}</text>
+		</card>
+		<card>
+			<name>KH Hazard Gear</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Artifact - Equipment</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Hazard Gear is a Keyblade when equipped to a Keyblade-Wielder.
+Equipped creature has reach.
+Whenever equipped creature attacks, generate one treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)
+Equip {2}</text>
+		</card>
+		<card>
+			<name>KH Rage Gear</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Artifact - Equipment</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Rage Gear is a Keyblade when equipped to a Keyblade-Wielder.
+Equipped creature has first strike and reach. (That creature deals combat damage before creatures without first strike. That creature can block creatures with flying.)
+Equip {2}</text>
+		</card>
+		<card>
+			<name>KH Ultimate Gear</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Artifact - Equipment</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Ultimate Gear is a Keyblade when equipped to a Keyblade-Wielder.
+Equipped creature gets +3/+0 and has first strike.
+Equip {2}</text>
+		</card>
+		<card>
+			<name>KH Pandora&apos;s Gear</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>M</colors>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Artifact - Equipment</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Pandora’s Gear is a Keyblade when equipped to a Keyblade Wielder.
+Equipped creature gets +4/+6 and has first strike and shroud.	(That creature deals combat damage before creatures without first strike. This permanent can’t be the target of spells or abilities.)
+Equipped creature takes double the damage from combat.
+Equip {3}</text>
+		</card>
+		<card>
+			<name>KH Lunar Eclipse</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<type>Artifact - Equipment Keyblade</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Lunar Eclipse is a Keyblade when equipped to a Keyblade-Wielder.
+Equipped creature gets +3/+0 and has first strike.
+Equip {2}</text>
+		</card>
+		<card>
+			<name>KH Kingdom Key</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Artifact - Equipment Keyblade </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Equipped creature gets +2/+1.
+Equip {1}</text>
+		</card>
+		<card>
+			<name>KH Kingdom Key D</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<type>Artifact - Equipment Keyblade </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Equipped creature gets +1/+2.
+Whenever equipped creature attacks, you may search your library for a basic land card, add it to your hand, then shuffle.
+Equip {2}</text>
+		</card>
+		<card>
+			<name>KH Wayward Wind</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<type>Artifact - Equipment Keyblade </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Equipped creature gets -1/+2.
+WWW: Transform Wayward Wind. Activate only as a sorcery.
+Equip {2}</text>
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Lost Memory</related>
+		</card>
+		<card>
+			<name>KH Lost Memory</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Artifact - Equipment Keyblade </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Equipped creature gets +3/+3 and cannot be blocked.
+Equip {3}</text>
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Wayward Wind</related>
+		</card>
+		<card>
+			<name>KH Rainfell</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<type>Artifact - Equipment Keyblade </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Equipped creature gets +0/+3.
+UUU: Transform Rainfell. Activate only as a sorcery.
+Equip {3}</text>
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Stormfall</related>
+		</card>
+		<card>
+			<name>KH Stormfall</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Artifact - Equipment Keyblade </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Equipped creature gets +1/+5 and has hexproof.
+Equip {4}</text>
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Rainfell</related>
+		</card>
+		<card>
+			<name>KH Earthshaker</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<type>Artifact - Equipment Keyblade </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Equipped creature gets +3/-1.
+GGG: Transform Earthshaker. Activate only as a sorcery.
+Equip {3}</text>
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Ends of the Earth</related>
+		</card>
+		<card>
+			<name>KH Ends of the Earth</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Artifact - Equipment Keyblade </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Equipped creature gets +4/+2 and	deals damage to creatures in the form of +0/-1 counters.
+Equip {4}</text>
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Earthshaker</related>
+		</card>
+		<card>
+			<name>KH Chaos Ripper</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>BG</colors>
+				<manacost>4B/G</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Artifact - Equipment Keyblade </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Equipped creature gets +7/-3. Whenever equipped creature attacks, discard 1 card.
+Equip {4}</text>
+		</card>
+		<card>
+			<name>KH Master&apos;s Defender</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<type>Artifact - Equipment Keyblade </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Equipped creature gets +2/+3. When equipped creature leaves the battlefield, equip Master’s Defender to target creature you control.
+Equip {3}</text>
+		</card>
+		<card>
+			<name>KH Destiny&apos;s Embrace</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<type>Artifact - Equipment Keyblade </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Equipped creature has lifelink. Whenever equipped creature deals combat damage to a player, scry 1. (To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)
+Equip {1}</text>
+		</card>
+		<card>
+			<name>KH Two Becomes One</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WB</colors>
+				<manacost>3W/B</manacost>
+				<cmc>4</cmc>
+				<type>Artifact - Equipment Keyblade </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Equipped creature gets +2/+2. When equipped creature attacks, reveal the top card of your library. If it’s a enchantment saga aura add it to your hand. Otherwise, put it at the bottom of your library.
+Equip {2}</text>
+		</card>
+		<card>
+			<name>KH Oathkeeper</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<type>Artifact - Equipment Keyblade </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Equipped creature gets +1/+3. 
+Equip {3}</text>
+		</card>
+		<card>
+			<name>KH Oblivion</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<type>Artifact - Equipment Keyblade </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Equipped creature gets +3/+1.
+At the beginning of combat on your turn, if you both own and control Oblivion and an artifact named Oathkeeper, exile them, then meld them into Oblivion&amp;Oathkeeper.
+Equip {3}</text>
+		</card>
+		<card>
+			<name>KH Oblivion &amp; Oathkeeper</name>
+			<token>1</token>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>WB</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Artifact - Equipment Keyblade </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Equipped creature gets +3/+3.
+Whenever equipped creature attacks, choose one — 
+ • You may remove a lore counter from target enchantment saga you control.
+ • Search your library for an enchantment saga aura and reveal that card. Shuffle your library, then put the card on your hand.
+Equip {4}</text>
+		</card>
+		<card>
+			<name>KH War of the Keyblade</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>M</colors>
+				<manacost>CRGBUWW/U/B/R/G</manacost>
+				<cmc>7</cmc>
+				<type>Legendary Battle - Siege</type>
+				<maintype>Battle</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it’s defeated, exile it, then cast it transformed.)</text>
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH X-Blade</related>
+		</card>
+		<card>
+			<name>KH X-Blade</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>M</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Artifact - Equipment Keyblade</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>You win the game</text>
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH War of the Keyblade</related>
+		</card>
+		<card>
+			<name>KH Star Seeker</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WU</colors>
+				<manacost>1W/U</manacost>
+				<cmc>2</cmc>
+				<type>Artifact - Equipment Keyblade </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Landfall — Whenever a land enters the battlefield under your control, add {C}.
+Equip {1}</text>
+		</card>
+		<card>
+			<name>KH Keyblade of People&apos;s Hearts</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<type>Artifact - Equipment Keyblade </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Equipped creature gets +2/-1 and has deathtouch. (Any amount of damage this deals to a creature is enough to destroy it.)
+Equip {2}</text>
+		</card>
+		<card>
+			<name>KH Way to Dawn</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>WB</colors>
+				<manacost>2W/B</manacost>
+				<cmc>3</cmc>
+				<type>Artifact - Equipment Keyblade </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Questo artefatto può essere equipaggiato solo a Keyblade-Wielder.
+Quando la creatura equipaggiata attacca puoi mandare una carta bianca o nera dalla tua mano al cimitero, la creatura equipaggiata ha deathtouch e legame vitale.
+Equipaggiamento {2}</text>
+		</card>
+		<card>
+			<name>KH Ultima Weapon</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors></colors>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Artifact - Equipment Keyblade </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Questo artefatto può essere equipaggiato solo a Keyblade-Wielder.
+La creautra equipaggiata prende +4/+4, quando la creatura equipaggiata attacca pesca una carta se è un’istantanea puoi giocarla, altrimenti esilia la carta.
+Equipaggiamento {3}</text>
+		</card>
+		<card>
+			<name>KH luxu</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>M</colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Artifact - Equipment Keyblade</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Luxu’s Keyblade is a Keyblade when equipped to a Keyblade-Wielder.
+Equipped creature gets +3/+0 and has first strike.
+Equip {2}</text>
+		</card>
+		<card>
+			<name>KH No Name</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<type>Artifact - Equipment Keyblade</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>KH Void Gear</name>
+			<set rarity="uncommon"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<type>Artifact - Equipment Keyblade</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>KH Limit Boost</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Artifact // Legendary Artifact - Equipment </type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Limit Boost deals 1 damage to target creature, {T}: That creature gets +1/+1 until end of turn.</text>
+		</card>
+		<card>
+			<name>KH Keychain</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>M</colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Enchantment - Aura</type>
+				<maintype>Enchantment</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Enchant Equipment
+When Keychain enters the battlefield, search your library for an Equipment card, put it in your graveyard, then shuffle.
+Enchanted Equipment has all abilities of all cards put in the graveyard with Keychain.</text>
+		</card>
+		<card>
+			<name>KH Soul Eater</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>M</colors>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<type>Artifact - Equipment</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Equipped creature gets +X/+X, where X is the number of {B} in equipped creature’s casting cost and in the casting cost of all cards attached to equipped creature.
+Equip {2}</text>
+		</card>
+
+		<!-->Tokens</-->
+
+
+	</cards>
+</cockatrice_carddatabase>

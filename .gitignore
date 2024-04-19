@@ -1,0 +1,8 @@
+*.bak
+images/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.bmp

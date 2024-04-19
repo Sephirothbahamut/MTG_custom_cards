@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Guardians of Light</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Duel Gear"/>
+        <card number="1" name="Hazard Gear"/>
+        <card number="1" name="Nimble Gear"/>
+        <card number="1" name="Omega Gear"/>
+        <card number="1" name="Ominous Gear"/>
+        <card number="1" name="Pandora's Gear"/>
+        <card number="1" name="Phantom Gear"/>
+        <card number="1" name="Prestige Gear"/>
+        <card number="1" name="Ultimate Gear"/>
+        <card number="1" name="Rage Gear"/>
+        <card number="1" name="Kingdom Key"/>
+        <card number="1" name="Kingdom Key D"/>
+        <card number="1" name="Wayward Wind"/>
+        <card number="1" name="Rainfell"/>
+        <card number="1" name="Master's Defender"/>
+        <card number="1" name="Destiny's Embrace"/>
+        <card number="1" name="Two Becomes One"/>
+        <card number="1" name="Oathkeeper"/>
+        <card number="1" name="Oblivion"/>
+        <card number="1" name="Star Seeker"/>
+        <card number="1" name="Keyblade of People's Hearts"/>
+        <card number="1" name="Ultima Weapon"/>
+        <card number="1" name="luxu"/>
+        <card number="1" name="No Name"/>
+        <card number="1" name="Void Gear"/>
+        <card number="1" name="100 Acre Wood"/>
+        <card number="1" name="Agrabah"/>
+        <card number="1" name="Beast's Castle"/>
+        <card number="1" name="Destiny Island"/>
+        <card number="1" name="Disney Castle"/>
+        <card number="1" name="Enchanted Dominion"/>
+        <card number="1" name="End of the World"/>
+        <card number="1" name="Halloween Town"/>
+        <card number="1" name="Hollow Bastion"/>
+        <card number="1" name="Land of Departure"/>
+        <card number="1" name="Olympus"/>
+        <card number="1" name="San Fransokyo"/>
+        <card number="1" name="Sleeping Worlds"/>
+        <card number="1" name="Timeless river"/>
+        <card number="1" name="Traverse Town"/>
+        <card number="1" name="Twilight Town"/>
+        <card number="1" name="Wonderland"/>
+        <card number="1" name="Restoring Sleep"/>
+        <card number="1" name="Huey, Dewey, and Louie"/>
+        <card number="1" name="Jiminy Cricket"/>
+        <card number="1" name="Pluto"/>
+        <card number="9" name="Plains"/>
+        <card number="1" name="Kingdom of Corona"/>
+        <card number="1" name="Arid Pride Lands"/>
+        <card number="1" name="Gothel's Tower"/>
+        <card number="1" name="Jafar's Haunt"/>
+        <card number="1" name="Monstropolis"/>
+        <card number="1" name="Earthshaker (KH)"/>
+        <card number="1" name="The World that Never Was"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Arendelle"/>
+        <card number="1" name="Jeweled Lotus"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Roxas"/>
+        <card number="1" name="Xion"/>
+        <card number="1" name="Chirithy"/>
+        <card number="1" name="Eraqus, Master of Guardians"/>
+        <card number="1" name="Kairi, Princess of Hearts"/>
+        <card number="1" name="Keyblade Graveyard"/>
+        <card number="1" name="Mickey Mouse, Keyblade Master"/>
+        <card number="1" name="Mysterious Tower"/>
+        <card number="1" name="Riku, Redeemed Guardian"/>
+        <card number="1" name="Scala ad Caelum"/>
+        <card number="1" name="Sora, Keyblade's Choosen One"/>
+        <card number="1" name="Terra, Guardian of Fury"/>
+        <card number="1" name="Vanitas, the Residual Darkness"/>
+        <card number="1" name="Ventus, Guardian of Purity"/>
+        <card number="1" name="Yen Sid"/>
+        <card number="1" name="Young Xehanort, the Corrupt Apprentice"/>
+        <card number="1" name="Master Form"/>
+        <card number="1" name="Limit Form"/>
+        <card number="1" name="Final Form"/>
+        <card number="1" name="Aqua, Guardian of Hope"/>
+        <card number="1" name="Bambi, Child of Nature"/>
+        <card number="1" name="Xehanort's Heart"/>
+        <card number="1" name="Crafting Recipe"/>
+        <card number="1" name="Defense Up"/>
+        <card number="1" name="Keychain"/>
+        <card number="2" name="Munny"/>
+        <card number="1" name="Potion"/>
+        <card number="1" name="Power Up"/>
+        <card number="1" name="War of the Keyblade"/>
+    </zone>
+    <zone name="tokens">
+        <card number="1" name="Cornerstone of Light"/>
+        <card number="1" name="Data Twilight Town"/>
+        <card number="1" name="Oblivion &amp; Oathkeeper"/>
+        <card number="1" name="Treasure (Agrabah)"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Deep Space"/>
+        <card number="1" name="Xion"/>
+        <card number="1" name="Ephemer, Last Dandelion"/>
+    </zone>
+</cockatrice_deck>

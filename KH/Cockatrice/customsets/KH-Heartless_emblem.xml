@@ -1,0 +1,1532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name>KH-Heartless_emblem</name>
+			<longname>KH-Heartless_emblem</longname>
+			<settype>KH-Heartless_emblem</settype>
+		</set>
+	</sets>
+	<cards>
+
+		<card>
+			<name>KH </name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type></type>
+				<maintype></maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>KH Large Body</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Large Body blocks, its power becomes 0.</text>
+		</card>
+		<card>
+			<name>KH Fat Bandit</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BR</colors>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{R}, {T}: Deal 1 damage to target creature.</text>
+		</card>
+		<card>
+			<name>KH Large Armor</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>0/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Defender (This creature can’t attack.)</text>
+		</card>
+		<card>
+			<name>KH Rapid Thruster</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WB</colors>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless Bird </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+Banding with Rapid Thruster (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature’s combat damage, not its controller, among any of the creatures it’s being blocked by or is blocking.)
+You cannot cast creatures with Boss.
+{T}: Create a tapped token that’s a copy of Rapid Thruster.</text>
+		</card>
+		<card>
+			<name>KH Iron Hammer</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BG</colors>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Splash damage 1/2 (When this creature deals damage to a creature, deal 1 damage to up to 2 different creatures that player controls.)</text>
+		</card>
+		<card>
+			<name>KH Soldier</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless Soldier </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature’s combat damage, not its controller, among any of the creatures it’s being blocked by or is blocking.)</text>
+		</card>
+		<card>
+			<name>KH Commander</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature’s combat damage, not its controller, among any of the creatures it’s being blocked by or is blocking.)</text>
+		</card>
+		<card>
+			<name>KH Sergeant</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature’s combat damage, not its controller, among any of the creatures it’s being blocked by or is blocking.)</text>
+		</card>
+		<card>
+			<name>KH High Soldier</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature’s combat damage, not its controller, among any of the creatures it’s being blocked by or is blocking.)</text>
+		</card>
+		<card>
+			<name>KH Red Nocturne</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BR</colors>
+				<manacost>B/R</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying, reach
+Protection from red instants and sorceries.
+2R, {T}: Red Nocturne deals 2 damage to any target.</text>
+		</card>
+		<card>
+			<name>KH Blue Rhapsody</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UB</colors>
+				<manacost>U/B</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying, reach
+Protection from blue instants and sorceries.
+2U, {T}: Blue Rhapsody deals 1 damage to target creature opponent controls, then tap it.</text>
+		</card>
+		<card>
+			<name>KH Yellow Opera</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WB</colors>
+				<manacost>W/B</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying, reach
+Protection from white instants and sorceries.
+2R/W, {T}: Yellow Opera deals 3 damage to target opponent.</text>
+		</card>
+		<card>
+			<name>KH Green Requiem</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BG</colors>
+				<manacost>B/G</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+Protection from instants and sorceries.
+2G, {T}: Regenerate target creature you control.</text>
+		</card>
+		<card>
+			<name>KH Black Ballade</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+Whenever Black Ballade would be dealt any damage, toss a coin. If you call it right prevent any damage received by Black Ballade.</text>
+		</card>
+		<card>
+			<name>KH Silver Rock</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>B/C</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+Protection from instants and sorceries.
+{T}: Silver Rock phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</text>
+		</card>
+		<card>
+			<name>KH Emerald Blues</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WUB</colors>
+				<manacost>W/UB</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying, reach
+Protection from green, white, blue and black instants and sorceries.
+{3}, {T}: Target creature you control gains +0/+2 until end of turn.</text>
+		</card>
+		<card>
+			<name>KH Crimson Jazz</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WBR</colors>
+				<manacost>RR/WB</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+Protection from instants and sorceries.
+Whenever Crimson Jazz blocks, Crimson Jazz deals 1 damage to all attacking creatures.
+2R, {T}: Crimson Jazz deals 2 damage to any target.</text>
+		</card>
+		<card>
+			<name>KH Spring Metal</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UB</colors>
+				<manacost>U/CB</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying, reach, double strike
+{3}, {T}: Target creature you control gains +0/+2 until end of turn.</text>
+		</card>
+		<card>
+			<name>KH Wizard</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Emblem Heartless Wizard </type>
+				<maintype>Creature</maintype>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{B}: Wizard gains protection from instants and sorceries until end of turn.
+3U, {T}: Exile target creature and put a time counters on it. If it doesn’t have suspend, it gains suspend.</text>
+		</card>
+		<card>
+			<name>KH Air Soldier</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless Soldier </type>
+				<maintype>Creature</maintype>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying (This creature can’t be blocked except by creatures with flying or reach.)</text>
+		</card>
+		<card>
+			<name>KH Surveillance Robot</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless Robot </type>
+				<maintype>Creature</maintype>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+Range (When this creature attacks it takes no damage from creatures without range or reach.)
+BB, sacrifice Surveillance Robot, {T}: Surveillance Robot destroy target creature with cost 2 or less.</text>
+		</card>
+		<card>
+			<name>KH Search Ghost</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless Spirit </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Reach
+Phasing (This phases in or out before you untap during each of your untap steps. While it’s phased out, it’s treated as though it doesn’t exist.)
+When Search Ghost enters the battlefield, scry 1.</text>
+		</card>
+		<card>
+			<name>KH Grand Ghost</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Emblem Heartless Spirit </type>
+				<maintype>Creature</maintype>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Reach
+Phasing (This phases in or out before you untap during each of your untap steps. While it’s phased out, it’s treated as though it doesn’t exist.)
+Search Ghost deals damage to creatures in the form of -0/-1 counters.
+ </text>
+		</card>
+		<card>
+			<name>KH Sniperwild</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BG</colors>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless Monkey </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Reach (This creature can block creatures with flying.)</text>
+		</card>
+		<card>
+			<name>KH Powerwild</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BG</colors>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless Monkey </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)</text>
+		</card>
+		<card>
+			<name>KH Crescendo</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BG</colors>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>XBG, {T}: Regenerate up to X + 1 target creatures. (The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)</text>
+		</card>
+		<card>
+			<name>KH Bandit</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BR</colors>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless Soldier </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature’s combat damage, not its controller, among any of the creatures it’s being blocked by or is blocking.)</text>
+		</card>
+		<card>
+			<name>KH Pot Spider</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BR</colors>
+				<manacost>B/R</manacost>
+				<cmc>1</cmc>
+				<type>Artifact Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Pot Spider is destroyed, drop/create a treasure token.</text>
+		</card>
+		<card>
+			<name>KH Barrel Spider</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BR</colors>
+				<manacost>B/R</manacost>
+				<cmc>1</cmc>
+				<type>Artifact Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Barrel Spider is destroyed in combat, Barrel Spider deals 2 damage to target attacking creature.</text>
+		</card>
+		<card>
+			<name>KH Armoured Knight</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Emblem Heartless Knight </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>KH Wight Knight</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless Zombie </type>
+				<maintype>Creature</maintype>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Reach (This creature can block creatures with flying.)</text>
+		</card>
+		<card>
+			<name>KH Defender</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BR</colors>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Emblem Heartless Knight </type>
+				<maintype>Creature</maintype>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Defender (This creature can’t attack.)
+When Defender blocks attacking creature, Defender deals 3 damage to that creature.</text>
+		</card>
+		<card>
+			<name>KH Missile Diver</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UB</colors>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless Fish </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>First strike (This creature deals combat damage before creatures without first strike.)</text>
+		</card>
+		<card>
+			<name>KH Aquatank</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UB</colors>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless Fish </type>
+				<maintype>Creature</maintype>
+				<pt>*/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Aquatank enters the battlefield search your library for a blue creature card, reveal it, then shuffle and put that card on your hand.
+Aquatank’s power is equal to the number of blue creatures you control.
+ </text>
+		</card>
+		<card>
+			<name>KH Air Pirate</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UB</colors>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless Pirate </type>
+				<maintype>Creature</maintype>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying (This creature can’t be blocked except by creatures with flying or reach.)</text>
+		</card>
+		<card>
+			<name>KH Battleship</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UB</colors>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<type>Artifact Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying (This creature can’t be blocked except by creatures with flying or reach.)
+Range (When this creature attacks it takes no damage from creatures without range or reach.)
+ </text>
+		</card>
+		<card>
+			<name>KH Wyvern</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying (This creature can’t be blocked except by creatures with flying or reach.)</text>
+		</card>
+		<card>
+			<name>KH Angel Star</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WB</colors>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying (This creature can’t be blocked except by creatures with flying or reach.)
+Range (When this creature attacks it takes no damage from creatures without range or reach.)
+Protection from instants and sorceries. (This creature can’t be blocked, targeted or dealt damage by instants and sorceries.)</text>
+		</card>
+		<card>
+			<name>KH White Mushroom</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WB</colors>
+				<manacost>W/B</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Emblem Heartless Fungus </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When White Mushroom enters the battlefield, add {C}, {W} and {B}.</text>
+		</card>
+		<card>
+			<name>KH Black Mushroom</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Emblem Heartless Fungus </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+BBB: Black Mushroom gains indestructible until end of turn.</text>
+		</card>
+		<card>
+			<name>KH Rare Truffle</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UB</colors>
+				<manacost>U/B</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Emblem Heartless Fungus </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Rare Truffle enters the battlefield, add {U}, {R} and {G}.</text>
+		</card>
+		<card>
+			<name>KH Pink Agaricus</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WUBRG</colors>
+				<manacost>WUBRG</manacost>
+				<cmc>5</cmc>
+				<type>Creature - Emblem Heartless Fungus </type>
+				<maintype>Creature</maintype>
+				<pt>0/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{T}: Add 2 mana of any color.</text>
+		</card>
+		<card>
+			<name>KH Chimera</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Emblem Heartless Golem </type>
+				<maintype>Creature</maintype>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
+When Chimera blocks, Chimera has splash damage 1/2. (When this creature deals damage to a creature, deal 1 damage to up to 2 different creatures that player controls.)</text>
+		</card>
+		<card>
+			<name>KH Sea Neon</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UB</colors>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless Jellyfish </type>
+				<maintype>Creature</maintype>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Sea Neon is destroyed, create 3 Shadow tokens.</text>
+		</card>
+		<card>
+			<name>KH Fiery Globe &amp; Ice Cube</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UBR</colors>
+				<manacost>U/B/R</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Emblem Heartless Golem </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Firey Globe &amp; Ice Cube enters the battlefield, create 2 tokens that are a copy of Firey Globe &amp; Ice Cube except they lose all their abilities.</text>
+		</card>
+		<card>
+			<name>KH Living Bone</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UBG</colors>
+				<manacost>1BG/U</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
+GG, {T}: Living Bone gains +1/+1.</text>
+		</card>
+		<card>
+			<name>KH Graveyard</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<type>Artifact Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Reach (This creature can block creatures with flying.)
+First strike (This creature deals combat damage before creatures without first strike.)</text>
+		</card>
+		<card>
+			<name>KH Fortuneteller</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless Wizard </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+2U, {T}: Fortuneteller deals 1 damage to target creature opponent controls, then tap it.</text>
+		</card>
+		<card>
+			<name>KH Hot Road</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BG</colors>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<type>Artifact Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
+Hot Road must attack if able.</text>
+		</card>
+		<card>
+			<name>KH Assault Rider</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BG</colors>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Emblem Heartless Knight </type>
+				<maintype>Creature</maintype>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Double strike (This creature deals both first-strike and regular combat damage.)
+Vigilance (Attacking doesn’t cause this creature to tap.)</text>
+		</card>
+		<card>
+			<name>KH Nightwalker</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless Zombie </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying (This creature can’t be blocked except by creatures with flying or reach.)
+Reach (This creature can block creatures with flying.)
+{R}, {T}: Nightwalker deals 1 damage to any target.</text>
+		</card>
+		<card>
+			<name>KH Aeroplane</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<type>Artifact Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying (This creature can’t be blocked except by creatures with flying or reach.)</text>
+		</card>
+		<card>
+			<name>KH Bolt Tower</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BR</colors>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Splash damage 1 (When this creature deals damage to a creature, deal 1 damage to other creatures that player controls.)</text>
+		</card>
+		<card>
+			<name>KH Bookmaster</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{T}: Bookmaster gains indestructible until end of turn.
+{4}, {T}: Target creature you control has ward {2}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)</text>
+		</card>
+		<card>
+			<name>KH Bulky Vendor</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Bulky Vendor enters the battlefield with 1 drop counter.
+{T}: Put 1 drop counter on Bulky Vendor.
+{T}: Sacrifice Bulky Vendor, then drop X where X is the number of drop counters on Bulky Vendor.</text>
+		</card>
+		<card>
+			<name>KH Rapid Dog</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Emblem Heartless Dog </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Trample, first strike</text>
+		</card>
+		<card>
+			<name>KH Morning Star</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Defender (This creature can’t attack.)
+Last strike
+When Morning Star blocks attacking creature, Morning Star deals 1 damage to all attacking creatures.</text>
+		</card>
+		<card>
+			<name>KH Aerial Knocker</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless Bird </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying, double strike</text>
+		</card>
+		<card>
+			<name>KH Cannon Gun</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BR</colors>
+				<manacost>B/R</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Range (When this creature attacks it takes no damage from creatures without range or reach.)</text>
+		</card>
+		<card>
+			<name>KH Ruler of the Sky</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UB</colors>
+				<manacost>1UUBB</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss, flying
+Ruler of the Sky enters the battlefield with 3 shield counters. (If a permanent with a shield counter on it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
+		</card>
+		<card>
+			<name>KH Leechgrave</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>1BBBB</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss
+When Leechgrave enters the battlefield create four 2/1 black Pureblood Heartless creature tokens named Tentaclaw with reach and “Tentaclaw must attack if able”.
+Leechgrave has indestructible, hexproof and defender as long as you control at least one Tentaclaw.</text>
+		</card>
+		<card>
+			<name>KH Groundshaker</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BG</colors>
+				<manacost>1BBGG</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>3/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss, splash damage 2
+Groundshaker may block any number of creatures in combat.
+When Groundshaker blocks, its power becomes 1.</text>
+		</card>
+		<card>
+			<name>KH Trickster</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BR</colors>
+				<manacost>1BRR</manacost>
+				<cmc>4</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss
+Splash damage 1 (When this creature deals damage to a creature, deal 1 damage to other creatures that player controls.)
+Trickster takes no combat damage when blocking.</text>
+		</card>
+		<card>
+			<name>KH Blizzard Lord</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UB</colors>
+				<manacost>2UUB</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss (When this creature enters the battlefield destroy other permanents with Boss you control.)
+Partner with Fire Lord (When this creature enters the battlefield, target player may put Fire Lord into their hand from their library, then shuffle.)
+{T}: Put Volcanic Lord on the battlefield. If you do Blizzard Lord loses boss.</text>
+		</card>
+		<card>
+			<name>KH Volcanic Lord</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BR</colors>
+				<manacost>2BRR</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss (When this creature enters the battlefield destroy other permanents with Boss you control.)
+Partner with Blizzard Lord (When this creature enters the battlefield, target player may put Blizzard Lord into their hand from their library, then shuffle.)
+{T}: Put Blizzard Lord on the battlefield. If you do Volcanic Lord loses boss.</text>
+		</card>
+		<card>
+			<name>KH Kurt Zisa</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WB</colors>
+				<manacost>2WBB</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss (When this creature enters the battlefield destroy other permanents with Boss you control.)
+At the beginning of combat on your turn, choose one that wasn’t chosen during your last combat —
+ • Kurt Zisa has protection from creatures until end of turn.
+ • Kurt Zisa has protection from noncreature spells until end of turn.</text>
+		</card>
+		<card>
+			<name>KH Grim Reaper</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UB</colors>
+				<manacost>2UBB</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss (When this creature enters the battlefield destroy other permanents with Boss you control.)
+When Grim Reaper enters the battlefield, each player may create a Treasure token. For each Treasure token created this way, Grim Reaper gets a +1/+1 counter.</text>
+		</card>
+		<card>
+			<name>KH Pot Centipede</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UB</colors>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss (When this creature enters the battlefield destroy other permanents with Boss you control.)
+Pot Centipede enters the battlefield with a +1/+1 counter for each artifact you control.
+Pot Centipede takes damage in the form of -1/-1 counters.</text>
+		</card>
+		<card>
+			<name>KH Storm Rider</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>WB</colors>
+				<manacost>2WBB</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss (When this creature enters the battlefield destroy other permanents with Boss you control.)
+Flying
+Dark recall 4 (When this creature enters the battlefield create 4 Shadow tokens.)</text>
+		</card>
+		<card>
+			<name>KH Guard Armour</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BG</colors>
+				<manacost>1BBBG</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Artifact Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>1/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss (When this creature enters the battlefield destroy other permanents with Boss you control.)
+When Guard Armour enters the battlefield create two artifact creature 3/2 black Emblem Heartless creature tokens named Armoured Limbs.
+Guard Armour has indestructible and defender as long as you control at least one Armoured Limb.</text>
+		</card>
+		<card>
+			<name>KH Phantom</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UB</colors>
+				<manacost>1UBBB</manacost>
+				<cmc>5</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt></pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss
+Shroud
+Phantom enters the battlefield with protection from that (This creature can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything that.)</text>
+		</card>
+		<card>
+			<name>KH Stealth Sneak</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BG</colors>
+				<manacost>2BGG</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss, reach
+Phasing
+Whenever Stealth Sneak deals damage to a player, you may look at that player’s hand.
+You may look at the top card of your library at any time.</text>
+		</card>
+		<card>
+			<name>KH Dustflier</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>WUBRG</colors>
+				<manacost>1W/UBBBR/G</manacost>
+				<cmc>6</cmc>
+				<type>Legendary Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>3/9</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss, flying
+RRR: Deal 1 damage to up to six targets.
+Whenever a creature blocks Dustflier, halve that creature’s toughness.
+At the beginning of your upkeep, create a Shadow token.</text>
+		</card>
+		<card>
+			<name>KH Prison Keeper</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>2BBB</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss
+Splash damage 1
+Sacrifice a creature, {T}: Put a +1/+1 counter on Prison Keeper.</text>
+		</card>
+		<card>
+			<name>KH Vitality Popcat</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Vitality Popcat leaves the battlefield, gain 3 life.</text>
+		</card>
+		<card>
+			<name>KH Rock Troll</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BG</colors>
+				<manacost>2BBG</manacost>
+				<cmc>5</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>5/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss (When this creature enters the battlefield destroy other permanents with Boss you control.)
+Menace, splash damage 1 (When this creature deals damage to a creature, deal 1 damage to other creatures that player controls.)</text>
+		</card>
+		<card>
+			<name>KH Satyr</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BG</colors>
+				<manacost>3BG</manacost>
+				<cmc>5</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Trample
+When Satyr enters the battlefield, if it isn’t a token, create two tokens that are copies of it with “Satyr attacks each combat if able.”
+Satyr attacks each combat if able.</text>
+		</card>
+		<card>
+			<name>KH Winterhorn</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UB</colors>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>KH Frost Serpent</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UB</colors>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying</text>
+		</card>
+		<card>
+			<name>KH Grim Guardianess</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BG</colors>
+				<manacost>2BBG</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss	(When this creature enters the battlefield destroy other permanents with Boss you control.)
+Reach
+2G, {T}: Create up to three 1/4 green Gardner Wall tokens with “This token must block if able.”
+You cannot control more than five Gardner Wall tokens.</text>
+		</card>
+		<card>
+			<name>KH Tireblade</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BR</colors>
+				<manacost>B/R</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Haste</text>
+		</card>
+		<card>
+			<name>KH Catastrochorus</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BR</colors>
+				<manacost>1BBRR</manacost>
+				<cmc>5</cmc>
+				<type>Creature - Emblem Heartless Dinosaur </type>
+				<maintype>Creature</maintype>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss (When this creature enters the battlefield destroy other permanents with Boss you control.)
+Splash damage 2/2 (When this creature deals damage to a creature, deal 2 damage to up to 2 different creatures that player controls.)
+RR, {T}: Catastrochorus deals 3 damage divided as you choose among one or two creatures.</text>
+		</card>
+		<card>
+			<name>KH Darkubes</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>XB</manacost>
+				<cmc>1</cmc>
+				<type>Legendary Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss (When this creature enters the battlefield destroy other permanents with Boss you control.)
+Darkubes enters the battlefield with X +1/+1 counters. 
+Darkubes takes damage in the form of -1/-1 counters.</text>
+		</card>
+		<card>
+			<name>KH Sköll</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UB</colors>
+				<manacost>2UUB</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Snow Creature - Emblem Heartless Wolf</type>
+				<maintype>Creature</maintype>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss (When this creature enters the battlefield destroy other permanents with Boss you control.)
+Flying
+When Sköll attacks put two 2/2 wolf tokens tapped and attacking. Destroy them at the end of combat.</text>
+		</card>
+		<card>
+			<name>KH King of Toys</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UB</colors>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Artifact Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss (When this creature enters the battlefield destroy other permanents with Boss you control.)
+Flying
+Dark recall 3 (When this creature enters the battlefield create 3 Shadow tokens.)
+King of Toys may block any number of creatures in combat.</text>
+		</card>
+		<card>
+			<name>KH Anchor Raider</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UB</colors>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>As an addiction cost to cast Anchor Raider, sacrifice a creature.</text>
+		</card>
+		<card>
+			<name>KH Chaos Carriage</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Chaos Carriage enter the battlefield, put a shield counter. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+{5}, {T}: Put a shield counter on Chaos Carriage
+Dark recall 1 (When this creature enters the battlefield create 1 Shadow tokens.)</text>
+		</card>
+		<card>
+			<name>KH Chief Puff</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BG</colors>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless Plant </type>
+				<maintype>Creature</maintype>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Whenever Chief Puff blocks, amass Puffball 1. (Put a +1/+1 counter on an Army you control. It’s also a Puffball. If you don’t control one, create a 0/0 black Puffball Army creature token first.)</text>
+		</card>
+		<card>
+			<name>KH Parasol Beauty</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Splash damage 1/2 (When this creature deals damage to a creature, deal 1 damage to up to 2 different creatures that player controls.)</text>
+		</card>
+		<card>
+			<name>KH Pole Cannon</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Pole Cannon enters the battlefield, it deals 1 damage to target creature.</text>
+		</card>
+		<card>
+			<name>KH Marionette</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Marionette enters the battlefield, target artifact becomes a 3/3 creature with Haste until end of turn.</text>
+		</card>
+		<card>
+			<name>KH Bizarre Archer</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BG</colors>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Range (When this creature attacks it takes no damage from creatures without range or reach.)</text>
+		</card>
+		<card>
+			<name>KH Munny Popcat</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Munny Popcat leaves the battlefield, create a treasure token.</text>
+		</card>
+		<card>
+			<name>KH Focus Popcat</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>When Focus Popcat leaves the battlefield, draw a card.</text>
+		</card>
+		<card>
+			<name>KH Magic Popcat</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{T}: Add {B}.
+When Magic Popcat leaves the battlefield, add BB.</text>
+		</card>
+		<card>
+			<name>KH Raging Vulture</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UBR</colors>
+				<manacost>2UBR</manacost>
+				<cmc>5</cmc>
+				<type>Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss (When this creature enters the battlefield destroy other permanents with Boss you control.)
+Flying
+When Raging Vulture attacks, create two 1/1 black Emblem Heartless Vaporfly tokens.</text>
+		</card>
+
+		<card>
+			<name>KH Behemoth</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BG</colors>
+				<manacost>BBBBGG</manacost>
+				<cmc>6</cmc>
+				<type>Legendary Creature - Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Trample
+Boss (When this creature enters the battlefield destroy other permanents with Boss you control.)</text>
+		</card>
+		<card>
+			<name>KH Ansem, the Seeker of Darkness</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>BBBBBB</manacost>
+				<cmc>6</cmc>
+				<type>Legendary Creature - Human Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss, dark recall 3
+If Ansem, the Seeker of Darkness would be destroyed in combat, you may pay BBBB, transform Ansem, the Seeker of Darkness instead.
+If Ansem, the Seeker of Darkness would be destroyed outside of combat, exile Ansem, the Seeker of Darkness instead, then return him to the battlefield transformed under her owner’s control.</text>
+
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH World of Chaos</related>
+			
+		</card>
+		<card>
+			<name>KH World of Chaos</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Creature - Vehicle Emblem Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>4/12</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+Boss (When this creature enters the battlefield destroy other permanents with Boss you control.)
+When World of Chaos enters the battlefield, exile up two target nonlegendary creatures under World of Chaos. When World of Chaos leaves the battlefield return exiled creatures on their owner’s battlefield.
+Crew 5
+Dark recall 5</text>
+		
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Ansem, the Seeker of Darkness</related>
+			
+		</card>
+
+
+	</cards>
+</cockatrice_carddatabase>

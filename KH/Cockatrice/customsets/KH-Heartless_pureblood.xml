@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name>KH-Heartless_pureblood</name>
+			<longname>KH-Heartless_pureblood</longname>
+			<settype>KH-Heartless_pureblood</settype>
+		</set>
+	</sets>
+	<cards>
+
+		<card>
+			<name>KH World of Darkness</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land - Swamp</type>
+				<maintype>Land</maintype>
+		<pt></pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>World of Darkness enters the battlefield tapped.
+W/U/B/R/G: Add B.
+BBBBB: Add an amount of B to your mana pool equal to your devotion to black.
+XX, T: Create X Shadow tokens.
+World of Darkness can be your commander.</text>
+		</card>
+		<card>
+			<name>KH Engulf in Darkness</name>
+			<set rarity="rare"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>BBB</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+		<pt></pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Whenever you deal damage to a you may pay BBBBB: Target land that player controls becomes a Swamp.Flying, Trample</text>
+		</card>
+		<card>
+			<token>1</token>
+			<name>Shadow</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<type>Token Creature - Pureblood Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>BB: Shadow gains shadow until end of turn. (This creature can block or be blocked by only creatures with shadow.)</text>
+		</card>
+		<card>
+			<name>KH Neoshadow</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>BBB</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Pureblood Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Dark Recall (When this creature enters the battlefield create a Shadow token.)
+BB: Neoshadow gains shadow until end of turn. (This creature can block or be blocked by only creatures with shadow.)</text>
+		</card>
+		<card>
+			<name>KH Novashadow</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>BBBB</manacost>
+				<cmc>4</cmc>
+				<type>Creature - Pureblood Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Dark Recall (When this creature enters the battlefield create a Shadow token.)
+BB: Novashadow gains shadow until end of turn. (This creature can block or be blocked by only creatures with shadow.)</text>
+		</card>
+		<card>
+			<name>KH Darkball</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Pureblood Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying</text>
+		</card>
+		<card>
+			<name>KH Invisible</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>BBB</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Pureblood Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+Dark Recall (When this creature enters the battlefield create a Shadow token.)</text>
+		</card>
+		<card>
+			<name>KH Orcus</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>BBBB</manacost>
+				<cmc>4</cmc>
+				<type>Creature - Pureblood Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+Dark Recall (When this creature enters the battlefield create a Shadow token.)</text>
+		</card>
+		<card>
+			<name>KH Possessor</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<type>Enchantment Creature - Pureblood Heartless Aura </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>BBB, {T}: Enchant target nonlegendary non equipment artifact.
+You control enchanted artifact.
+Enchanted artifact loses all its abilities and is a creature in addition to its other types with strength and toughness equal to its mana value or 1 if mana value is 0.</text>
+		</card>
+		<card>
+			<name>KH Gigas Shadow</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Pureblood Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>BB: Gigas Shadow gains shadow until end of turn. (This creature can block or be blocked by only creatures with shadow.)
+When Gigas Shadow is destroyed create three Shadow tokens.</text>
+		</card>
+		<card>
+			<name>KH Darkside</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>BBBBBB</manacost>
+				<cmc>6</cmc>
+				<type>Creature - Pureblood Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss, splash damage 1
+Dark Recall 3 (When this creature enters the battlefield create 3 Shadow tokens.)
+When Darkside attacks create a Shadow token.</text>
+		</card>
+		<card>
+			<name>KH Dark Follower</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>BBBBBBB</manacost>
+				<cmc>7</cmc>
+				<type>Creature - Pureblood Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss, splash damage 1
+Dark Recall 3 (When this creature enters the battlefield create 3 Shadow tokens.)
+When Dark Follower attacks create a Shadow token.</text>
+		</card>
+		<card>
+			<name>KH Shadow Stalker</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>BBBBB</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Creature - Pureblood Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+Boss (When this creature enters the battlefield destroy other permanents with Boss you control.)
+At the beginning of your upkeep transform Shadow Stalker.</text>
+		
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Dark Thorn</related>
+			
+		</card>
+		<card>
+			<name>KH Dark Thorn</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Creature - Pureblood Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Splash damage 2
+Boss (When this creature enters the battlefield destroy other permanents with Boss you control.)
+At the beginning of your upkeep transform Dark Thorn.</text>
+		
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Shadow Stalker</related>
+			
+		</card>
+		<card>
+			<name>KH Demon Tower</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>BBB</manacost>
+				<cmc>3</cmc>
+				<type>Creature - Pureblood Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>As an additional cost to cast Demon Tower, sacrifice any amount of Shadow tokens. Demon Tower enters the battlefield with that many +1/+1 counters.
+Reach, trample
+Demon Tower takes damage in the form of -1/-1 counters.
+{B}, {T}: Create a number of Shadow tokens equal to Demon Tower’s toughness, then sacrifice Demon Tower.</text>
+		</card>
+		<card>
+			<name>KH Dark Hide</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>BBBBBB</manacost>
+				<cmc>6</cmc>
+				<type>Legendary Creature - Pureblood Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>5/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss, trample, phasing
+Whenever Dark Hide attacks, you may pay 3 life and {U/R/G}: Put a +1/+1 counter on Dark Hide.
+When Dark Hide enters the battlefield cast a copy its other face without paying its mana cost.</text>
+		
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Ambush</related>
+			
+		</card>
+		<card>
+			<name>KH Ambush</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+			</prop>
+			<tablerow>3</tablerow>
+			<text>Look at the top card in target opponent’s library, if it is a creature you may play it on its owner’s side of the battlefield without paying its mana cost, then Dark Hide fights that creature.</text>
+		
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Dark Hide</related>
+			
+		</card>
+		<card>
+			<name>KH Sora&apos;s Heartless</name>
+			<set rarity=""></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>|B</manacost>
+				<cmc>0.5</cmc>
+				<type>Creature - Pureblood Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>¼/¼</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>BBBB: Sora’s Heartless gains worse-shadow until end of turn. (This creature can block or be blocked by every creature.)</text>
+		</card>
+		<card>
+			<name>KH Dark Inferno</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>BBBBBB</manacost>
+				<cmc>6</cmc>
+				<type>Legendary Creature - Pureblood Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying, haste
+Boss (When this creature enters the battlefield destroy other permanents with Boss you control.)
+At the beginning of your first upkeep if Dark Inferno has 3 or less strike counters, put a strike counter on Dark Inferno.
+Dark Inferno has last strike as long as it has 0 strike counters.
+Dark Inferno has first strike as long as it has 2 strike counters.
+Dark Inferno has double strike as long as it has 3 strike counters.
+Dark Inferno has triple strike as long as it has 4 strike counters.</text>
+		</card>
+		<card>
+			<name>KH Flame Core</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BR</colors>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Pureblood Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{R}, {T}: Flame Core deals 2 damage to any target.</text>
+		</card>
+		<card>
+			<name>KH Water Core</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UB</colors>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Pureblood Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>UU, {T}: Tap target creature.</text>
+		</card>
+		<card>
+			<name>KH Earth Core</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BG</colors>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<type>Creature - Pureblood Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>GGG: Transform Earth Core. Active this ability only as sorcery.</text>
+		
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">KH Earth Core Tower</related>
+			
+		</card>
+		<card>
+			<name>KH Earth Core Tower</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BG</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Creature - Pureblood Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Trample</text>
+		
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">KH Earth Core</related>
+			
+		</card>
+		
+		<card>
+			<name>KH Lich</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>BBBBB</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Creature - Pureblood Heartless </type>
+				<maintype>Creature</maintype>
+				<pt>6/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Boss (When this creature enters the battlefield destroy other permanents with Boss you control.)
+When Lich enters the battlefield, exile target legendary creature under Lich.
+When Lich would be destroyed, you may put the exiled creature on its owner’s battefield instead.</text>
+		</card>
+
+		<!-->Tokens</-->
+
+
+	</cards>
+</cockatrice_carddatabase>
