@@ -56,7 +56,6 @@
         <card number="1" name="KH Pyros, the Lava Titan"/>
         <card number="1" name="KH Stratos, the Wind Titan"/>
         <card number="1" name="KH Pete"/>
-        <card number="1" name="KH Scar (KH)"/>
         <card number="1" name="KH Cerberus"/>
         <card number="1" name="KH Hades"/>
         <card number="1" name="KH Oogie Boogie"/>
@@ -78,6 +77,7 @@
         <card number="1" name="KH Undying Wickedness"/>
         <card number="1" name="KH Red Trinity"/>
         <card number="1" name="KH All-Vanity"/>
+        <card number="1" name="KH Scar"/>
     </zone>
     <zone name="tokens">
         <card number="1" name="KH Davy Jones's Heart"/>
