@@ -2,114 +2,114 @@
 <cockatrice_deck version="1">
     <deckname>Disney goodies</deckname>
     <comments></comments>
-    <zone name="main">
-        <card number="1" name="100 Acre Wood"/>
-        <card number="1" name="Agrabah"/>
-        <card number="1" name="Arendelle"/>
-        <card number="1" name="Arid Pride Lands"/>
-        <card number="1" name="Atlantica"/>
-        <card number="1" name="Beast's Castle"/>
-        <card number="1" name="Deep Space"/>
-        <card number="1" name="Disney Castle"/>
-        <card number="1" name="Destiny Island"/>
-        <card number="1" name="Enchanted Dominion"/>
-        <card number="1" name="End of the World"/>
-        <card number="1" name="Forbidden Mountain"/>
-        <card number="1" name="Gothel's Tower"/>
-        <card number="1" name="Hollow Bastion"/>
-        <card number="1" name="Jafar's Haunt"/>
-        <card number="1" name="Jungle Deep"/>
-        <card number="1" name="Kingdom of Corona"/>
-        <card number="1" name="Monstro"/>
-        <card number="1" name="Monstropolis"/>
-        <card number="1" name="Mysterious Tower"/>
-        <card number="1" name="Neverland"/>
-        <card number="1" name="Olympus"/>
-        <card number="1" name="Port Royale"/>
-        <card number="1" name="Pride Lands"/>
-        <card number="1" name="San Fransokyo"/>
-        <card number="1" name="Santa's Village"/>
-        <card number="1" name="Sleeping Worlds"/>
-        <card number="1" name="The Land of Dragons"/>
-        <card number="1" name="The World that Never Was"/>
-        <card number="1" name="Timeless river"/>
-        <card number="1" name="Toybox"/>
-        <card number="1" name="Traverse Town"/>
-        <card number="1" name="Twilight Town"/>
-        <card number="1" name="Ursula's Lair"/>
-        <card number="1" name="Wonderland"/>
-        <card number="1" name="Aladdin, Agrabah's rogue"/>
-        <card number="1" name="Alice, Princess of Fools"/>
-        <card number="1" name="Ariel, Sea's Song"/>
-        <card number="1" name="Aurora, Princess of Purity"/>
-        <card number="1" name="Bambi, figlio della natura"/>
-        <card number="1" name="Bashful, One of the Seven Dwarfs"/>
-        <card number="1" name="Baymax"/>
-        <card number="1" name="Beast, Protector of the Rose"/>
-        <card number="1" name="Belle, princess of the rose"/>
-        <card number="1" name="Character Selection"/>
-        <card number="1" name="Cheshire Cat"/>
-        <card number="1" name="Chip &amp; Chop"/>
-        <card number="1" name="Cinderella, Princess of Dreams"/>
-        <card number="1" name="Doc, One of the Seven Dwarfs"/>
-        <card number="1" name="Donald Duck, King's sceptre"/>
-        <card number="1" name="Dopey, One of the Seven Dwarfs"/>
-        <card number="1" name="Elsa and Anna"/>
-        <card number="1" name="Fairy godmother"/>
-        <card number="1" name="Flora, Fauna and Merryweather"/>
-        <card number="1" name="Genie of the Lamp"/>
-        <card number="1" name="Goofy, King's shield"/>
-        <card number="1" name="Grumpy, One of the Seven Dwarfs"/>
-        <card number="1" name="Happy, One of the Seven Dwarfs"/>
-        <card number="1" name="Hercules, Olympus Hero"/>
-        <card number="1" name="Heyner, Pence and Olette"/>
-        <card number="1" name="Huey, Dewey, and Louie"/>
-        <card number="1" name="Jack Skellington"/>
-        <card number="1" name="Jack Sparrow"/>
-        <card number="1" name="Jasmine, Princess of Agrabah"/>
-        <card number="1" name="Jiminy Cricket"/>
-        <card number="1" name="Magic Carpet"/>
-        <card number="1" name="Magic Mirror"/>
-        <card number="1" name="Merlin"/>
-        <card number="1" name="Mike Wazowski and James P Sullivan"/>
-        <card number="1" name="Minnie Mouse, Queen of Disney Kingdom"/>
-        <card number="1" name="Mickey Mouse, Keyblade Master"/>
-        <card number="1" name="Mulan, China's Salvation"/>
-        <card number="1" name="Mushu, Family Fa's Guardian"/>
-        <card number="1" name="Peter Pan"/>
-        <card number="1" name="Phil and Rapunzel"/>
-        <card number="1" name="Phil, Heroes' Trainer"/>
-        <card number="1" name="Pluto"/>
-        <card number="1" name="Red Trinity"/>
-        <card number="1" name="Save Point"/>
-        <card number="1" name="Simba, the Lion King"/>
-        <card number="1" name="Sleepy, One of the Seven Dwarfs"/>
-        <card number="1" name="Sneezy, One of the Seven Dwarfs"/>
-        <card number="1" name="Snow White, Princess of Innocens"/>
-        <card number="1" name="Stitch, Experiment 626"/>
-        <card number="1" name="Tarzan"/>
-        <card number="1" name="Tech"/>
-        <card number="1" name="Tinker Bell, Faithful Fairy"/>
-        <card number="1" name="Uncle Scrooge McDuck"/>
-        <card number="1" name="Woody and Buzz"/>
-        <card number="2" name="Plains"/>
-        <card number="1" name="Island"/>
-        <card number="2" name="Forest"/>
-        <card number="1" name="Summon"/>
-        <card number="1" name="Thunder"/>
-        <card number="1" name="Ultima"/>
-        <card number="1" name="Aero"/>
-        <card number="1" name="Confuse"/>
-        <card number="1" name="Cure"/>
-        <card number="1" name="Attack the Barrel"/>
-        <card number="1" name="My friends are my power"/>
+    <zone name="KH main">
+        <card number="1" name="KH 100 Acre Wood"/>
+        <card number="1" name="KH Agrabah"/>
+        <card number="1" name="KH Arendelle"/>
+        <card number="1" name="KH Arid Pride Lands"/>
+        <card number="1" name="KH Atlantica"/>
+        <card number="1" name="KH Beast's Castle"/>
+        <card number="1" name="KH Deep Space"/>
+        <card number="1" name="KH Disney Castle"/>
+        <card number="1" name="KH Destiny Island"/>
+        <card number="1" name="KH Enchanted Dominion"/>
+        <card number="1" name="KH End of the World"/>
+        <card number="1" name="KH Forbidden Mountain"/>
+        <card number="1" name="KH Gothel's Tower"/>
+        <card number="1" name="KH Hollow Bastion"/>
+        <card number="1" name="KH Jafar's Haunt"/>
+        <card number="1" name="KH Jungle Deep"/>
+        <card number="1" name="KH Kingdom of Corona"/>
+        <card number="1" name="KH Monstro"/>
+        <card number="1" name="KH Monstropolis"/>
+        <card number="1" name="KH Mysterious Tower"/>
+        <card number="1" name="KH Neverland"/>
+        <card number="1" name="KH Olympus"/>
+        <card number="1" name="KH Port Royale"/>
+        <card number="1" name="KH Pride Lands"/>
+        <card number="1" name="KH San Fransokyo"/>
+        <card number="1" name="KH Santa's Village"/>
+        <card number="1" name="KH Sleeping Worlds"/>
+        <card number="1" name="KH The Land of Dragons"/>
+        <card number="1" name="KH The World that Never Was"/>
+        <card number="1" name="KH Timeless river"/>
+        <card number="1" name="KH Toybox"/>
+        <card number="1" name="KH Traverse Town"/>
+        <card number="1" name="KH Twilight Town"/>
+        <card number="1" name="KH Ursula's Lair"/>
+        <card number="1" name="KH Wonderland"/>
+        <card number="1" name="KH Aladdin, Agrabah's rogue"/>
+        <card number="1" name="KH Alice, Princess of Fools"/>
+        <card number="1" name="KH Ariel, Sea's Song"/>
+        <card number="1" name="KH Aurora, Princess of Purity"/>
+        <card number="1" name="KH Bambi, figlio della natura"/>
+        <card number="1" name="KH Bashful, One of the Seven Dwarfs"/>
+        <card number="1" name="KH Baymax"/>
+        <card number="1" name="KH Beast, Protector of the Rose"/>
+        <card number="1" name="KH Belle, princess of the rose"/>
+        <card number="1" name="KH Character Selection"/>
+        <card number="1" name="KH Cheshire Cat"/>
+        <card number="1" name="KH Chip &amp; Chop"/>
+        <card number="1" name="KH Cinderella, Princess of Dreams"/>
+        <card number="1" name="KH Doc, One of the Seven Dwarfs"/>
+        <card number="1" name="KH Donald Duck, King's sceptre"/>
+        <card number="1" name="KH Dopey, One of the Seven Dwarfs"/>
+        <card number="1" name="KH Elsa and Anna"/>
+        <card number="1" name="KH Fairy godmother"/>
+        <card number="1" name="KH Flora, Fauna and Merryweather"/>
+        <card number="1" name="KH Genie of the Lamp"/>
+        <card number="1" name="KH Goofy, King's shield"/>
+        <card number="1" name="KH Grumpy, One of the Seven Dwarfs"/>
+        <card number="1" name="KH Happy, One of the Seven Dwarfs"/>
+        <card number="1" name="KH Hercules, Olympus Hero"/>
+        <card number="1" name="KH Heyner, Pence and Olette"/>
+        <card number="1" name="KH Huey, Dewey, and Louie"/>
+        <card number="1" name="KH Jack Skellington"/>
+        <card number="1" name="KH Jack Sparrow"/>
+        <card number="1" name="KH Jasmine, Princess of Agrabah"/>
+        <card number="1" name="KH Jiminy Cricket"/>
+        <card number="1" name="KH Magic Carpet"/>
+        <card number="1" name="KH Magic Mirror"/>
+        <card number="1" name="KH Merlin"/>
+        <card number="1" name="KH Mike Wazowski and James P Sullivan"/>
+        <card number="1" name="KH Minnie Mouse, Queen of Disney Kingdom"/>
+        <card number="1" name="KH Mickey Mouse, Keyblade Master"/>
+        <card number="1" name="KH Mulan, China's Salvation"/>
+        <card number="1" name="KH Mushu, Family Fa's Guardian"/>
+        <card number="1" name="KH Peter Pan"/>
+        <card number="1" name="KH Phil and Rapunzel"/>
+        <card number="1" name="KH Phil, Heroes' Trainer"/>
+        <card number="1" name="KH Pluto"/>
+        <card number="1" name="KH Red Trinity"/>
+        <card number="1" name="KH Save Point"/>
+        <card number="1" name="KH Simba, the Lion King"/>
+        <card number="1" name="KH Sleepy, One of the Seven Dwarfs"/>
+        <card number="1" name="KH Sneezy, One of the Seven Dwarfs"/>
+        <card number="1" name="KH Snow White, Princess of Innocens"/>
+        <card number="1" name="KH Stitch, Experiment 626"/>
+        <card number="1" name="KH Tarzan"/>
+        <card number="1" name="KH Tech"/>
+        <card number="1" name="KH Tinker Bell, Faithful Fairy"/>
+        <card number="1" name="KH Uncle Scrooge McDuck"/>
+        <card number="1" name="KH Woody and Buzz"/>
+        <card number="2" name="KH Plains"/>
+        <card number="1" name="KH Island"/>
+        <card number="2" name="KH Forest"/>
+        <card number="1" name="KH Summon"/>
+        <card number="1" name="KH Thunder"/>
+        <card number="1" name="KH Ultima"/>
+        <card number="1" name="KH Aero"/>
+        <card number="1" name="KH Confuse"/>
+        <card number="1" name="KH Cure"/>
+        <card number="1" name="KH Attack the Barrel"/>
+        <card number="1" name="KH My friends are my power"/>
     </zone>
-    <zone name="tokens">
-        <card number="1" name="Animals"/>
-        <card number="1" name="Barrel"/>
-        <card number="1" name="Cornerstone of Light"/>
-        <card number="1" name="Data Twilight Town"/>
-        <card number="1" name="Treasure"/>
-        <card number="1" name="Zombie Pirates"/>
+    <zone name="KH tokens">
+        <card number="1" name="KH Animals"/>
+        <card number="1" name="KH Barrel"/>
+        <card number="1" name="KH Cornerstone of Light"/>
+        <card number="1" name="KH Data Twilight Town"/>
+        <card number="1" name="KH Treasure"/>
+        <card number="1" name="KH Zombie Pirates"/>
     </zone>
 </cockatrice_deck>

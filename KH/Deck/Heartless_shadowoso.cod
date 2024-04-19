@@ -2,119 +2,119 @@
 <cockatrice_deck version="1">
     <deckname></deckname>
     <comments></comments>
-    <zone name="main">
-        <card number="1" name="World of Darkness"/>
-        <card number="1" name="Dark Hide"/>
-        <card number="1" name="Novashadow"/>
-        <card number="1" name="Darkside"/>
-        <card number="1" name="Orcus"/>
-        <card number="1" name="Gigas Shadow"/>
-        <card number="1" name="Earth Core"/>
-        <card number="1" name="Flame Core"/>
-        <card number="1" name="Water Core"/>
-        <card number="1" name="White Mushroom"/>
-        <card number="1" name="Pink Agaricus"/>
-        <card number="1" name="Aeroplane"/>
-        <card number="1" name="Soldier"/>
-        <card number="1" name="Commander"/>
-        <card number="1" name="Sergeant"/>
-        <card number="1" name="High Soldier"/>
-        <card number="1" name="Armoured Knight"/>
-        <card number="1" name="Focus Popcat"/>
-        <card number="1" name="Magic Popcat"/>
-        <card number="1" name="Munny Popcat"/>
-        <card number="1" name="Vitality Popcat"/>
-        <card number="1" name="Pole Cannon"/>
-        <card number="1" name="Air Soldier"/>
-        <card number="1" name="Chief Puff"/>
-        <card number="1" name="Iron Hammer"/>
-        <card number="1" name="Marionette"/>
-        <card number="1" name="Nightwalker"/>
-        <card number="1" name="Powerwild"/>
-        <card number="1" name="Sniperwild"/>
-        <card number="1" name="Rapid Thruster"/>
-        <card number="1" name="Rapid Dog"/>
-        <card number="1" name="Sea Neon"/>
-        <card number="1" name="Surveillance Robot"/>
-        <card number="1" name="Angel Star"/>
-        <card number="1" name="Battleship"/>
-        <card number="1" name="Bookmaster"/>
-        <card number="1" name="Defender"/>
-        <card number="1" name="Bandit"/>
-        <card number="1" name="Fat Bandit"/>
-        <card number="1" name="Large Body"/>
-        <card number="1" name="Morning Star"/>
-        <card number="1" name="Catastrochorus"/>
-        <card number="1" name="Grim Reaper"/>
-        <card number="1" name="King of Toys"/>
-        <card number="1" name="Guard Armour"/>
-        <card number="1" name="Ruler of the Sky"/>
-        <card number="1" name="Sköll"/>
-        <card number="1" name="Stealth Sneak"/>
-        <card number="1" name="Rock Troll"/>
-        <card number="1" name="Phantom"/>
-        <card number="1" name="Engulf in Darkness"/>
-        <card number="1" name="Fiery Globe &amp; Ice Cube"/>
-        <card number="1" name="Chromatic Lantern"/>
-        <card number="1" name="Sol Ring"/>
-        <card number="1" name="Command Tower"/>
-        <card number="1" name="Wonderland"/>
-        <card number="1" name="Twilight Town"/>
-        <card number="1" name="Traverse Town"/>
-        <card number="1" name="Toybox"/>
-        <card number="1" name="Timeless river"/>
-        <card number="1" name="The World that Never Was"/>
-        <card number="1" name="The Land of Dragons"/>
-        <card number="1" name="Sleeping Worlds"/>
-        <card number="1" name="San Fransokyo"/>
-        <card number="1" name="Pride Lands"/>
-        <card number="1" name="Port Royale"/>
-        <card number="2" name="Plains"/>
-        <card number="1" name="Olympus"/>
-        <card number="1" name="Neverland"/>
-        <card number="3" name="Mountain"/>
-        <card number="1" name="Monstropolis"/>
-        <card number="1" name="Monstro"/>
-        <card number="1" name="Land of Departure"/>
-        <card number="1" name="Kingdom of Corona"/>
-        <card number="1" name="Jungle Deep"/>
-        <card number="1" name="Hollow Bastion"/>
-        <card number="1" name="Hedge Maze"/>
-        <card number="2" name="Forest"/>
-        <card number="1" name="Forbidden Mountain"/>
-        <card number="1" name="Enchanted Dominion"/>
-        <card number="1" name="Disney Castle"/>
-        <card number="1" name="Destiny Island"/>
-        <card number="1" name="Beast's Castle"/>
-        <card number="1" name="Atlantica"/>
-        <card number="1" name="Agrabah"/>
-        <card number="1" name="100 Acre Wood"/>
-        <card number="1" name="Character Selection"/>
-        <card number="1" name="Unleash the Darkness"/>
-        <card number="1" name="Anti Form"/>
-        <card number="1" name="Undying Wickedness"/>
-        <card number="1" name="Ansem, the Seeker of Darkness"/>
-        <card number="1" name="Demon Tower"/>
-        <card number="1" name="Sora's Heartless"/>
-        <card number="3" name="Island"/>
+    <zone name="KH main">
+        <card number="1" name="KH World of Darkness"/>
+        <card number="1" name="KH Dark Hide"/>
+        <card number="1" name="KH Novashadow"/>
+        <card number="1" name="KH Darkside"/>
+        <card number="1" name="KH Orcus"/>
+        <card number="1" name="KH Gigas Shadow"/>
+        <card number="1" name="KH Earth Core"/>
+        <card number="1" name="KH Flame Core"/>
+        <card number="1" name="KH Water Core"/>
+        <card number="1" name="KH White Mushroom"/>
+        <card number="1" name="KH Pink Agaricus"/>
+        <card number="1" name="KH Aeroplane"/>
+        <card number="1" name="KH Soldier"/>
+        <card number="1" name="KH Commander"/>
+        <card number="1" name="KH Sergeant"/>
+        <card number="1" name="KH High Soldier"/>
+        <card number="1" name="KH Armoured Knight"/>
+        <card number="1" name="KH Focus Popcat"/>
+        <card number="1" name="KH Magic Popcat"/>
+        <card number="1" name="KH Munny Popcat"/>
+        <card number="1" name="KH Vitality Popcat"/>
+        <card number="1" name="KH Pole Cannon"/>
+        <card number="1" name="KH Air Soldier"/>
+        <card number="1" name="KH Chief Puff"/>
+        <card number="1" name="KH Iron Hammer"/>
+        <card number="1" name="KH Marionette"/>
+        <card number="1" name="KH Nightwalker"/>
+        <card number="1" name="KH Powerwild"/>
+        <card number="1" name="KH Sniperwild"/>
+        <card number="1" name="KH Rapid Thruster"/>
+        <card number="1" name="KH Rapid Dog"/>
+        <card number="1" name="KH Sea Neon"/>
+        <card number="1" name="KH Surveillance Robot"/>
+        <card number="1" name="KH Angel Star"/>
+        <card number="1" name="KH Battleship"/>
+        <card number="1" name="KH Bookmaster"/>
+        <card number="1" name="KH Defender"/>
+        <card number="1" name="KH Bandit"/>
+        <card number="1" name="KH Fat Bandit"/>
+        <card number="1" name="KH Large Body"/>
+        <card number="1" name="KH Morning Star"/>
+        <card number="1" name="KH Catastrochorus"/>
+        <card number="1" name="KH Grim Reaper"/>
+        <card number="1" name="KH King of Toys"/>
+        <card number="1" name="KH Guard Armour"/>
+        <card number="1" name="KH Ruler of the Sky"/>
+        <card number="1" name="KH Sköll"/>
+        <card number="1" name="KH Stealth Sneak"/>
+        <card number="1" name="KH Rock Troll"/>
+        <card number="1" name="KH Phantom"/>
+        <card number="1" name="KH Engulf in Darkness"/>
+        <card number="1" name="KH Fiery Globe &amp; Ice Cube"/>
+        <card number="1" name="KH Chromatic Lantern"/>
+        <card number="1" name="KH Sol Ring"/>
+        <card number="1" name="KH Command Tower"/>
+        <card number="1" name="KH Wonderland"/>
+        <card number="1" name="KH Twilight Town"/>
+        <card number="1" name="KH Traverse Town"/>
+        <card number="1" name="KH Toybox"/>
+        <card number="1" name="KH Timeless river"/>
+        <card number="1" name="KH The World that Never Was"/>
+        <card number="1" name="KH The Land of Dragons"/>
+        <card number="1" name="KH Sleeping Worlds"/>
+        <card number="1" name="KH San Fransokyo"/>
+        <card number="1" name="KH Pride Lands"/>
+        <card number="1" name="KH Port Royale"/>
+        <card number="2" name="KH Plains"/>
+        <card number="1" name="KH Olympus"/>
+        <card number="1" name="KH Neverland"/>
+        <card number="3" name="KH Mountain"/>
+        <card number="1" name="KH Monstropolis"/>
+        <card number="1" name="KH Monstro"/>
+        <card number="1" name="KH Land of Departure"/>
+        <card number="1" name="KH Kingdom of Corona"/>
+        <card number="1" name="KH Jungle Deep"/>
+        <card number="1" name="KH Hollow Bastion"/>
+        <card number="1" name="KH Hedge Maze"/>
+        <card number="2" name="KH Forest"/>
+        <card number="1" name="KH Forbidden Mountain"/>
+        <card number="1" name="KH Enchanted Dominion"/>
+        <card number="1" name="KH Disney Castle"/>
+        <card number="1" name="KH Destiny Island"/>
+        <card number="1" name="KH Beast's Castle"/>
+        <card number="1" name="KH Atlantica"/>
+        <card number="1" name="KH Agrabah"/>
+        <card number="1" name="KH 100 Acre Wood"/>
+        <card number="1" name="KH Character Selection"/>
+        <card number="1" name="KH Unleash the Darkness"/>
+        <card number="1" name="KH Anti Form"/>
+        <card number="1" name="KH Undying Wickedness"/>
+        <card number="1" name="KH Ansem, the Seeker of Darkness"/>
+        <card number="1" name="KH Demon Tower"/>
+        <card number="1" name="KH Sora's Heartless"/>
+        <card number="3" name="KH Island"/>
     </zone>
-    <zone name="tokens">
-        <card number="1" name="Shadow"/>
-        <card number="2" name="Heart"/>
-        <card number="1" name="Treasure"/>
-        <card number="1" name="Zombie Pirates"/>
-        <card number="1" name="Wolf"/>
-        <card number="1" name="Vaporfly"/>
-        <card number="1" name="Spirit"/>
-        <card number="1" name="Puffball"/>
-        <card number="1" name="Gigas"/>
-        <card number="1" name="Gardner Wall"/>
-        <card number="1" name="Data Twilight Town"/>
-        <card number="1" name="Cornerstone of Light"/>
-        <card number="1" name="Animals"/>
-        <card number="1" name="Barrel"/>
+    <zone name="KH tokens">
+        <card number="1" name="KH Shadow"/>
+        <card number="2" name="KH Heart"/>
+        <card number="1" name="KH Treasure"/>
+        <card number="1" name="KH Zombie Pirates"/>
+        <card number="1" name="KH Wolf"/>
+        <card number="1" name="KH Vaporfly"/>
+        <card number="1" name="KH Spirit"/>
+        <card number="1" name="KH Puffball"/>
+        <card number="1" name="KH Gigas"/>
+        <card number="1" name="KH Gardner Wall"/>
+        <card number="1" name="KH Data Twilight Town"/>
+        <card number="1" name="KH Cornerstone of Light"/>
+        <card number="1" name="KH Animals"/>
+        <card number="1" name="KH Barrel"/>
     </zone>
-    <zone name="side">
-        <card number="1" name="Bulky Vendor"/>
+    <zone name="KH side">
+        <card number="1" name="KH Bulky Vendor"/>
     </zone>
 </cockatrice_deck>

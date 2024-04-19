@@ -2,81 +2,81 @@
 <cockatrice_deck version="1">
     <deckname></deckname>
     <comments></comments>
-    <zone name="main">
-        <card number="1" name="World of Darkness"/>
-        <card number="1" name="Dark Inferno"/>
-        <card number="1" name="Neoshadow"/>
-        <card number="1" name="Dark Follower"/>
-        <card number="1" name="Invisible"/>
-        <card number="1" name="Darkball"/>
-        <card number="1" name="Red Nocturne"/>
-        <card number="1" name="Blue Rhapsody"/>
-        <card number="1" name="Yellow Opera"/>
-        <card number="1" name="Green Requiem"/>
-        <card number="1" name="Silver Rock"/>
-        <card number="1" name="Black Ballade"/>
-        <card number="1" name="Emerald Blues"/>
-        <card number="1" name="Crimson Jazz"/>
-        <card number="1" name="Spring Metal"/>
-        <card number="1" name="Black Mushroom"/>
-        <card number="1" name="Rare Truffle"/>
-        <card number="1" name="Tireblade"/>
-        <card number="1" name="Cannon Gun"/>
-        <card number="1" name="Darkubes"/>
-        <card number="1" name="Aerial Knocker"/>
-        <card number="1" name="Air Pirate"/>
-        <card number="1" name="Anchor Raider"/>
-        <card number="1" name="Aquatank"/>
-        <card number="1" name="Missile Diver"/>
-        <card number="1" name="Crescendo"/>
-        <card number="1" name="Fortuneteller"/>
-        <card number="1" name="Hot Road"/>
-        <card number="1" name="Search Ghost"/>
-        <card number="1" name="Wight Knight"/>
-        <card number="1" name="Bizarre Archer"/>
-        <card number="1" name="Assault Rider"/>
-        <card number="1" name="Bolt Tower"/>
-        <card number="1" name="Chaos Carriage"/>
-        <card number="1" name="Chimera"/>
-        <card number="1" name="Frost Serpent"/>
-        <card number="1" name="Grand Ghost"/>
-        <card number="1" name="Graveyard"/>
-        <card number="1" name="Large Armor"/>
-        <card number="1" name="Living Bone"/>
-        <card number="1" name="Parasol Beauty"/>
-        <card number="1" name="Winterhorn"/>
-        <card number="1" name="Wizard"/>
-        <card number="1" name="Wyvern"/>
-        <card number="1" name="Leechgrave"/>
-        <card number="1" name="Kurt Zisa"/>
-        <card number="1" name="Volcanic Lord"/>
-        <card number="1" name="Blizzard Lord"/>
-        <card number="1" name="Possessor"/>
-        <card number="1" name="Pot Spider"/>
-        <card number="1" name="Pot Centipede"/>
-        <card number="1" name="Barrel Spider"/>
-        <card number="1" name="Shadow Stalker"/>
-        <card number="1" name="Grim Guardianess"/>
-        <card number="1" name="Groundshaker"/>
-        <card number="1" name="Storm Rider"/>
-        <card number="1" name="Satyr"/>
-        <card number="1" name="Dustflier"/>
-        <card number="1" name="Sora's Heartless"/>
+    <zone name="KH main">
+        <card number="1" name="KH World of Darkness"/>
+        <card number="1" name="KH Dark Inferno"/>
+        <card number="1" name="KH Neoshadow"/>
+        <card number="1" name="KH Dark Follower"/>
+        <card number="1" name="KH Invisible"/>
+        <card number="1" name="KH Darkball"/>
+        <card number="1" name="KH Red Nocturne"/>
+        <card number="1" name="KH Blue Rhapsody"/>
+        <card number="1" name="KH Yellow Opera"/>
+        <card number="1" name="KH Green Requiem"/>
+        <card number="1" name="KH Silver Rock"/>
+        <card number="1" name="KH Black Ballade"/>
+        <card number="1" name="KH Emerald Blues"/>
+        <card number="1" name="KH Crimson Jazz"/>
+        <card number="1" name="KH Spring Metal"/>
+        <card number="1" name="KH Black Mushroom"/>
+        <card number="1" name="KH Rare Truffle"/>
+        <card number="1" name="KH Tireblade"/>
+        <card number="1" name="KH Cannon Gun"/>
+        <card number="1" name="KH Darkubes"/>
+        <card number="1" name="KH Aerial Knocker"/>
+        <card number="1" name="KH Air Pirate"/>
+        <card number="1" name="KH Anchor Raider"/>
+        <card number="1" name="KH Aquatank"/>
+        <card number="1" name="KH Missile Diver"/>
+        <card number="1" name="KH Crescendo"/>
+        <card number="1" name="KH Fortuneteller"/>
+        <card number="1" name="KH Hot Road"/>
+        <card number="1" name="KH Search Ghost"/>
+        <card number="1" name="KH Wight Knight"/>
+        <card number="1" name="KH Bizarre Archer"/>
+        <card number="1" name="KH Assault Rider"/>
+        <card number="1" name="KH Bolt Tower"/>
+        <card number="1" name="KH Chaos Carriage"/>
+        <card number="1" name="KH Chimera"/>
+        <card number="1" name="KH Frost Serpent"/>
+        <card number="1" name="KH Grand Ghost"/>
+        <card number="1" name="KH Graveyard"/>
+        <card number="1" name="KH Large Armor"/>
+        <card number="1" name="KH Living Bone"/>
+        <card number="1" name="KH Parasol Beauty"/>
+        <card number="1" name="KH Winterhorn"/>
+        <card number="1" name="KH Wizard"/>
+        <card number="1" name="KH Wyvern"/>
+        <card number="1" name="KH Leechgrave"/>
+        <card number="1" name="KH Kurt Zisa"/>
+        <card number="1" name="KH Volcanic Lord"/>
+        <card number="1" name="KH Blizzard Lord"/>
+        <card number="1" name="KH Possessor"/>
+        <card number="1" name="KH Pot Spider"/>
+        <card number="1" name="KH Pot Centipede"/>
+        <card number="1" name="KH Barrel Spider"/>
+        <card number="1" name="KH Shadow Stalker"/>
+        <card number="1" name="KH Grim Guardianess"/>
+        <card number="1" name="KH Groundshaker"/>
+        <card number="1" name="KH Storm Rider"/>
+        <card number="1" name="KH Satyr"/>
+        <card number="1" name="KH Dustflier"/>
+        <card number="1" name="KH Sora's Heartless"/>
     </zone>
-    <zone name="tokens">
-        <card number="2" name="Shadow"/>
-        <card number="2" name="Heart"/>
-        <card number="2" name="Treasure"/>
-        <card number="1" name="Zombie Pirates"/>
-        <card number="1" name="Wolf"/>
-        <card number="1" name="Vaporfly"/>
-        <card number="1" name="Spirit"/>
-        <card number="1" name="Puffball"/>
-        <card number="1" name="Gigas"/>
-        <card number="1" name="Gardner Wall"/>
-        <card number="1" name="Data Twilight Town"/>
-        <card number="1" name="Cornerstone of Light"/>
-        <card number="1" name="Barrel"/>
-        <card number="1" name="Animals"/>
+    <zone name="KH tokens">
+        <card number="2" name="KH Shadow"/>
+        <card number="2" name="KH Heart"/>
+        <card number="2" name="KH Treasure"/>
+        <card number="1" name="KH Zombie Pirates"/>
+        <card number="1" name="KH Wolf"/>
+        <card number="1" name="KH Vaporfly"/>
+        <card number="1" name="KH Spirit"/>
+        <card number="1" name="KH Puffball"/>
+        <card number="1" name="KH Gigas"/>
+        <card number="1" name="KH Gardner Wall"/>
+        <card number="1" name="KH Data Twilight Town"/>
+        <card number="1" name="KH Cornerstone of Light"/>
+        <card number="1" name="KH Barrel"/>
+        <card number="1" name="KH Animals"/>
     </zone>
 </cockatrice_deck>
