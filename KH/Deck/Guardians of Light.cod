@@ -2,7 +2,7 @@
 <cockatrice_deck version="1">
     <deckname>Guardians of Light</deckname>
     <comments></comments>
-    <zone name="KH main">
+    <zone name="main">
         <card number="1" name="KH Duel Gear"/>
         <card number="1" name="KH Hazard Gear"/>
         <card number="1" name="KH Nimble Gear"/>
@@ -95,7 +95,7 @@
         <card number="1" name="KH Power Up"/>
         <card number="1" name="KH War of the Keyblade"/>
     </zone>
-    <zone name="KH tokens">
+    <zone name="tokens">
         <card number="1" name="KH Cornerstone of Light"/>
         <card number="1" name="KH Data Twilight Town"/>
         <card number="1" name="KH Oblivion &amp; Oathkeeper"/>

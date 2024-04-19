@@ -2,7 +2,7 @@
 <cockatrice_deck version="1">
     <deckname></deckname>
     <comments></comments>
-    <zone name="KH main">
+    <zone name="main">
         <card number="1" name="KH World of Darkness"/>
         <card number="1" name="KH Dark Hide"/>
         <card number="1" name="KH Novashadow"/>
@@ -98,7 +98,7 @@
         <card number="1" name="KH Sora's Heartless"/>
         <card number="3" name="KH Island"/>
     </zone>
-    <zone name="KH tokens">
+    <zone name="tokens">
         <card number="1" name="KH Shadow"/>
         <card number="2" name="KH Heart"/>
         <card number="1" name="KH Treasure"/>

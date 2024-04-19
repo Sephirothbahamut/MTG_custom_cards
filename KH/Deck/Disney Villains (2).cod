@@ -2,7 +2,7 @@
 <cockatrice_deck version="1">
     <deckname></deckname>
     <comments></comments>
-    <zone name="KH main">
+    <zone name="main">
         <card number="1" name="KH 100 Acre Wood"/>
         <card number="1" name="KH Agrabah"/>
         <card number="1" name="KH Arendelle"/>
@@ -103,7 +103,7 @@
         <card number="1" name="KH Fire"/>
         <card number="1" name="KH Focus Popcat"/>
     </zone>
-    <zone name="KH tokens">
+    <zone name="tokens">
         <card number="1" name="KH Davy Jones's Heart"/>
         <card number="1" name="KH Data Twilight Town"/>
         <card number="1" name="KH Cornerstone of Light"/>

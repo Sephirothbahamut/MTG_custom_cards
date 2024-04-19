@@ -2,7 +2,7 @@
 <cockatrice_deck version="1">
     <deckname></deckname>
     <comments></comments>
-    <zone name="KH main">
+    <zone name="main">
         <card number="1" name="KH 100 Acre Wood"/>
         <card number="1" name="KH Agrabah"/>
         <card number="1" name="KH Atlantica"/>
@@ -37,7 +37,7 @@
         <card number="1" name="KH The Mog"/>
         <card number="1" name="KH Mog"/>
     </zone>
-    <zone name="KH tokens">
+    <zone name="tokens">
         <card number="1" name="KH Data Twilight Town"/>
         <card number="1" name="KH Zombie Pirates"/>
         <card number="1" name="KH Cornerstone of Light"/>

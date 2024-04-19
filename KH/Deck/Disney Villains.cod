@@ -2,7 +2,7 @@
 <cockatrice_deck version="1">
     <deckname></deckname>
     <comments></comments>
-    <zone name="KH main">
+    <zone name="main">
         <card number="1" name="KH Chernabog, the Pure Evil"/>
         <card number="1" name="KH Boss Rush"/>
         <card number="1" name="KH Magic Mirror"/>
@@ -79,7 +79,7 @@
         <card number="1" name="KH Red Trinity"/>
         <card number="1" name="KH All-Vanity"/>
     </zone>
-    <zone name="KH tokens">
+    <zone name="tokens">
         <card number="1" name="KH Davy Jones's Heart"/>
         <card number="1" name="KH Data Twilight Town"/>
         <card number="1" name="KH Cornerstone of Light"/>

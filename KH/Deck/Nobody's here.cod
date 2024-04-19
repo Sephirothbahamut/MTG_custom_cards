@@ -2,7 +2,7 @@
 <cockatrice_deck version="1">
     <deckname>Nobody's here</deckname>
     <comments></comments>
-    <zone name="KH main">
+    <zone name="main">
         <card number="1" name="KH Assassin"/>
         <card number="1" name="KH Axel"/>
         <card number="1" name="KH Berserker"/>
@@ -100,7 +100,7 @@
         <card number="1" name="KH Protect"/>
         <card number="1" name="KH Limit Boost"/>
     </zone>
-    <zone name="KH tokens">
+    <zone name="tokens">
         <card number="1" name="KH Data Twilight Town"/>
         <card number="1" name="KH Cornerstone of Light"/>
         <card number="1" name="KH Heart"/>
