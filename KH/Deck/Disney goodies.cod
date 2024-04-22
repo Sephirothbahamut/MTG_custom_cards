@@ -42,14 +42,12 @@
         <card number="1" name="KH Alice, Princess of Fools"/>
         <card number="1" name="KH Ariel, Sea's Song"/>
         <card number="1" name="KH Aurora, Princess of Purity"/>
-        <card number="1" name="KH Bambi, figlio della natura"/>
         <card number="1" name="KH Bashful, One of the Seven Dwarfs"/>
         <card number="1" name="KH Baymax"/>
         <card number="1" name="KH Beast, Protector of the Rose"/>
         <card number="1" name="KH Belle, princess of the rose"/>
         <card number="1" name="KH Character Selection"/>
         <card number="1" name="KH Cheshire Cat"/>
-        <card number="1" name="KH Chip &amp; Chop"/>
         <card number="1" name="KH Cinderella, Princess of Dreams"/>
         <card number="1" name="KH Doc, One of the Seven Dwarfs"/>
         <card number="1" name="KH Donald Duck, King's sceptre"/>
@@ -102,14 +100,16 @@
         <card number="1" name="KH Confuse"/>
         <card number="1" name="KH Cure"/>
         <card number="1" name="KH Attack the Barrel"/>
-        <card number="1" name="KH My friends are my power"/>
+        <card number="1" name="KH Bambi, Child of Nature"/>
+        <card number="1" name="KH Chip 'n Dale"/>
+        <card number="1" name="KH My Friends are my Power"/>
     </zone>
     <zone name="tokens">
         <card number="1" name="KH Animals"/>
         <card number="1" name="KH Barrel"/>
         <card number="1" name="KH Cornerstone of Light"/>
         <card number="1" name="KH Data Twilight Town"/>
-        <card number="1" name="KH Treasure"/>
         <card number="1" name="KH Zombie Pirates"/>
+        <card number="1" name="KH Treasure (Agrabah)"/>
     </zone>
 </cockatrice_deck>
