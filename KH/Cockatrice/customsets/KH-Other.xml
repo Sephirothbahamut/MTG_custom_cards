@@ -383,6 +383,82 @@ Crew 2 (Tap any number of creatures you control with total power 2 or greater: T
 			<tablerow>2</tablerow>
 			<text></text>
 		</card>
+		<card>
+			<name>KH Firework</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Legendary Artifact</type>
+				<maintype>Creature</maintype>
+				<pt></pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>1, Sacrifice Firework, T: Firework deals 2 damage to any target.</text>
+		</card>
+		<card>
+			<name>KH Devil (Chernabog)</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Creature - Devil</type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying, haste
+Decayed (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
+		</card>
+		<card>
+			<name>KH Food (Destiny Islands)</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Artifact - Food</type>
+				<maintype>Creature</maintype>
+				<pt></pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>2, T, Sacrifice this artifact: You gain 3 life.</text>
+		</card>
+		<card>
+			<name>KH Food (Twilight Town)</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Artifact - Food</type>
+				<maintype>Creature</maintype>
+				<pt></pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>2, T, Sacrifice this artifact: You gain 3 life.</text>
+		</card>
+		<card>
+			<name>KH Zombie (Halloween Town)</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Token Creature - Zombie</type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Decayed (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
+		</card>
 
 
 	</cards>

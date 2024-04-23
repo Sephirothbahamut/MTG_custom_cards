@@ -61,9 +61,8 @@ Target creature you control gains splash damage 1/3. If Magnete was kicked, it g
 				<maintype>Instant</maintype>
 			</prop>
 			<tablerow>3</tablerow>
-			<text>Target creature you control gets an indestructible counter until end of turn.
-Put an Indestructible counter on a creature you control until end of turn, Reflect deals 3 damage to target attacking creature.
-Overload {7} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)</text>
+			<text>Target creature you control gains indestructible until end of turn.
+Overload 7 (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)</text>
 		</card>
 		<card>
 			<name>KH Stop</name>

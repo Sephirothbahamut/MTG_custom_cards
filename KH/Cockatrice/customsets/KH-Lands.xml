@@ -66,7 +66,7 @@ When Boros Garrison enters the battlefield, return a land you control to its own
 			<tablerow>0</tablerow>
 			<text>Neverland enter the battlefield tapped.
 {T}: Add {U} or {G}.
-{5}, {T}: All creatures you control gain flying.</text>
+{5}, {T}: All creatures you control gain flying until end of turn.</text>
 		</card>
 		<card>
 			<name>KH Twilight Town</name>
@@ -694,9 +694,35 @@ Rimewood Falls enters the battlefield tapped.</text>
 			<text>{T}: Add {C}.
 XX, {T}, Sacrifice Treasure Vault: Create X Treasure tokens.</text>
 		</card>
-
-		<!-->Tokens</-->
-
-
+		<card>
+			<name>KH Daybreak Town</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Artifact Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
+XX, {T}, Sacrifice Treasure Vault: Create X Treasure tokens.</text>
+		</card>
+		<card>
+			<name>KH Mysterious Tower</name>
+			<set rarity="mythic"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a legendary spell.
+{T}: Add one mana of any color among legendary permanents you control.
+{3}, {T}: Exile Plaza of Heroes: Target legendary creature gains hexproof and indestructible until end of turn.</text>
+		</card>
 	</cards>
 </cockatrice_carddatabase>

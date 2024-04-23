@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name>KH-Artifacts</name>
+			<longname>KH-Artifacts</longname>
+			<settype>KH-Artifacts</settype>
+		</set>
+	</sets>
+	<cards>
+
+		<card>
+			<name>KH Arcane Signet</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>{T}: Add one mana of any color in your commander’s color identity.</text>
+		</card>
+		<card>
+			<name>KH Azorius Signet</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>{1}, {T}: Add WU.</text>
+		</card>
+		<card>
+			<name>KH Selesnya Signet</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>{1}, {T}: Add GW.</text>
+		</card>
+		<card>
+			<name>KH Dimir Signet</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>{1}, {T}: Add UB.</text>
+		</card>
+		<card>
+			<name>KH Golgari Signet</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>{1}, {T}: Add BG.</text>
+		</card>
+		<card>
+			<name>KH Gruul Signet</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>{1}, {T}: Add RG.</text>
+		</card>
+		<card>
+			<name>KH Izzet Signet</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>{1}, {T}: Add UR.</text>
+		</card>
+		<card>
+			<name>KH Orzhov Signet</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>{1}, {T}: Add WB.</text>
+		</card>
+		<card>
+			<name>KH Rakdos Signet</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>{1}, {T}: Add BR.</text>
+		</card>
+		<card>
+			<name>KH Boros Signet</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>{1}, {T}: Add RW.</text>
+		</card>
+		<card>
+			<name>KH Simic Signet</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>{1}, {T}: Add GU.</text>
+		</card>
+		<card>
+			<name>KH Sol Ring</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>{T}: Add CC.</text>
+		</card>
+		<card>
+			<name>KH Chromatic Lantern</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Lands you control have “{T}: Add one mana of any color.”
+{T}: Add one mana of any color.</text>
+		</card>
+
+		<!-->Tokens</-->
+
+
+	</cards>
+</cockatrice_carddatabase>

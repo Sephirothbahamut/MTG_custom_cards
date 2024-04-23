@@ -10,32 +10,31 @@
 	<cards>
 
 		<card>
-			<name>KH The Mog</name>
+			<name>KH Organization XIII Moogle</name>
 			<set rarity=""></set>
 			<prop>
 				<colors>M</colors>
 				<manacost>3</manacost>
 				<cmc>3</cmc>
-				<type>Legendary Creature - Mog	// Legendary Artifact - Equipment </type>
+				<type>Legendary Creature - Moogle</type>
 				<maintype>Creature</maintype>
 					<pt>0/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<text>Hexproof, indestructible, protection from everything
-When an Artifact enters another player’s field, its controller loses life equal to that Artifact’s converted mana cost.
-When an Artifact enters your field, you may exile it, then put it in target player’s field.
+			<text>When Organization XII Moogle enters the battlefield it becomes an emblem and loses all its other types.
+Whenever an artifact spell enters the battlefield under an opponent’s control, its controller loses life equal to that artifact’s mana value.
+Whenever an artifact spell enters the battlefield under your control, you may exile it, then return it on the battlefield under target player’s control.
 Creatures equipped with artifacts you own are goaded.
-{3}: Add CCCCCC to your mana pool. Use this mana only to cast Artifact spells.
-XC, {T}: Mill X. You can cast Artifact spells from your graveyard until end of turn.</text>
+XW/U/B/R/G, T: Mill X. You can cast Artifact spells from your graveyard until end of turn.</text>
 		</card>
 		<card>
-			<name>KH Mog</name>
+			<name>KH Moogle</name>
 			<set rarity="uncommon"></set>
 			<prop>
 				<colors></colors>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
-				<type>Creature - Mog	// Legendary Artifact - Equipment </type>
+				<type>Creature - Moogle</type>
 				<maintype>Creature</maintype>
 				<pt>0/1</pt>
 			</prop>

@@ -8,20 +8,6 @@
 		</set>
 	</sets>
 	<cards>
-
-		<card>
-			<name>KH </name>
-			<set rarity="common"></set>
-			<prop>
-				<colors></colors>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<type></type>
-				<maintype></maintype>
-			</prop>
-			<tablerow>1</tablerow>
-			<text></text>
-		</card>
 		<card>
 			<name>KH Large Body</name>
 			<set rarity="common"></set>
@@ -673,7 +659,7 @@ When Chimera blocks, Chimera has splash damage 1/2. (When this creature deals da
 				<pt>0/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<text>When Sea Neon is destroyed, create 3 Shadow tokens.</text>
+			<text>When Sea Neon is destroyed, create three Shadow tokens.</text>
 		</card>
 		<card>
 			<name>KH Fiery Globe &amp; Ice Cube</name>

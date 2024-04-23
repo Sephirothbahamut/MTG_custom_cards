@@ -20,13 +20,9 @@
         <card number="1" name="KH Port Royale"/>
         <card number="1" name="KH Pride Lands"/>
         <card number="1" name="KH San Fransokyo"/>
-        <card number="1" name="KH Scala ad Caelum"/>
         <card number="1" name="KH Sleeping Worlds"/>
-        <card number="1" name="KH The Cave of Wonders"/>
         <card number="1" name="KH The Land of Dragons"/>
-        <card number="1" name="KH The World that Never Was"/>
         <card number="1" name="KH Timeless river"/>
-        <card number="1" name="KH Toybox"/>
         <card number="1" name="KH Traverse Town"/>
         <card number="1" name="KH Twilight Town"/>
         <card number="1" name="KH Olympus"/>
@@ -82,7 +78,6 @@
         <card number="1" name="KH Command Tower"/>
         <card number="1" name="KH Chromatic Lantern"/>
         <card number="1" name="KH Arcane Signet"/>
-        <card number="1" name="KH Sol Ring"/>
         <card number="1" name="KH Anti Form"/>
         <card number="1" name="KH Blizzard"/>
         <card number="1" name="KH Character Selection"/>
@@ -101,8 +96,10 @@
         <card number="1" name="KH Poison"/>
         <card number="1" name="KH Summon"/>
         <card number="1" name="KH Ultima"/>
-        <card number="1" name="KH Island"/>
+        <card number="3" name="KH Island"/>
         <card number="1" name="KH Forest"/>
+        <card number="2" name="KH Mountain"/>
+        <card number="1" name="KH Plains"/>
     </zone>
     <zone name="tokens">
         <card number="1" name="KH Data Twilight Town"/>
