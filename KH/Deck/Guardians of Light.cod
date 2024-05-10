@@ -55,7 +55,6 @@
         <card number="1" name="KH Gothel's Tower"/>
         <card number="1" name="KH Jafar's Haunt"/>
         <card number="1" name="KH Monstropolis"/>
-        <card number="1" name="KH Earthshaker (KH)"/>
         <card number="1" name="KH The World that Never Was"/>
         <card number="1" name="KH Chromatic Lantern"/>
         <card number="1" name="KH Arendelle"/>
@@ -94,6 +93,7 @@
         <card number="1" name="KH Potion"/>
         <card number="1" name="KH Power Up"/>
         <card number="1" name="KH War of the Keyblade"/>
+        <card number="1" name="KH Earthshaker"/>
     </zone>
     <zone name="tokens">
         <card number="1" name="KH Cornerstone of Light"/>
@@ -101,9 +101,9 @@
         <card number="1" name="KH Oblivion &amp; Oathkeeper"/>
         <card number="1" name="KH Treasure (Agrabah)"/>
     </zone>
-    <zone name="KH side">
-        <card number="1" name="KH Deep Space"/>
-        <card number="1" name="KH Xion"/>
+    <zone name="side">
         <card number="1" name="KH Ephemer, Last Dandelion"/>
+        <card number="1" name="KH Deep Space"/>
+        <card number="1" name="KH Earthshaker (KH)"/>
     </zone>
 </cockatrice_deck>

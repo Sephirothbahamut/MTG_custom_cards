@@ -3,15 +3,73 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
+        <card number="1" name="KH AP Up"/>
+        <card number="1" name="KH Bulky Vendor"/>
+        <card number="1" name="KH Defense Up"/>
+        <card number="1" name="KH Limit Recharge - Drive Recovery"/>
+        <card number="1" name="KH Mega-Potion"/>
+        <card number="5" name="KH Munny"/>
+        <card number="1" name="KH Pot Spider"/>
+        <card number="1" name="KH Potion"/>
+        <card number="1" name="KH Power Up"/>
+        <card number="1" name="KH Barrel Spider"/>
+        <card number="1" name="KH Attack the Barrel"/>
+        <card number="1" name="KH Arcane Signet"/>
+        <card number="1" name="KH Crafting Recipe"/>
+        <card number="1" name="KH Disney Castle"/>
+        <card number="1" name="KH Flying Dutchman"/>
+        <card number="1" name="KH Huey, Dewey, and Louie"/>
+        <card number="1" name="KH Jolly Roger"/>
+        <card number="1" name="KH Marionette"/>
+        <card number="1" name="KH Moogle"/>
+        <card number="1" name="KH Possessor"/>
+        <card number="1" name="KH Pot Centipede"/>
+        <card number="1" name="KH Twilight Thorn"/>
+        <card number="1" name="KH Betwixt and Between"/>
+        <card number="1" name="KH Dark Hide"/>
+        <card number="1" name="KH Darkubes"/>
+        <card number="1" name="KH Alice, Princess of Fools"/>
+        <card number="1" name="KH Altar of Naught"/>
+        <card number="1" name="KH Black Mushroom"/>
+        <card number="1" name="KH Dragoon"/>
+        <card number="1" name="KH Hall of Empty Melodies"/>
+        <card number="1" name="KH Hydra"/>
+        <card number="1" name="KH Hydros, the Ice Titan"/>
+        <card number="1" name="KH Naminé, Dead Fantasy (altart)"/>
+        <card number="1" name="KH Poison"/>
+        <card number="1" name="KH Ruler of the Sky"/>
+        <card number="1" name="KH Sorcerer"/>
+        <card number="1" name="KH Vexen"/>
+        <card number="1" name="KH Xion (altart)"/>
+        <card number="1" name="KH Foresight "/>
+        <card number="1" name="KH Naminé (altart)"/>
+        <card number="1" name="KH The Castle that Never Was"/>
+        <card number="1" name="KH Wisdom Form"/>
+        <card number="1" name="KH Organization XIII Moogle"/>
+        <card number="1" name="KH Duel Gear"/>
+        <card number="1" name="KH Hazard Gear"/>
+        <card number="1" name="KH Nimble Gear"/>
+        <card number="1" name="KH Ominous Gear"/>
+        <card number="1" name="KH Omega Gear"/>
+        <card number="1" name="KH Pandora's Gear"/>
+        <card number="1" name="KH Phantom Gear"/>
+        <card number="1" name="KH Prestige Gear"/>
+        <card number="1" name="KH Rage Gear"/>
+        <card number="1" name="KH Ultimate Gear"/>
         <card number="1" name="KH 100 Acre Wood"/>
         <card number="1" name="KH Agrabah"/>
+        <card number="1" name="KH Arendelle"/>
+        <card number="1" name="KH Arid Pride Lands"/>
         <card number="1" name="KH Atlantica"/>
         <card number="1" name="KH Beast's Castle"/>
+        <card number="1" name="KH Daybreak Town"/>
+        <card number="1" name="KH Deep Space"/>
         <card number="1" name="KH Destiny Island"/>
-        <card number="1" name="KH Disney Castle"/>
         <card number="1" name="KH Enchanted Dominion"/>
         <card number="1" name="KH End of the World"/>
         <card number="1" name="KH Forbidden Mountain"/>
+        <card number="1" name="KH Gothel's Tower"/>
+        <card number="1" name="KH Hedge Maze"/>
         <card number="1" name="KH Hollow Bastion"/>
         <card number="1" name="KH Jungle Deep"/>
         <card number="1" name="KH Keyblade Graveyard"/>
@@ -33,15 +91,20 @@
         <card number="1" name="KH Toybox"/>
         <card number="1" name="KH Traverse Town"/>
         <card number="1" name="KH Twilight Town"/>
+        <card number="1" name="KH Ursula's Lair"/>
         <card number="1" name="KH World of Darkness"/>
-        <card number="1" name="KH The Mog"/>
-        <card number="1" name="KH Mog"/>
+        <card number="1" name="KH Destiny's Embrace"/>
+        <card number="1" name="KH Chaos Ripper"/>
+        <card number="1" name="KH Lunar Eclipse"/>
+        <card number="1" name="KH Ultima Weapon"/>
+        <card number="1" name="KH Summon"/>
+        <card number="1" name="KH Inexistence Experience "/>
     </zone>
     <zone name="tokens">
-        <card number="1" name="KH Data Twilight Town"/>
-        <card number="1" name="KH Zombie Pirates"/>
-        <card number="1" name="KH Cornerstone of Light"/>
-        <card number="1" name="KH Treasure (PoC)"/>
+        <card number="1" name="KH Barrel"/>
+        <card number="1" name="KH Gummiship"/>
+        <card number="1" name="KH Food (Twilight Town)"/>
+        <card number="1" name="KH Food (Destiny Islands)"/>
         <card number="1" name="KH Treasure (Agrabah)"/>
     </zone>
 </cockatrice_deck>
