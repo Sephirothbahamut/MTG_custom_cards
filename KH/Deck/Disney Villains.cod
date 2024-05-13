@@ -76,8 +76,8 @@
         <card number="1" name="KH Fight Fire with Sparks"/>
         <card number="1" name="KH Undying Wickedness"/>
         <card number="1" name="KH Red Trinity"/>
-        <card number="1" name="KH All-Vanity"/>
         <card number="1" name="KH Scar"/>
+        <card number="1" name="KH Voluntary Sacrifice"/>
     </zone>
     <zone name="tokens">
         <card number="1" name="KH Davy Jones's Heart"/>
