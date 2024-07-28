@@ -37,7 +37,6 @@
         <card number="1" name="KH Dark Hide"/>
         <card number="1" name="KH Dustflier"/>
         <card number="1" name="KH Leechgrave"/>
-        <card number="1" name="KH Prison Keeper"/>
         <card number="1" name="KH Rapid Thruster"/>
         <card number="1" name="KH Storm Rider"/>
         <card number="1" name="KH Darkball"/>
@@ -47,7 +46,6 @@
         <card number="1" name="KH Neoshadow"/>
         <card number="1" name="KH Novashadow"/>
         <card number="1" name="KH Orcus"/>
-        <card number="1" name="KH Possessor"/>
         <card number="1" name="KH Water Core"/>
         <card number="1" name="KH Aeroplane"/>
         <card number="1" name="KH Aquatank"/>
@@ -100,6 +98,8 @@
         <card number="1" name="KH Forest"/>
         <card number="2" name="KH Mountain"/>
         <card number="1" name="KH Plains"/>
+        <card number="1" name="KH Hades Cup"/>
+        <card number="1" name="KH Prison Keeper"/>
     </zone>
     <zone name="tokens">
         <card number="1" name="KH Data Twilight Town"/>
@@ -110,5 +110,8 @@
         <card number="1" name="KH Zombie Pirates"/>
         <card number="1" name="KH Tentaclaw"/>
         <card number="1" name="KH Shadow"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="KH Possessor"/>
     </zone>
 </cockatrice_deck>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Guardians of Light</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="KH Duel Gear"/>
+        <card number="1" name="KH Hazard Gear"/>
+        <card number="1" name="KH Nimble Gear"/>
+        <card number="1" name="KH Omega Gear"/>
+        <card number="1" name="KH Ominous Gear"/>
+        <card number="1" name="KH Pandora's Gear"/>
+        <card number="1" name="KH Phantom Gear"/>
+        <card number="1" name="KH Prestige Gear"/>
+        <card number="1" name="KH Ultimate Gear"/>
+        <card number="1" name="KH Rage Gear"/>
+        <card number="1" name="KH Kingdom Key"/>
+        <card number="1" name="KH Kingdom Key D"/>
+        <card number="1" name="KH Wayward Wind"/>
+        <card number="1" name="KH Rainfell"/>
+        <card number="1" name="KH Master's Defender"/>
+        <card number="1" name="KH Destiny's Embrace"/>
+        <card number="1" name="KH Two Becomes One"/>
+        <card number="1" name="KH Oathkeeper"/>
+        <card number="1" name="KH Oblivion"/>
+        <card number="1" name="KH Star Seeker"/>
+        <card number="1" name="KH Keyblade of People's Hearts"/>
+        <card number="1" name="KH Ultima Weapon"/>
+        <card number="1" name="KH luxu"/>
+        <card number="1" name="KH No Name"/>
+        <card number="1" name="KH Void Gear"/>
+        <card number="1" name="KH 100 Acre Wood"/>
+        <card number="1" name="KH Agrabah"/>
+        <card number="1" name="KH Beast's Castle"/>
+        <card number="1" name="KH Destiny Island"/>
+        <card number="1" name="KH Disney Castle"/>
+        <card number="1" name="KH Enchanted Dominion"/>
+        <card number="1" name="KH End of the World"/>
+        <card number="1" name="KH Halloween Town"/>
+        <card number="1" name="KH Hollow Bastion"/>
+        <card number="1" name="KH Land of Departure"/>
+        <card number="1" name="KH Olympus"/>
+        <card number="1" name="KH San Fransokyo"/>
+        <card number="1" name="KH Sleeping Worlds"/>
+        <card number="1" name="KH Timeless river"/>
+        <card number="1" name="KH Traverse Town"/>
+        <card number="1" name="KH Twilight Town"/>
+        <card number="1" name="KH Wonderland"/>
+        <card number="1" name="KH Huey, Dewey, and Louie"/>
+        <card number="1" name="KH Jiminy Cricket"/>
+        <card number="1" name="KH Pluto"/>
+        <card number="9" name="KH Plains"/>
+        <card number="1" name="KH Kingdom of Corona"/>
+        <card number="1" name="KH Arid Pride Lands"/>
+        <card number="1" name="KH Gothel's Tower"/>
+        <card number="1" name="KH Jafar's Haunt"/>
+        <card number="1" name="KH Monstropolis"/>
+        <card number="1" name="KH The World that Never Was"/>
+        <card number="1" name="KH Chromatic Lantern"/>
+        <card number="1" name="KH Arendelle"/>
+        <card number="1" name="KH Jeweled Lotus"/>
+        <card number="1" name="KH Arcane Signet"/>
+        <card number="1" name="KH Azorius Signet"/>
+        <card number="1" name="KH Orzhov Signet"/>
+        <card number="1" name="KH Command Tower"/>
+        <card number="1" name="KH Sol Ring"/>
+        <card number="1" name="KH Roxas"/>
+        <card number="1" name="KH Xion"/>
+        <card number="1" name="KH Chirithy"/>
+        <card number="1" name="KH Eraqus, Master of Guardians"/>
+        <card number="1" name="KH Kairi, Princess of Hearts"/>
+        <card number="1" name="KH Keyblade Graveyard"/>
+        <card number="1" name="KH Mickey Mouse, Keyblade Master"/>
+        <card number="1" name="KH Mysterious Tower"/>
+        <card number="1" name="KH Riku, Redeemed Guardian"/>
+        <card number="1" name="KH Scala ad Caelum"/>
+        <card number="1" name="KH Sora, Keyblade's Choosen One"/>
+        <card number="1" name="KH Terra, Guardian of Fury"/>
+        <card number="1" name="KH Vanitas, the Residual Darkness"/>
+        <card number="1" name="KH Ventus, Guardian of Purity"/>
+        <card number="1" name="KH Yen Sid"/>
+        <card number="1" name="KH Young Xehanort, the Corrupt Apprentice"/>
+        <card number="1" name="KH Master Form"/>
+        <card number="1" name="KH Limit Form"/>
+        <card number="1" name="KH Final Form"/>
+        <card number="1" name="KH Aqua, Guardian of Hope"/>
+        <card number="1" name="KH Bambi, Child of Nature"/>
+        <card number="1" name="KH Xehanort's Heart"/>
+        <card number="1" name="KH Crafting Recipe"/>
+        <card number="1" name="KH Defense Up"/>
+        <card number="1" name="KH Keychain"/>
+        <card number="2" name="KH Munny"/>
+        <card number="1" name="KH Potion"/>
+        <card number="1" name="KH Power Up"/>
+        <card number="1" name="KH War of the Keyblade"/>
+        <card number="1" name="KH Earthshaker"/>
+        <card number="1" name="KH Gullwings"/>
+    </zone>
+    <zone name="tokens">
+        <card number="1" name="KH Cornerstone of Light"/>
+        <card number="1" name="KH Data Twilight Town"/>
+        <card number="1" name="KH Oblivion &amp; Oathkeeper"/>
+        <card number="1" name="KH Treasure (Agrabah)"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="KH Ephemer, Last Dandelion"/>
+        <card number="1" name="KH Deep Space"/>
+        <card number="1" name="KH Earthshaker (KH)"/>
+    </zone>
+</cockatrice_deck>
