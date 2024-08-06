@@ -89,11 +89,12 @@
         <card number="1" name="KH Crafting Recipe"/>
         <card number="1" name="KH Defense Up"/>
         <card number="1" name="KH Keychain"/>
-        <card number="2" name="KH Munny"/>
+        <card number="1" name="KH Munny"/>
         <card number="1" name="KH Potion"/>
         <card number="1" name="KH Power Up"/>
         <card number="1" name="KH War of the Keyblade"/>
         <card number="1" name="KH Earthshaker"/>
+        <card number="1" name="KH Olympus Cup"/>
     </zone>
     <zone name="tokens">
         <card number="1" name="KH Cornerstone of Light"/>
@@ -105,5 +106,6 @@
         <card number="1" name="KH Ephemer, Last Dandelion"/>
         <card number="1" name="KH Deep Space"/>
         <card number="1" name="KH Earthshaker (KH)"/>
+        <card number="1" name="KH Munny"/>
     </zone>
 </cockatrice_deck>
