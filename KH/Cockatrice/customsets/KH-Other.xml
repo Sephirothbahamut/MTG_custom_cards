@@ -11,7 +11,7 @@
 
 		<card>
 			<name>KH Treasure (PoC)</name>
-			
+			<token>1</token>
 			<set rarity="common"></set>
 			<prop>
 				<colors></colors>

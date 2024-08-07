@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name>spyro_tokens</name>
+			<longname>spyro_tokens</longname>
+			<settype>spyro_tokens</settype>
+		</set>
+	</sets>
+	<cards>
+
+		<card>
+			<name>Spyro Dragon Egg</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Sacrifice Dragon Egg: Exile a Dragon creature from your hand with a number of time counters equal to that creature’s mana value minus one. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.</text>
+		</card>
+		<card>
+			<name>Spyro Dragonfly Token</name>
+			<token>1</token>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Creature - Insect </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Sacrifice Dragonfly Token, {T}: Regenerate target creature.</text>
+		</card>
+
+		<!-->Tokens</-->
+
+
+	</cards>
+</cockatrice_carddatabase>

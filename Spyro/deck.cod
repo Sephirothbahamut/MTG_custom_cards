@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Spyro Aether Element"/>
+        <card number="1" name="Spyro Agent 9 the Monkey"/>
+        <card number="1" name="Spyro Alpine Ridge"/>
+        <card number="1" name="Spyro Artisans, Homeworld"/>
+        <card number="1" name="Spyro Autumn Plains"/>
+        <card number="1" name="Spyro Beast-Makers, Homeworld"/>
+        <card number="1" name="Spyro Belt of Fire"/>
+        <card number="1" name="Spyro Bentley the Yeti"/>
+        <card number="1" name="Spyro Bianca the Rabbit"/>
+        <card number="1" name="Spyro Blink the Mole"/>
+        <card number="1" name="Spyro Blowhard"/>
+        <card number="1" name="Spyro Burned Lands"/>
+        <card number="1" name="Spyro Celestial Caves"/>
+        <card number="1" name="Spyro Cliff Town"/>
+        <card number="1" name="Spyro Convexity"/>
+        <card number="1" name="Spyro Corruption"/>
+        <card number="1" name="Spyro Cynder"/>
+        <card number="1" name="Spyro Cyril"/>
+        <card number="1" name="Spyro Dante's Freezer"/>
+        <card number="1" name="Spyro Dark Aether Element "/>
+        <card number="1" name="Spyro Dark Hollow"/>
+        <card number="1" name="Spyro Dark Passage"/>
+        <card number="1" name="Spyro Doctor Shemp"/>
+        <card number="1" name="Spyro Dragon Temple"/>
+        <card number="1" name="Spyro Dragon Time"/>
+        <card number="1" name="Spyro Dream-Weavers, Homeworld"/>
+        <card number="1" name="Spyro Dry Canyon"/>
+        <card number="1" name="Spyro Earth Element "/>
+        <card number="1" name="Spyro Egg Thief"/>
+        <card number="1" name="Spyro Electricity Element "/>
+        <card number="1" name="Spyro Elemental Dreams"/>
+        <card number="1" name="Spyro Fear Element "/>
+        <card number="1" name="Spyro Fire Element "/>
+        <card number="1" name="Spyro Gabrielle the Winter Fairy"/>
+        <card number="1" name="Spyro Haunted Towers"/>
+        <card number="1" name="Spyro High Caves"/>
+        <card number="1" name="Spyro Hot Air Balloon"/>
+        <card number="1" name="Spyro Hunter the Cheetah"/>
+        <card number="1" name="Spyro Ice Cavern"/>
+        <card number="1" name="Spyro Ice Element "/>
+        <card number="1" name="Spyro Ignitus"/>
+        <card number="1" name="Spyro Isabelle the Fairy"/>
+        <card number="1" name="Spyro Jaques"/>
+        <card number="1" name="Spyro Life Crystal"/>
+        <card number="1" name="Spyro Lofty Castle"/>
+        <card number="1" name="Spyro Magic-Crafters, Homeworld"/>
+        <card number="1" name="Spyro Malefor"/>
+        <card number="1" name="Spyro Mana Crystal"/>
+        <card number="1" name="Spyro Metalhead"/>
+        <card number="1" name="Spyro Misty Bog"/>
+        <card number="1" name="Spyro Moneybags the Bear"/>
+        <card number="1" name="Spyro Peace-Keepers, Homeworld"/>
+        <card number="1" name="Spyro Poison Element "/>
+        <card number="1" name="Spyro Sgt James Bird the Penguin"/>
+        <card number="1" name="Spyro Shadow Element "/>
+        <card number="1" name="Spyro Sheila the Cangaroo"/>
+        <card number="1" name="Spyro Sorcerer"/>
+        <card number="1" name="Spyro Sorceress"/>
+        <card number="1" name="Spyro Soul Crystal"/>
+        <card number="1" name="Spyro Sparx"/>
+        <card number="1" name="Spyro Spyro"/>
+        <card number="1" name="Spyro Stone Hill"/>
+        <card number="1" name="Spyro Summer Forest"/>
+        <card number="1" name="Spyro Swamp"/>
+        <card number="1" name="Spyro Terrace Village"/>
+        <card number="1" name="Spyro Terrador"/>
+        <card number="1" name="Spyro The Chronicler"/>
+        <card number="1" name="Spyro The Destroyer"/>
+        <card number="1" name="Spyro The Golem"/>
+        <card number="1" name="Spyro Time Fury"/>
+        <card number="1" name="Spyro Toasty"/>
+        <card number="1" name="Spyro Town Square"/>
+        <card number="1" name="Spyro Tree Tops"/>
+        <card number="1" name="Spyro Volteer"/>
+        <card number="1" name="Spyro Warfang"/>
+        <card number="1" name="Spyro Water Element "/>
+        <card number="1" name="Spyro Wind Element "/>
+        <card number="1" name="Spyro Winter Tundra"/>
+        <card number="1" name="Spyro Wizard Peak"/>
+        <card number="1" name="Spyro Zoe the Autumn Fairy"/>
+        <card number="1" name="KH Chromatic Lantern"/>
+    </zone>
+    <zone name="tokens">
+        <card number="1" name="Spyro Dragon Egg"/>
+        <card number="1" name="Spyro Dragonfly Token"/>
+    </zone>
+</cockatrice_deck>

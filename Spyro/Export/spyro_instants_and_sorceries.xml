@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name></name>
+      <longname></longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Spyro Time Fury</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>2PP</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Your state and the state of permanents you control cannot change until your next untap step. (State includes life, counters, marked damage, permanents ownership, floating mana, ...)
+You can still advance your game phases and steps.  </text>
+    </card>
+    <card>
+      <name>Spyro Dragon Time</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>2PP</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one:
+• When this phase ends, there is another phase of the same type.
+• Skip the next three phases.
+(Phases are: Beginning phase, pre-combat main phase, combat phase, post-combat main phase, ending phase.)</text>
+    </card>
+    <card>
+      <name>Spyro Belt of Fire</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Belt of Fire deals 2 damage to all attacking permanents opponents control.</text>
+    </card>
+    <card>
+      <name>Spyro Corruption</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>P/B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Flashback P/BP/B
+Choose one:
+• Transform target permanent.
+• Take control of target permanent until end of turn.</text>
+    </card>
+    <card>
+      <name>Spyro Hot Air Balloon</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, return target land to your Library: Search your library for an Homeworld land, then put it on the battlefield.</text>
+    </card>
+    <card>
+      <name>Spyro Shadowstone</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Transform target creature.
+{T}: Target creature phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)
+{T}: Target creature gains shadow until end of turn. (That creature can block or be blocked by only creatures with shadow.)</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>

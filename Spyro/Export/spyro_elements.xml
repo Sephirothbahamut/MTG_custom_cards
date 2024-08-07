@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>spyro_elements</name>
+      <longname>spyro_elements</longname>
+      <settype>spyro_elements</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Spyro Fire Element </name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2/RR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Empowerment </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Empower red Dragon (Attach to red Dragon you control and detach other empowerments from that permanent. This card becomes an Aura with “enchant permanent” for as long as it remains attached.)
+Enchanted creature gets +3/+1.
+2R: Enchanted creature gains trample and indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Spyro Electricity Element </name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2/WW</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Empowerment </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Empower white Dragon (Attach to white Dragon you control and detach other empowerments from that permanent. This card becomes an Aura with “enchant permanent” for as long as it remains attached.)
+Enchanted creature gets +2/+1.
+Whenever enchanted creature deals damage to a creature, put a stun counter on that creature.
+XW: Tap up to X target permanents, then enchanted creature deals 1 damage to those permanents.</text>
+    </card>
+    <card>
+      <name>Spyro Earth Element </name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2/GG</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Empowerment </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Empower green Dragon (Attach to green Dragon you control and detach other empowerments from that permanent. This card becomes an Aura with “enchant permanent” for as long as it remains attached.)
+Enchanted creature gets +0/+4 and gains vigilance and trample.
+2G: Enchanted creature gains indestructible and hexproof until end of turn.</text>
+    </card>
+    <card>
+      <name>Spyro Ice Element </name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2/UU</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Empowerment </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Empower blue Dragon
+Enchanted creature gets -1/+2 and gains triple strike. (That creature deals first-strike, regular, and last-strike combat damage.)
+2U: Enchanted creature gains splash damage 2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Spyro Wind Element </name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2/WW</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Empowerment </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Empower white Dragon
+Whenever enchanted creature deals damage to a permanent, you may pay {2}, and if you do return that permanent to its owner’s hands.
+2W: Enchanted creature deals 1 damage to up to three different targets.</text>
+    </card>
+    <card>
+      <name>Spyro Fear Element </name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2/RR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Empowerment </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Empower red Dragon
+Whenever enchanted creature deals damage a creature, you may pay {2}, and if you do that creature fights target creature.
+XR: Enchanted creature deals 1 damage to target up to X different creatures.</text>
+    </card>
+    <card>
+      <name>Spyro Poison Element </name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2/GG</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Empowerment </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Empower green Dragon (Attach to green Dragon you control and detach other empowerments from that permanent. This card becomes an Aura with “enchant permanent” for as long as it remains attached.)
+Enchanted creature gains infect.
+{2}: Put a -1/-1 counter on target creature with at least one -1/-1 counter.</text>
+    </card>
+    <card>
+      <name>Spyro Shadow Element </name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2/UU</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Empowerment </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Empower blue Dragon (Attach to blue Dragon you control and detach other empowerments from that permanent. This card becomes an Aura with “enchant permanent” for as long as it remains attached.)
+Enchanted creature gets +2/+1.
+2U: Enchanted creature gains shadow until end of turn.</text>
+    </card>
+    <card>
+      <name>Spyro Water Element </name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Empowerment </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Empower blue Dragon (Attach to blue Dragon you control and detach other empowerments from that permanent. This card becomes an Aura with “enchant permanent” for as long as it remains attached.)
+Whenever enchanted creature deals damage, create that many Dragonfly tokens.</text>
+    </card>
+    <card>
+      <name>Spyro Aether Element</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3/PPP</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Spyro Dark Aether Element </name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3/BBB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>

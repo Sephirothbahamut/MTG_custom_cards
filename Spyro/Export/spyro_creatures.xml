@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name>spyro_creatures</name>
+			<longname>spyro_creatures</longname>
+			<settype>spyro_creatures</settype>
+		</set>
+	</sets>
+	<cards>
+
+		<card>
+			<name>Spyro Spyro</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>LLP</manacost>
+				<cmc>2</cmc>
+				<type>Legendary Creature - Dragon </type>
+				<maintype>Creature</maintype>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+Whenever a creature you control is destroyed, transform Spyro.
+Partner with Cynder</text>
+
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">Spyro Dark Spyro</related>
+		</card>
+		<card>
+			<name>Spyro Dark Spyro</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>LPB</manacost>
+				<cmc>2</cmc>
+				<type>Legendary Creature - Dragon </type>
+				<maintype>Creature</maintype>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying, deathtouch
+Spyro must attack if able.
+At the beginning of your your end phase transform Spyro.</text>
+
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">Spyro Spyro</related>
+		</card>
+		<card>
+			<name>Spyro Cynder</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>P/BLL</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Dragon </type>
+				<maintype>Creature</maintype>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying, first strike
+{3}, {Q}: Cynder gains swift until end of turn. (This permanent only takes first strike damage.)
+Partner with Spyro</text>
+
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">Spyro Corrupted Cynder</related>
+		</card>
+		<card>
+			<name>Spyro Corrupted Cynder</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>UBR</colors>
+				<manacost>BU/B/RU/B/RU/B/R</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Dragon </type>
+				<maintype>Creature</maintype>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+At the beginning of your upkeep, choose one:
+• Cynder gains menace until end of turn.
+• Cynder gains fear until end of turn.</text>
+
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">Spyro Cynder</related>
+		</card>
+		<card>
+			<name>Spyro Malefor</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>LLPB</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Dragon </type>
+				<maintype>Creature</maintype>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying, menace
+{B/P}: Transform target permanent.
+BB/PP: Take control of target permanent.</text>
+		</card>
+		<card>
+			<name>Spyro Sorcerer</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>PP/BP/BB</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Dragon </type>
+				<maintype>Creature</maintype>
+				<pt>2/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying, menace, trample
+2P, {T}: Sorcerer deals 5 damage to any target.</text>
+		</card>
+		<card>
+			<name>Spyro Sparx</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Legendary Creature - Insect </type>
+				<maintype>Creature</maintype>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+Sparx enters the battlefield with a +1/+1 counter.
+Whenever you destroy a creature, put a +1/+1 counter on Sparx.
+{T}, remove a +1/+1 counter from Sparx: Regenerate target creature.</text>
+		</card>
+		<card>
+			<name>Spyro Blink the Mole</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Legendary Creature - Mole </type>
+				<maintype>Creature</maintype>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Reach, first strike
+{2}: Blink gets +3/+0 and gains trample until end of turn.</text>
+		</card>
+		<card>
+			<name>Spyro Sheila the Cangaroo</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Legendary Creature</type>
+				<maintype>Creature</maintype>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)</text>
+		</card>
+		<card>
+			<name>Spyro Bentley the Yeti</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Legendary Creature - Yeti </type>
+				<maintype>Creature</maintype>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Last strike (This creature deals combat damage after creatures without last strike.)</text>
+		</card>
+		<card>
+			<name>Spyro Bianca the Rabbit</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Legendary Creature - Rabbit </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Whenever Bianca phases in, create a Dragon Egg token.
+Bianca gets +1/+1 for each Dragon or Dragon Egg you control.
+{T}: Bianca phases out.</text>
+		</card>
+		<card>
+			<name>Spyro Hunter the Cheetah</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Legendary Creature - Cat </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>First strike (This creature deals combat damage before creatures without first strike.)
+Reach (This creature can block creatures with flying.)</text>
+		</card>
+		<card>
+			<name>Spyro Sgt James Bird the Penguin</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Legendary Creature</type>
+				<maintype>Creature</maintype>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying, triple strike (This creature deals first-strike, regular, and last-strike combat damage.)</text>
+		</card>
+		<card>
+			<name>Spyro Sorceress</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Dinosaur </type>
+				<maintype>Creature</maintype>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{T}: Target creature gets +1/+1 and must attack if able.
+{T}, Sacrifice three Dragon Eggs: Target creature gets +3/+3, must attack if able, and loses all its other abilities.</text>
+		</card>
+		<card>
+			<name>Spyro Agent 9 the Monkey</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Legendary Creature - Monkey </type>
+				<maintype>Creature</maintype>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Reach, forestwalk (This creature can’t be blocked as long as defending player controls a forest.)</text>
+		</card>
+		<card>
+			<name>Spyro Gabrielle the Winter Fairy</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<type>Legendary Creature - Fairy </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+When Gabrielle the Winter Fairy enters the battlefield, search your library for a blue enchantment and add it to your hand.</text>
+		</card>
+		<card>
+			<name>Spyro Isabelle the Fairy</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<type>Legendary Creature - Fairy </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+When Isabelle the Fairy enters the battlefield, create a Dragon Egg token.</text>
+		</card>
+		<card>
+			<name>Spyro Zoe the Autumn Fairy</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<type>Legendary Creature - Fairy </type>
+				<maintype>Creature</maintype>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+When Zoe the Autumn Fairy enters the battlefield, return target permanent from your graveyard to your hand.
+RR, {T}: Target red creature gains +3/+0 until end of turn.</text>
+		</card>
+		<card>
+			<name>Spyro The Golem</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Golem </type>
+				<maintype>Creature</maintype>
+				<pt>1/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Last strike (This creature deals combat damage after creatures without last strike.)
+The Golem takes damage in the form of +1/-1 counters.
+BB, {T}: Destroy target artifact and put as many -1/+1 counters on the Golem as that artifact’s mana value.</text>
+		</card>
+		<card>
+			<name>Spyro The Destroyer</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<type>Legendary Creature - Golem </type>
+				<maintype>Creature</maintype>
+			<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Ring of Annihilation — The Destroyer deals 1 damage to all permanents attacking it.
++3: You lose 5 life.
++1: The Destroyer gains hexproof.
+-9: Exile The Destroyer, then cast it transformed.</text>
+
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">Spyro Great Cleansing</related>
+		</card>
+		<card>
+			<name>Spyro Great Cleansing</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>B</colors>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<type>Legendary Instant</type>
+				<maintype>Instant</maintype>
+			<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Destroy all permanents, hands and libraries.</text>
+
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">Spyro The Destroyer</related>
+		</card>
+		<card>
+			<name>Spyro Moneybags the Bear</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Bear </type>
+				<maintype>Creature</maintype>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{2}, {T}: Search your library for a creature with mana value 2 or less and add it to your hand.
+{3}, {T}: Search your library for a creature with mana value 2 or less and add put it on the battlefield.</text>
+		</card>
+
+		<card>
+			<name>Spyro Tomas</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Dagon Elder </type>
+				<maintype>Creature</maintype>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{L}, {T}: Add P.
+{P}: Add one mana of any color.</text>
+		</card>
+		<card>
+			<name>Spyro Magnus</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>R</colors>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Dagon Elder </type>
+				<maintype>Creature</maintype>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{2}, {T}: Put a swift counter on target creature, then add {1} to the cost of this ability. (This permanent only takes first strike damage.)</text>
+		</card>
+		<card>
+			<name>Spyro Titan</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Dagon Elder </type>
+				<maintype>Creature</maintype>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{1}, {T}: Put a trample counter on target creature. (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)</text>
+		</card>
+		<card>
+			<name>Spyro Astor</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Dagon Elder </type>
+				<maintype>Creature</maintype>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{1}, {T}: Put an Enhancement counter on target permanent. (Permanents with Enhancement counters give that much power and toughness to permanents they are attached to.)</text>
+		</card>
+		<card>
+			<name>Spyro Red</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BR</colors>
+				<manacost>3B/R</manacost>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Dagon Elder </type>
+				<maintype>Creature</maintype>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>BBB, {T}: Destroy target creature. (Permanents with Enhancement counters give that much power and toughness to permanents they are attached to.)</text>
+		</card>
+		<card>
+			<name>Spyro Ignitus</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>R</colors>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Dragon Guardian </type>
+				<maintype>Creature</maintype>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+When Ignitus enters the battlefield return a Fire Element from your graveyard to your hand, or search your Library for a Fire Element and add it to your hand.</text>
+		</card>
+		<card>
+			<name>Spyro Cyril</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>U</colors>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Dragon Guardian </type>
+				<maintype>Creature</maintype>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying, vigilance
+When Cyril enters the battlefield return an Ice Element from your graveyard to your hand, or search your Library for an Ice Element and add it to your hand.</text>
+		</card>
+		<card>
+			<name>Spyro Volteer</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>W</colors>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Dragon Guardian </type>
+				<maintype>Creature</maintype>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying, first strike
+When Volteer enters the battlefield return an Electricity Element from your graveyard to your hand, or search your Library for an Electricity Element and add it to your hand.</text>
+		</card>
+		<card>
+			<name>Spyro Terrador</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>G</colors>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Dragon Guardian </type>
+				<maintype>Creature</maintype>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>Flying, trample
+When Terrador enters the battlefield return an Earth Element from your graveyard to your hand, or search your Library for an Earth Element and add it to your hand.</text>
+		</card>
+		<card>
+			<name>Spyro The Chronicler</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Dragon Guardian </type>
+				<maintype>Creature</maintype>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<text>{X}, {T}: Scry X.</text>
+		</card>
+		<!-->Tokens</-->
+
+
+	</cards>
+</cockatrice_carddatabase>

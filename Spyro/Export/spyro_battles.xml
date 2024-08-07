@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name></name>
+      <longname></longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Spyro Egg Thief</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Battle - Resource </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(You may play resources from your graveyard by paying their cost plus {1} for each time a resource has been played from your graveyard.)
+Swift (This permanent only takes first strike damage.)
+When Egg Thief is destroyed, create a Dragon Egg token.</text>
+    </card>
+    <card>
+      <name>Spyro Life Crystal</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Battle - Resource </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(You may play resources from your graveyard by paying their cost plus 1 for each time a resource has been played from your graveyard.)
+When Life Crystal, is destroyed gain 5 life.</text>
+    </card>
+    <card>
+      <name>Spyro Mana Crystal</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Battle - Resource </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(You may play resources from your graveyard by paying their cost plus 1 for each time a resource has been played from your graveyard.)
+When Mana Crystal is destroyed, add four mana of any color. Until end of turn, you don’t lose this mana as steps and phases end.</text>
+    </card>
+    <card>
+      <name>Spyro Soul Crystal</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Battle - Resource </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(You may play resources from your graveyard by paying their cost plus 1 for each time a resource has been played from your graveyard.)
+When Soul Crystal is destroyed, put an Enhancement counter on target permanent. (Permanents with Enhancement counters give that much power and toughness to permanents they are attached to.)</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name>spyro_lands</name>
+			<longname>spyro_lands</longname>
+			<settype>spyro_lands</settype>
+		</set>
+	</sets>
+	<cards>
+
+		<card>
+			<name>Spyro Elemental Dreams</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Elemental Dreams enters the battlefield tapped.
+As Elemental Dreams enters the battlefield, choose a color among white, blue, red and green.
+{T}: Add one mana of the chosen color.
+LL, {T}: Return an Empowerment of the chosen color from your graveyard to your hand, or search your Library for an Empowerment of the chosen color and add it to your hand.</text>
+		</card>
+		<card>
+			<name>Spyro Celestial Caves</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{1}, {T}: Add {P}.
+{T}: Add three mana of any color. Activate only if your life total is lower than or equal to half of your starting life total.</text>
+		</card>
+		<card>
+			<name>Spyro Convexity</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Convexity enters the battlefield tapped.
+{T}: Add {B} or {P}.
+When Convexity enters the battlefield you may pay {2}, and if you do banish target permanent from the battlefield or from your library.
+RGWU: Return the banished permanent to the battlefield under your control.</text>
+		</card>
+		<card>
+			<name>Spyro Warfang</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Warfang enters the battlefield tapped.
+{T}: Add {W}, {U}, {R} or {G}. </text>
+
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">Spyro Ruins of Warfang</related>
+		</card>
+		<card>
+			<name>Spyro Ruins of Warfang</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add RGWU. 
+{T}: Add PB.</text>
+
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">Spyro Warfang</related>
+		</card>
+		<card>
+			<name>Spyro Swamp</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {U}.
+{1}, {T}: Create a Dragonfly Token.</text>
+
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">Spyro Ancient Grove</related>
+		</card>
+		<card>
+			<name>Spyro Ancient Grove</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add UB.
+{T}: Add UP.</text>
+
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">Spyro Swamp</related>
+		</card>
+		<card>
+			<name>Spyro Dragon Temple</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>Dragon Temple enters the battlefield tapped.
+{T}: Add {W}, {U}, {R} or {G}. You cannot choose the same color you’ve chosen the previous turn.
+{T}: Tap target creature you control. Then search your library for an Empowerment and put it on the battlefield attached to that creature. Activate only during your pre-combat main phase.</text>
+
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="transform">Spyro Floating Islands</related>
+		</card>
+		<card>
+			<name>Spyro Floating Islands</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {W}, {U}, {R} or {G}, then add {B} or {P}.</text>
+			
+			<layout>transform</layout>
+			<side>back</side>
+			<related attach="transform">Spyro Dragon Temple</related>
+		</card>
+		<card>
+			<name>Spyro Burned Lands</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors>BR</colors>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<type>Enchantment - Aura </type>
+				<maintype>Enchantment</maintype>
+			</prop>
+			<tablerow>1</tablerow>
+			<text>Enchant land
+You control enchanted land.
+Any mana produced by enchanted land becomes {R} or {B}.</text>
+		</card>
+		<card>
+			<name>Spyro Dante&apos;s Freezer</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}, pay 1 life: Add {U}.
+{T}, pay 2 life: Add {B}.</text>
+		</card>
+		<card>
+			<name>Spyro Summer Forest</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {R} or {U}.
+Partner with Autumn Plains (When this permanent enters the battlefield, target player may put Autumn Plains into their hand from their library, then shuffle.)</text>
+		</card>
+		<card>
+			<name>Spyro Autumn Plains</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {R} or {G}.
+Partner with Winter Tundra (When this permanent enters the battlefield, target player may put Winter Tundra into their hand from their library, then shuffle.)</text>
+		</card>
+		<card>
+			<name>Spyro Winter Tundra</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {W}, {U} or {R}.</text>
+		</card>
+		<card>
+			<name>Spyro Artisans, Homeworld</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land - Homeworld </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Untap target Artisans land.
+{T}: Search your library for an Artisans land card and add it to your hand. You may pay {1}, if you do put it on the battlefield instead.</text>
+		</card>
+		<card>
+			<name>Spyro Stone Hill</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Artisans Forest </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {G}.)</text>
+		</card>
+		<card>
+			<name>Spyro Town Square</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Artisans Plains </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {W}.)</text>
+		</card>
+		<card>
+			<name>Spyro Dark Hollow</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Artisans Island </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {U}.)</text>
+		</card>
+		<card>
+			<name>Spyro Toasty</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Artisans Swamp </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {B}.)</text>
+		</card>
+		<card>
+			<name>Spyro Peace-Keepers, Homeworld</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land - Homeworld </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Untap target Peace-Keepers land.
+{T}: Search your library for a Peace-Keepers land card and add it to your hand. You may pay {1}, if you do put it on the battlefield instead.</text>
+		</card>
+		<card>
+			<name>Spyro Dry Canyon</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Peace-Keepers Plains </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {W}.)</text>
+		</card>
+		<card>
+			<name>Spyro Cliff Town</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Peace-Keepers Mountain </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {R}.)</text>
+		</card>
+		<card>
+			<name>Spyro Ice Cavern</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Peace-Keepers Island </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {U}.)</text>
+		</card>
+		<card>
+			<name>Spyro Doctor Shemp</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Peace-Keepers Aetherland </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {P}.)</text>
+		</card>
+		<card>
+			<name>Spyro Magic-Crafters, Homeworld</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land - Homeworld </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Untap target Magic-Crafters land.
+{T}: Search your library for a Magic-Crafters land card and add it to your hand. You may pay {1}, if you do put it on the battlefield instead.</text>
+		</card>
+		<card>
+			<name>Spyro Alpine Ridge</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Magic-Crafters Island </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {U}.)</text>
+		</card>
+		<card>
+			<name>Spyro High Caves</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Magic-Crafters Forest </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {G}.)</text>
+		</card>
+		<card>
+			<name>Spyro Wizard Peak</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Magic-Crafters Mountain </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {R}.)</text>
+		</card>
+		<card>
+			<name>Spyro Blowhard</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Magic-Crafters Aetherland </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {P}.)</text>
+		</card>
+		<card>
+			<name>Spyro Beast-Makers, Homeworld</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land - Homeworld </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Untap target Beast-Makers land.
+{T}: Search your library for a Beast-Makers land card and add it to your hand. You may pay {1}, if you do put it on the battlefield instead.</text>
+		</card>
+		<card>
+			<name>Spyro Terrace Village</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Beast-Makers Mountain </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {R}.)</text>
+		</card>
+		<card>
+			<name>Spyro Misty Bog</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Beast-Makers Island </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {U}.)</text>
+		</card>
+		<card>
+			<name>Spyro Tree Tops</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Beast-Makers Forest </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {G}.)</text>
+		</card>
+		<card>
+			<name>Spyro Metalhead</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Beast-Makers Swamp </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {B}.)</text>
+		</card>
+		<card>
+			<name>Spyro Dream-Weavers, Homeworld</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Legendary Land - Homeworld </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>{T}: Untap target Dream-Weavers land.
+{T}: Search your library for a Dream-Weavers land card and add it to your hand. You may pay {1}, if you do put it on the battlefield instead.</text>
+		</card>
+		<card>
+			<name>Spyro Dark Passage</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Dream-Weavers Forest </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {G}.)</text>
+		</card>
+		<card>
+			<name>Spyro Lofty Castle</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Dream-Weavers Mountain </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {R}.)</text>
+		</card>
+		<card>
+			<name>Spyro Haunted Towers</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Dream-Weavers Plains </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {W}.)</text>
+		</card>
+		<card>
+			<name>Spyro Jaques</name>
+			<set rarity="common"></set>
+			<prop>
+				<colors></colors>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<type>Land - Dream-Weavers Swamp </type>
+				<maintype>Land</maintype>
+			</prop>
+			<tablerow>0</tablerow>
+			<text>({T}: Add {B}.)</text>
+		</card>
+
+		<!-->Tokens</-->
+
+
+	</cards>
+</cockatrice_carddatabase>
