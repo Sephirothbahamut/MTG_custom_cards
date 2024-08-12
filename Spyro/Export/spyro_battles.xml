@@ -14,8 +14,8 @@
       <set rarity="common"></set>
       <prop>
         <colors></colors>
-        <manacost>1</manacost>
-        <cmc>1</cmc>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
         <type>Battle - Resource </type>
         <maintype>Battle</maintype>
       </prop>
@@ -29,13 +29,13 @@ When Egg Thief is destroyed, create a Dragon Egg token.</text>
       <set rarity="common"></set>
       <prop>
         <colors></colors>
-        <manacost>1</manacost>
-        <cmc>1</cmc>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
         <type>Battle - Resource </type>
         <maintype>Battle</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(You may play resources from your graveyard by paying their cost plus 1 for each time a resource has been played from your graveyard.)
+      <text>(You may play resources from your graveyard by paying their cost plus {1} for each time this resource has been played from your graveyard.)
 When Life Crystal, is destroyed gain 5 life.</text>
     </card>
     <card>
@@ -43,17 +43,59 @@ When Life Crystal, is destroyed gain 5 life.</text>
       <set rarity="common"></set>
       <prop>
         <colors></colors>
-        <manacost>1</manacost>
-        <cmc>1</cmc>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
         <type>Battle - Resource </type>
         <maintype>Battle</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(You may play resources from your graveyard by paying their cost plus 1 for each time a resource has been played from your graveyard.)
+      <text>(You may play resources from your graveyard by paying their cost plus {1} for each time this resource has been played from your graveyard.)
 When Mana Crystal is destroyed, add four mana of any color. Until end of turn, you don’t lose this mana as steps and phases end.</text>
     </card>
     <card>
       <name>Spyro Soul Crystal</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Battle - Resource </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(You may play resources from your graveyard by paying their cost plus {1} for each time this resource has been played from your graveyard.)
+When Soul Crystal is destroyed, put an Enhancement counter on target permanent. (Permanents with Enhancement counters give that much power and toughness to permanents they are attached to.)</text>
+    </card>
+    <card>
+      <name>Spyro 1-Up Chest</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Battle - Resource </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(You may play resources from your graveyard by paying their cost plus 1 for each time this resource has been played from your graveyard.)
+When 1-Up Chest is destroyed, put a shield counter on target permanent. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
+    </card>
+    <card>
+      <name>Spyro Metal Chest</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Battle - Resource </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(You may play resources from your graveyard by paying their cost plus 1 for each time this resource has been played from your graveyard.)
+When Metal Chest is destroyed, create two Treasure tokens.</text>
+    </card>
+    <card>
+      <name>Spyro Lock Chest</name>
       <set rarity="common"></set>
       <prop>
         <colors></colors>
@@ -63,8 +105,22 @@ When Mana Crystal is destroyed, add four mana of any color. Until end of turn, y
         <maintype>Battle</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(You may play resources from your graveyard by paying their cost plus 1 for each time a resource has been played from your graveyard.)
-When Soul Crystal is destroyed, put an Enhancement counter on target permanent. (Permanents with Enhancement counters give that much power and toughness to permanents they are attached to.)</text>
+      <text>(You may play resources from your graveyard by paying their cost plus 1 for each time this resource has been played from your graveyard.)
+When Lock Chest is destroyed, create two Treasure tokens and a Dragon Egg token.</text>
+    </card>
+    <card>
+      <name>Spyro Fireworks</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Battle - Resource </type>
+        <maintype>Battle</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(You may play resources from your graveyard by paying their cost plus 1 for each time this resource has been played from your graveyard.)
+When Fireworks is destroyed, deal 3 damage to any target.</text>
     </card>
 
     <!-->Tokens</-->

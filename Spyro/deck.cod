@@ -39,7 +39,6 @@
         <card number="1" name="Spyro Gabrielle the Winter Fairy"/>
         <card number="1" name="Spyro Haunted Towers"/>
         <card number="1" name="Spyro High Caves"/>
-        <card number="1" name="Spyro Hot Air Balloon"/>
         <card number="1" name="Spyro Hunter the Cheetah"/>
         <card number="1" name="Spyro Ice Cavern"/>
         <card number="1" name="Spyro Ice Element "/>
@@ -84,6 +83,20 @@
         <card number="1" name="Spyro Wizard Peak"/>
         <card number="1" name="Spyro Zoe the Autumn Fairy"/>
         <card number="1" name="KH Chromatic Lantern"/>
+        <card number="1" name="Spyro Astor"/>
+        <card number="1" name="Spyro Magnus"/>
+        <card number="1" name="Spyro Red"/>
+        <card number="1" name="Spyro Titan"/>
+        <card number="1" name="Spyro Tomas"/>
+        <card number="1" name="Spyro Shadowstone"/>
+        <card number="1" name="Spyro Hot Air Balloon"/>
+        <card number="1" name="Spyro Elemental Fury"/>
+        <card number="1" name="Spyro 1-Up Chest"/>
+        <card number="1" name="Spyro Metal Chest"/>
+        <card number="1" name="Spyro Lock Chest"/>
+        <card number="1" name="Spyro Fireworks"/>
+        <card number="1" name="KH Arcane Signet"/>
+        <card number="1" name="KH Daybreak Town"/>
     </zone>
     <zone name="tokens">
         <card number="1" name="Spyro Dragon Egg"/>

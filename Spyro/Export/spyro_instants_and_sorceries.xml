@@ -92,9 +92,22 @@ Choose one:
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>{T}: Transform target creature.
-{T}: Target creature phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)
-{T}: Target creature gains shadow until end of turn. (That creature can block or be blocked by only creatures with shadow.)</text>
+      <text>{T}: Transform target permanent.
+{T}: Target permanent phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)
+{P/B}, {T}: Target creature gains shadow until end of turn. (That creature can block or be blocked by only creatures with shadow.)</text>
+    </card>
+    <card>
+      <name>Spyro Elemental Fury</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target Dragon deals damage equal to its power to all permanents you don’t control, then sacrifice that Dragon unless all mana spent to cast this spell was of the same color.</text>
     </card>
 
     <!-->Tokens</-->

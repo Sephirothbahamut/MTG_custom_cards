@@ -155,7 +155,9 @@ Whenever enchanted creature deals damage, create that many Dragonfly tokens.</te
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text></text>
+      <text>Enchant purple Dragon.
+Enchanted creature gets +5/+5 and gains lifelink.
+Exile enchanted creature: Gain 20 life, then you may pay any amount of life, and if you do, return X permanents from your graveyard to the battlefield under your control, where X is one third of the life spent this way. If the exiled creature is your commander, it cannot return to the command zone.</text>
     </card>
     <card>
       <name>Spyro Dark Aether Element </name>
@@ -168,7 +170,10 @@ Whenever enchanted creature deals damage, create that many Dragonfly tokens.</te
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text></text>
+      <text>Enchant black Dragon.
+Enchanted creature gets +5/+5 and gains deathtouch.
+T: Transform target permanent.
+T: Take control of target permanent until your next upkeep, then untap it.</text>
     </card>
 
     <!-->Tokens</-->

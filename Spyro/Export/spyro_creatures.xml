@@ -54,7 +54,7 @@ At the beginning of your your end phase transform Spyro.</text>
 			<set rarity="common"></set>
 			<prop>
 				<colors>B</colors>
-				<manacost>P/BLL</manacost>
+				<manacost>LLP/B</manacost>
 				<cmc>3</cmc>
 				<type>Legendary Creature - Dragon </type>
 				<maintype>Creature</maintype>
@@ -74,7 +74,7 @@ Partner with Spyro</text>
 			<set rarity="common"></set>
 			<prop>
 				<colors>UBR</colors>
-				<manacost>BU/B/RU/B/RU/B/R</manacost>
+				<manacost>U/B/RU/B/RU/B/RB</manacost>
 				<cmc>4</cmc>
 				<type>Legendary Creature - Dragon </type>
 				<maintype>Creature</maintype>
@@ -104,7 +104,7 @@ At the beginning of your upkeep, choose one:
 			<tablerow>2</tablerow>
 			<text>Flying, menace
 {B/P}: Transform target permanent.
-BB/PP: Take control of target permanent.</text>
+BB/PP: Take control of target permanent until your next upkeep, then untap it.</text>
 		</card>
 		<card>
 			<name>Spyro Sorcerer</name>
@@ -332,7 +332,7 @@ BB, {T}: Destroy target artifact and put as many -1/+1 counters on the Golem as 
 			<text>Ring of Annihilation — The Destroyer deals 1 damage to all permanents attacking it.
 +3: You lose 5 life.
 +1: The Destroyer gains hexproof.
--9: Exile The Destroyer, then cast it transformed.</text>
+-10: Exile The Destroyer, then cast it transformed.</text>
 
 			<layout>transform</layout>
 			<side>front</side>
@@ -498,7 +498,7 @@ When Volteer enters the battlefield return an Electricity Element from your grav
 				<cmc>3</cmc>
 				<type>Legendary Creature - Dragon Guardian </type>
 				<maintype>Creature</maintype>
-				<pt>1/4</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<text>Flying, trample

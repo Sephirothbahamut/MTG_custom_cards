@@ -53,7 +53,7 @@ LL, {T}: Return an Empowerment of the chosen color from your graveyard to your h
 			<text>Convexity enters the battlefield tapped.
 {T}: Add {B} or {P}.
 When Convexity enters the battlefield you may pay {2}, and if you do banish target permanent from the battlefield or from your library.
-RGWU: Return the banished permanent to the battlefield under your control.</text>
+RGWU, Sacrifice Convexity: Return the banished permanent to the battlefield under your control.</text>
 		</card>
 		<card>
 			<name>Spyro Warfang</name>
@@ -245,7 +245,7 @@ Partner with Winter Tundra (When this permanent enters the battlefield, target p
 			</prop>
 			<tablerow>0</tablerow>
 			<text>{T}: Untap target Artisans land.
-{T}: Search your library for an Artisans land card and add it to your hand. You may pay {1}, if you do put it on the battlefield instead.</text>
+{T}: Search your library for an Artisans land card and add it to your hand.</text>
 		</card>
 		<card>
 			<name>Spyro Stone Hill</name>
@@ -311,7 +311,7 @@ Partner with Winter Tundra (When this permanent enters the battlefield, target p
 			</prop>
 			<tablerow>0</tablerow>
 			<text>{T}: Untap target Peace-Keepers land.
-{T}: Search your library for a Peace-Keepers land card and add it to your hand. You may pay {1}, if you do put it on the battlefield instead.</text>
+{T}: Search your library for a Peace-Keepers land card and add it to your hand.</text>
 		</card>
 		<card>
 			<name>Spyro Dry Canyon</name>
@@ -377,7 +377,7 @@ Partner with Winter Tundra (When this permanent enters the battlefield, target p
 			</prop>
 			<tablerow>0</tablerow>
 			<text>{T}: Untap target Magic-Crafters land.
-{T}: Search your library for a Magic-Crafters land card and add it to your hand. You may pay {1}, if you do put it on the battlefield instead.</text>
+{T}: Search your library for a Magic-Crafters land card and add it to your hand.</text>
 		</card>
 		<card>
 			<name>Spyro Alpine Ridge</name>
@@ -443,7 +443,7 @@ Partner with Winter Tundra (When this permanent enters the battlefield, target p
 			</prop>
 			<tablerow>0</tablerow>
 			<text>{T}: Untap target Beast-Makers land.
-{T}: Search your library for a Beast-Makers land card and add it to your hand. You may pay {1}, if you do put it on the battlefield instead.</text>
+{T}: Search your library for a Beast-Makers land card and add it to your hand.</text>
 		</card>
 		<card>
 			<name>Spyro Terrace Village</name>
@@ -509,7 +509,7 @@ Partner with Winter Tundra (When this permanent enters the battlefield, target p
 			</prop>
 			<tablerow>0</tablerow>
 			<text>{T}: Untap target Dream-Weavers land.
-{T}: Search your library for a Dream-Weavers land card and add it to your hand. You may pay {1}, if you do put it on the battlefield instead.</text>
+{T}: Search your library for a Dream-Weavers land card and add it to your hand.</text>
 		</card>
 		<card>
 			<name>Spyro Dark Passage</name>
